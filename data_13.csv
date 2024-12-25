@@ -1,0 +1,800 @@
+﻿Ngày,Quận,Phường ,Loại hình,Tầng,Phòng ngủ,Diện tích,Giá/m2,Giá
+08/05/2020,Quận Hai Bà Trưng,Phường Đống Mác,"Nhà mặt phố, mặt tiền",6,5.00,32.00 ,184.38 ,5900.16
+08/05/2020,Quận Hà Đông,Phường Văn Quán,"Nhà ngõ, hẻm",4,3.00,41.00 ,64.63 ,2649.83
+08/05/2020,Quận Hoàng Mai,Phường Định Công,"Nhà ngõ, hẻm",5,4.00,30.00 ,83.33 ,2499.9
+08/05/2020,Quận Long Biên,Phường Bồ Đề,"Nhà ngõ, hẻm",5,4.00,52.00 ,93.27 ,4850.04
+08/05/2020,Quận Bắc Từ Liêm,Phường Cổ Nhuế 1,"Nhà ngõ, hẻm",2,2.00,57.00 ,83.33 ,4749.81
+08/05/2020,Quận Cầu Giấy,Phường Yên Hoà,"Nhà ngõ, hẻm",4,3.00,43.00 ,86.05 ,3700.15
+08/05/2020,Quận Cầu Giấy,Phường Dịch Vọng,"Nhà ngõ, hẻm",4,4.00,42.00 ,88.10 ,3700.2
+08/04/2020,Quận Long Biên,Phường Gia Thụy,"Nhà mặt phố, mặt tiền",2,3.00,70.00 ,102.86 ,7200.2
+08/04/2020,Quận Nam Từ Liêm,Phường Phương Canh,"Nhà ngõ, hẻm",5,3.00,32.00 ,51.56 ,1649.92
+08/04/2020,Quận Hà Đông,Phường Văn Quán,"Nhà ngõ, hẻm",5,6.00,65.00 ,75.38 ,4899.7
+08/04/2020,Quận Hoàng Mai,Phường Tương Mai,"Nhà ngõ, hẻm",5,4.00,45.00 ,64.44 ,2899.8
+08/04/2020,Quận Hà Đông,Phường La Khê,"Nhà mặt phố, mặt tiền",5,5.00,90.00 ,108.89 ,9800.1
+08/04/2020,Quận Nam Từ Liêm,Phường Tây Mỗ,"Nhà ngõ, hẻm",4,3.00,32.00 ,60.94 ,1950.08
+08/04/2020,Quận Cầu Giấy,Phường Nghĩa Đô,"Nhà ngõ, hẻm",5,5.00,45.00 ,95.56 ,4300.2
+08/04/2020,Huyện Thanh Trì,Xã Tả Thanh Oai,"Nhà ngõ, hẻm",3,2.00,42.00 ,29.76 ,1249.92
+08/04/2020,Quận Đống Đa,Phường Láng Hạ,"Nhà mặt phố, mặt tiền",5,4.00,42.00 ,361.90 ,15199.8
+08/04/2020,Huyện Thanh Trì,Xã Tam Hiệp,"Nhà ngõ, hẻm",4,4.00,43.00 ,50.00 ,2150
+08/04/2020,Quận Ba Đình,Phường Cống Vị,"Nhà ngõ, hẻm",5,3.00,25.00 ,96.00 ,2400
+08/04/2020,Quận Hai Bà Trưng,Phường Bách Khoa,"Nhà ngõ, hẻm",3,3.00,45.00 ,51.11 ,2299.95
+08/04/2020,Quận Ba Đình,Phường Vĩnh Phúc,"Nhà ngõ, hẻm",4,2.00,35.00 ,80.86 ,2830.1
+08/04/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",4,4.00,38.00 ,68.42 ,2599.96
+08/04/2020,Quận Đống Đa,Phường Trung Tự,"Nhà ngõ, hẻm",5,5.00,120.00 ,125.00 ,15000
+08/04/2020,Quận Hà Đông,Phường Kiến Hưng,Nhà biệt thự,3,5.00,200.00 ,47.25 ,9450
+08/04/2020,Quận Ba Đình,Phường Cống Vị,"Nhà ngõ, hẻm",8,7.00,55.00 ,309.09 ,16999.95
+08/04/2020,Quận Đống Đa,Phường Ô Chợ Dừa,"Nhà ngõ, hẻm",4,4.00,30.00 ,50.00 ,1500
+08/04/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà mặt phố, mặt tiền",5,9.00,77.00 ,2.08 ,160.16
+08/04/2020,Quận Cầu Giấy,Phường Mai Dịch,"Nhà ngõ, hẻm",5,4.00,34.00 ,120.59 ,4100.06
+08/04/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà ngõ, hẻm",4,3.00,27.00 ,72.22 ,1949.94
+08/04/2020,Quận Hà Đông,Phường Vạn Phúc,"Nhà ngõ, hẻm",5,4.00,30.00 ,82.67 ,2480.1
+08/04/2020,Quận Đống Đa,Phường Láng Hạ,"Nhà ngõ, hẻm",5,3.00,35.00 ,114.29 ,4000.15
+08/04/2020,Quận Hai Bà Trưng,Phường Thanh Lương,"Nhà ngõ, hẻm",4,2.00,18.00 ,105.56 ,1900.08
+08/04/2020,Quận Ba Đình,Phường Ngọc Hà,"Nhà ngõ, hẻm",5,5.00,33.00 ,136.36 ,4499.88
+08/04/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà ngõ, hẻm",5,3.00,32.00 ,89.06 ,2849.92
+08/04/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà ngõ, hẻm",4,3.00,20.00 ,97.50 ,1950
+08/04/2020,Quận Nam Từ Liêm,Phường Phú Đô,"Nhà mặt phố, mặt tiền",5,4.00,54.00 ,101.85 ,5499.9
+08/04/2020,Quận Long Biên,Phường Long Biên,"Nhà ngõ, hẻm",5,5.00,40.00 ,68.75 ,2750
+08/04/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà ngõ, hẻm",4,3.00,28.00 ,70.00 ,1960
+08/04/2020,Quận Đống Đa,Phường Kim Liên,"Nhà ngõ, hẻm",3,3.00,28.00 ,100.00 ,2800
+08/04/2020,Quận Bắc Từ Liêm,Phường Phúc Diễn,"Nhà ngõ, hẻm",4,5.00,42.00 ,67.86 ,2850.12
+08/04/2020,Quận Ba Đình,Phường Kim Mã,"Nhà ngõ, hẻm",4,4.00,32.00 ,84.38 ,2700.16
+08/04/2020,Quận Nam Từ Liêm,Phường Cầu Diễn,Nhà phố liền kề,5,4.00,113.00 ,247.79 ,27999.931
+08/04/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà mặt phố, mặt tiền",5,3.00,30.00 ,118.33 ,3549.9
+08/04/2020,Quận Hà Đông,Phường La Khê,"Nhà ngõ, hẻm",3,2.00,37.00 ,53.51 ,1979.87
+08/04/2020,Quận Nam Từ Liêm,Phường Trung Văn,"Nhà ngõ, hẻm",1,1.00,45.00 ,71.11 ,3199.95
+08/04/2020,Quận Thanh Xuân,Phường Thượng Đình,"Nhà ngõ, hẻm",5,4.00,62.00 ,125.81 ,7800.22
+08/04/2020,Quận Đống Đa,Phường Ngã Tư Sở,"Nhà ngõ, hẻm",5,4.00,41.00 ,207.32 ,8500.12
+08/04/2020,Quận Thanh Xuân,Phường Nhân Chính,"Nhà ngõ, hẻm",4,3.00,46.00 ,81.52 ,3749.92
+08/04/2020,Quận Đống Đa,Phường Trung Liệt,"Nhà ngõ, hẻm",5,3.00,11.00 ,131.82 ,1450.02
+08/04/2020,Quận Hoàng Mai,Phường Hoàng Liệt,"Nhà mặt phố, mặt tiền",5,4.00,44.00 ,89.77 ,3949.88
+08/04/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà mặt phố, mặt tiền",3,3.00,21.00 ,100.00 ,2100
+08/04/2020,Quận Nam Từ Liêm,Phường Mỹ Đình 2,"Nhà mặt phố, mặt tiền",5,5.00,51.00 ,76.47 ,3899.97
+08/04/2020,Quận Đống Đa,Phường Quốc Tử Giám,"Nhà mặt phố, mặt tiền",5,8.00,75.00 ,393.33 ,29499.75
+08/04/2020,Quận Hà Đông,Phường Vạn Phúc,"Nhà ngõ, hẻm",5,3.00,35.00 ,71.43 ,2500.05
+08/04/2020,Quận Đống Đa,Phường Khâm Thiên,"Nhà ngõ, hẻm",3,2.00,58.00 ,5.52 ,320.16
+08/04/2020,Quận Đống Đa,Phường Láng Hạ,"Nhà ngõ, hẻm",5,4.00,54.00 ,200.00 ,10800
+08/04/2020,Quận Bắc Từ Liêm,Phường Cổ Nhuế 1,"Nhà ngõ, hẻm",5,4.00,40.00 ,70.00 ,2800
+08/04/2020,Quận Bắc Từ Liêm,Phường Phú Diễn,"Nhà ngõ, hẻm",4,4.00,36.00 ,65.28 ,2350.08
+08/04/2020,Quận Hoàng Mai,Phường Tương Mai,"Nhà mặt phố, mặt tiền",5,3.00,55.00 ,51.82 ,2850.1
+08/04/2020,Quận Ba Đình,Phường Kim Mã,"Nhà ngõ, hẻm",3,2.00,30.00 ,60.00 ,1800
+08/04/2020,Quận Long Biên,Phường Đức Giang,"Nhà mặt phố, mặt tiền",3,4.00,196.00 ,80.61 ,15799.56
+08/04/2020,Quận Long Biên,Phường Thạch Bàn,"Nhà ngõ, hẻm",5,5.00,45.00 ,91.11 ,4099.95
+08/04/2020,Quận Long Biên,Phường Ngọc Thụy,"Nhà ngõ, hẻm",5,4.00,37.00 ,78.38 ,2900.06
+08/04/2020,Quận Hai Bà Trưng,Phường Cầu Dền,"Nhà ngõ, hẻm",5,4.00,45.00 ,128.89 ,5800.05
+08/04/2020,Quận Hoàng Mai,Phường Tân Mai,"Nhà mặt phố, mặt tiền",5,6.00,60.00 ,125.00 ,7500
+08/04/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà ngõ, hẻm",5,3.00,25.00 ,96.00 ,2400
+08/04/2020,Quận Hà Đông,Phường La Khê,"Nhà ngõ, hẻm",5,3.00,34.00 ,63.24 ,2150.16
+08/04/2020,Quận Hoàng Mai,Phường Tương Mai,"Nhà ngõ, hẻm",4,4.00,48.00 ,62.50 ,3000
+08/04/2020,Quận Hoàng Mai,Phường Mai Động,"Nhà ngõ, hẻm",4,4.00,34.00 ,120.59 ,4100.06
+08/04/2020,Quận Hà Đông,Phường Phú La,"Nhà mặt phố, mặt tiền",5,4.00,40.00 ,50.00 ,2000
+08/04/2020,Quận Hà Đông,Phường Hà Cầu,"Nhà ngõ, hẻm",4,3.00,33.00 ,65.15 ,2149.95
+08/04/2020,Quận Thanh Xuân,Phường Phương Liệt,"Nhà ngõ, hẻm",5,5.00,48.00 ,114.58 ,5499.84
+08/04/2020,Quận Hoàng Mai,Phường Vĩnh Hưng,"Nhà ngõ, hẻm",2,2.00,30.00 ,28.33 ,849.9
+08/04/2020,Quận Bắc Từ Liêm,Phường Xuân Đỉnh,"Nhà ngõ, hẻm",2,3.00,81.00 ,39.51 ,3200.31
+08/04/2020,Quận Bắc Từ Liêm,Phường Cổ Nhuế 1,"Nhà mặt phố, mặt tiền",5,3.00,45.00 ,64.44 ,2899.8
+08/04/2020,Quận Đống Đa,Phường Ô Chợ Dừa,"Nhà ngõ, hẻm",4,2.00,30.00 ,86.67 ,2600.1
+08/04/2020,Quận Hà Đông,Phường Hà Cầu,"Nhà ngõ, hẻm",4,4.00,45.00 ,62.22 ,2799.9
+08/04/2020,Quận Hà Đông,Phường La Khê,"Nhà ngõ, hẻm",4,3.00,36.00 ,59.72 ,2149.92
+08/04/2020,Quận Hà Đông,Phường Phú La,Nhà phố liền kề,5,6.00,83.00 ,104.43 ,8667.69
+08/04/2020,Quận Hà Đông,Phường Văn Quán,"Nhà mặt phố, mặt tiền",4,4.00,68.00 ,76.47 ,5199.96
+08/04/2020,Huyện Thanh Trì,Xã Tam Hiệp,"Nhà ngõ, hẻm",3,3.00,36.00 ,55.22 ,1987.92
+08/04/2020,Quận Hai Bà Trưng,Phường Quỳnh Mai,"Nhà ngõ, hẻm",5,4.00,40.00 ,162.25 ,6490
+08/04/2020,Quận Đống Đa,Phường Quốc Tử Giám,"Nhà ngõ, hẻm",2,3.00,31.00 ,74.19 ,2299.89
+08/04/2020,Quận Hai Bà Trưng,Phường Thanh Lương,"Nhà ngõ, hẻm",4,3.00,35.00 ,68.57 ,2399.95
+08/04/2020,Quận Hoàng Mai,Phường Tân Mai,"Nhà ngõ, hẻm",4,3.00,48.00 ,68.75 ,3300
+08/04/2020,Quận Cầu Giấy,Phường Quan Hoa,"Nhà ngõ, hẻm",5,4.00,45.00 ,102.22 ,4599.9
+08/04/2020,Quận Đống Đa,Phường Nam Đồng,"Nhà ngõ, hẻm",5,4.00,31.00 ,112.90 ,3499.9
+08/04/2020,Quận Cầu Giấy,Phường Dịch Vọng Hậu,"Nhà ngõ, hẻm",4,5.00,45.00 ,111.11 ,4999.95
+08/04/2020,Quận Cầu Giấy,Phường Nghĩa Tân,"Nhà mặt phố, mặt tiền",5,4.00,40.00 ,187.50 ,7500
+08/04/2020,Quận Thanh Xuân,Phường Nhân Chính,"Nhà ngõ, hẻm",5,4.00,36.00 ,80.56 ,2900.16
+08/04/2020,Quận Hà Đông,Phường Văn Quán,"Nhà ngõ, hẻm",4,4.00,60.00 ,83.33 ,4999.8
+08/04/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà ngõ, hẻm",5,3.00,36.00 ,76.39 ,2750.04
+08/04/2020,Quận Hà Đông,Phường Phú La,"Nhà ngõ, hẻm",5,4.00,50.00 ,108.00 ,5400
+08/04/2020,Quận Hà Đông,Phường Văn Quán,"Nhà mặt phố, mặt tiền",2,2.00,45.00 ,122.22 ,5499.9
+08/04/2020,Quận Đống Đa,Phường Ngã Tư Sở,"Nhà mặt phố, mặt tiền",4,4.00,60.00 ,310.00 ,18600
+08/04/2020,Quận Đống Đa,Phường Láng Thượng,"Nhà ngõ, hẻm",5,4.00,44.00 ,163.64 ,7200.16
+08/04/2020,Quận Đống Đa,Phường Ô Chợ Dừa,"Nhà mặt phố, mặt tiền",6,6.00,60.00 ,483.33 ,28999.8
+08/04/2020,Quận Hoàng Mai,Phường Tương Mai,"Nhà ngõ, hẻm",3,2.00,65.00 ,52.31 ,3400.15
+08/04/2020,Quận Nam Từ Liêm,Phường Phương Canh,"Nhà ngõ, hẻm",2,2.00,34.00 ,45.82 ,1557.88
+08/04/2020,Quận Hà Đông,Phường Hà Cầu,"Nhà mặt phố, mặt tiền",5,4.00,50.00 ,92.00 ,4600
+08/04/2020,Quận Hoàng Mai,Phường Mai Động,"Nhà ngõ, hẻm",5,4.00,31.00 ,88.71 ,2750.01
+08/04/2020,Quận Ba Đình,Phường Liễu Giai,"Nhà ngõ, hẻm",5,6.00,47.00 ,101.06 ,4749.82
+08/03/2020,Quận Đống Đa,Phường Thịnh Quang,"Nhà ngõ, hẻm",4,3.00,40.00 ,95.00 ,3800
+08/03/2020,Quận Hai Bà Trưng,Phường Vĩnh Tuy,"Nhà ngõ, hẻm",3,4.00,68.00 ,100.00 ,6800
+08/03/2020,Quận Hai Bà Trưng,Phường Bách Khoa,"Nhà ngõ, hẻm",5,4.00,33.00 ,87.88 ,2900.04
+08/03/2020,Quận Thanh Xuân,Phường Nhân Chính,"Nhà ngõ, hẻm",5,5.00,35.00 ,85.71 ,2999.85
+08/03/2020,Quận Thanh Xuân,Phường Kim Giang,"Nhà ngõ, hẻm",4,6.00,45.00 ,62.22 ,2799.9
+08/03/2020,Quận Ba Đình,Phường Vĩnh Phúc,"Nhà ngõ, hẻm",5,3.00,39.00 ,76.92 ,2999.88
+08/03/2020,Quận Tây Hồ,Phường Xuân La,"Nhà ngõ, hẻm",5,3.00,30.00 ,158.33 ,4749.9
+08/03/2020,Quận Cầu Giấy,Phường Trung Hoà,"Nhà ngõ, hẻm",5,6.00,35.00 ,117.14 ,4099.9
+08/03/2020,Quận Nam Từ Liêm,Phường Mỹ Đình 1,"Nhà ngõ, hẻm",4,3.00,30.00 ,83.33 ,2499.9
+08/03/2020,Quận Hà Đông,Phường Mộ Lao,"Nhà ngõ, hẻm",4,3.00,33.00 ,83.33 ,2749.89
+08/03/2020,Quận Hà Đông,Phường Quang Trung,"Nhà ngõ, hẻm",5,3.00,33.00 ,66.67 ,2200.11
+08/03/2020,Quận Hà Đông,Phường La Khê,"Nhà ngõ, hẻm",4,3.00,36.00 ,66.67 ,2400.12
+08/03/2020,Quận Thanh Xuân,Phường Kim Giang,"Nhà ngõ, hẻm",5,5.00,38.00 ,92.11 ,3500.18
+08/03/2020,Quận Ba Đình,Phường Vĩnh Phúc,"Nhà ngõ, hẻm",4,4.00,40.00 ,75.00 ,3000
+08/03/2020,Quận Tây Hồ,Phường Quảng An,"Nhà ngõ, hẻm",4,3.00,30.00 ,80.00 ,2400
+08/03/2020,Quận Hai Bà Trưng,Phường Quỳnh Lôi,"Nhà ngõ, hẻm",4,4.00,35.00 ,85.71 ,2999.85
+08/03/2020,Quận Hoàng Mai,Phường Đại Kim,"Nhà ngõ, hẻm",4,4.00,50.00 ,60.00 ,3000
+08/03/2020,Quận Hà Đông,Phường Yết Kiêu,"Nhà mặt phố, mặt tiền",9,9.00,52.00 ,125.00 ,6500
+08/03/2020,Quận Hoàng Mai,Phường Tân Mai,"Nhà ngõ, hẻm",4,2.00,28.00 ,85.36 ,2390.08
+08/03/2020,Huyện Thanh Trì,Xã Tả Thanh Oai,"Nhà ngõ, hẻm",5,5.00,40.00 ,45.00 ,1800
+08/03/2020,Quận Đống Đa,Phường Thịnh Quang,"Nhà ngõ, hẻm",5,6.00,54.00 ,87.04 ,4700.16
+08/03/2020,Quận Thanh Xuân,Phường Thượng Đình,"Nhà ngõ, hẻm",3,2.00,64.00 ,67.97 ,4350.08
+08/03/2020,Quận Đống Đa,Phường Kim Liên,"Nhà ngõ, hẻm",5,4.00,35.00 ,108.57 ,3799.95
+08/03/2020,Quận Hoàng Mai,Phường Thanh Trì,"Nhà ngõ, hẻm",5,3.00,32.00 ,67.19 ,2150.08
+08/03/2020,Quận Hoàng Mai,Phường Định Công,"Nhà ngõ, hẻm",5,4.00,36.00 ,76.39 ,2750.04
+08/03/2020,Quận Nam Từ Liêm,Phường Trung Văn,"Nhà ngõ, hẻm",1,1.00,45.00 ,71.11 ,3199.95
+08/03/2020,Quận Cầu Giấy,Phường Mai Dịch,"Nhà ngõ, hẻm",5,3.00,35.00 ,91.43 ,3200.05
+08/03/2020,Quận Long Biên,Phường Giang Biên,"Nhà ngõ, hẻm",2,2.00,54.00 ,42.59 ,2299.86
+08/03/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà ngõ, hẻm",3,4.00,63.00 ,5.63 ,354.69
+08/03/2020,Quận Cầu Giấy,Phường Nghĩa Đô,"Nhà ngõ, hẻm",5,6.00,45.00 ,111.11 ,4999.95
+08/03/2020,Quận Thanh Xuân,Phường Kim Giang,"Nhà ngõ, hẻm",4,4.00,60.00 ,63.33 ,3799.8
+08/03/2020,Quận Nam Từ Liêm,Phường Đại Mỗ,"Nhà mặt phố, mặt tiền",4,6.00,45.00 ,106.67 ,4800.15
+08/03/2020,Quận Đống Đa,Phường Nam Đồng,Nhà biệt thự,4,4.00,100.00 ,162.00 ,16200
+08/03/2020,Quận Thanh Xuân,Phường Nhân Chính,"Nhà ngõ, hẻm",5,4.00,40.00 ,112.50 ,4500
+08/03/2020,Quận Thanh Xuân,Phường Hạ Đình,"Nhà ngõ, hẻm",5,3.00,40.00 ,96.25 ,3850
+08/03/2020,Quận Thanh Xuân,Phường Nhân Chính,"Nhà ngõ, hẻm",2,2.00,33.00 ,74.24 ,2449.92
+08/03/2020,Quận Thanh Xuân,Phường Phương Liệt,"Nhà ngõ, hẻm",5,4.00,50.00 ,124.00 ,6200
+08/03/2020,Quận Hà Đông,Phường La Khê,"Nhà ngõ, hẻm",5,4.00,43.00 ,89.53 ,3849.79
+08/03/2020,Quận Đống Đa,Phường Cát Linh,"Nhà ngõ, hẻm",4,3.00,22.00 ,88.64 ,1950.08
+08/03/2020,Quận Hà Đông,Phường Phú La,Nhà phố liền kề,4,6.00,91.00 ,69.01 ,6279.91
+08/03/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",5,4.00,43.00 ,165.12 ,7100.16
+08/03/2020,Quận Hoàng Mai,Phường Lĩnh Nam,"Nhà ngõ, hẻm",3,2.00,27.00 ,72.96 ,1969.92
+08/03/2020,Quận Nam Từ Liêm,Phường Mỹ Đình 1,"Nhà mặt phố, mặt tiền",5,4.00,35.00 ,85.71 ,2999.85
+08/03/2020,Quận Hà Đông,Phường Văn Quán,"Nhà ngõ, hẻm",5,3.00,40.00 ,71.25 ,2850
+08/03/2020,Quận Đống Đa,Phường Khâm Thiên,"Nhà ngõ, hẻm",4,2.00,24.00 ,95.83 ,2299.92
+08/03/2020,Quận Hoàng Mai,Phường Định Công,"Nhà mặt phố, mặt tiền",5,5.00,54.00 ,101.85 ,5499.9
+08/03/2020,Quận Cầu Giấy,Phường Nghĩa Đô,"Nhà mặt phố, mặt tiền",5,4.00,42.00 ,104.76 ,4399.92
+08/03/2020,Quận Cầu Giấy,Phường Mai Dịch,"Nhà mặt phố, mặt tiền",7,8.00,55.00 ,236.36 ,12999.8
+08/03/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",3,3.00,50.00 ,73.00 ,3650
+08/02/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà ngõ, hẻm",2,3.00,40.00 ,44.13 ,1765.2
+08/02/2020,Quận Nam Từ Liêm,Phường Mỹ Đình 1,"Nhà ngõ, hẻm",4,4.00,40.00 ,74.75 ,2990
+08/02/2020,Quận Thanh Xuân,Phường Thanh Xuân Nam,"Nhà mặt phố, mặt tiền",10,8.00,65.00 ,315.38 ,20499.7
+08/02/2020,Quận Hoàn Kiếm,Phường Hàng Bài,"Nhà mặt phố, mặt tiền",5,4.00,56.00 ,240.18 ,13450.08
+08/02/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà mặt phố, mặt tiền",5,4.00,68.00 ,101.47 ,6899.96
+08/02/2020,Quận Đống Đa,Phường Quang Trung,"Nhà ngõ, hẻm",7,10.00,75.00 ,200.00 ,15000
+08/02/2020,Quận Hoàng Mai,Phường Yên Sở,"Nhà ngõ, hẻm",4,3.00,47.00 ,56.38 ,2649.86
+08/02/2020,Quận Hà Đông,Phường Yết Kiêu,"Nhà mặt phố, mặt tiền",3,3.00,30.00 ,103.33 ,3099.9
+08/02/2020,Quận Long Biên,Phường Long Biên,"Nhà ngõ, hẻm",4,3.00,38.00 ,67.11 ,2550.18
+08/02/2020,Quận Hà Đông,Phường Yên Nghĩa,"Nhà ngõ, hẻm",4,2.00,72.00 ,21.04 ,1514.88
+08/02/2020,Quận Long Biên,Phường Đức Giang,"Nhà mặt phố, mặt tiền",3,4.00,100.00 ,148.00 ,14800
+08/02/2020,Quận Nam Từ Liêm,Phường Phương Canh,"Nhà ngõ, hẻm",4,3.00,30.00 ,81.67 ,2450.1
+08/02/2020,Quận Bắc Từ Liêm,Phường Thụy Phương,"Nhà ngõ, hẻm",3,3.00,40.00 ,62.50 ,2500
+08/02/2020,Quận Cầu Giấy,Phường Nghĩa Đô,"Nhà ngõ, hẻm",5,3.00,30.00 ,110.00 ,3300
+08/02/2020,Quận Đống Đa,Phường Cát Linh,"Nhà ngõ, hẻm",5,9.00,39.00 ,110.26 ,4300.14
+08/02/2020,Quận Hà Đông,Phường Quang Trung,"Nhà mặt phố, mặt tiền",1,1.00,260.00 ,129.15 ,33579
+08/02/2020,Quận Hoàn Kiếm,Phường Phúc Tân,"Nhà ngõ, hẻm",3,2.00,20.00 ,52.50 ,1050
+08/02/2020,Quận Hai Bà Trưng,Phường Thanh Nhàn,"Nhà ngõ, hẻm",3,3.00,72.00 ,94.44 ,6799.68
+08/02/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",4,3.00,35.00 ,111.43 ,3900.05
+08/02/2020,Quận Thanh Xuân,Phường Thượng Đình,"Nhà ngõ, hẻm",5,4.00,35.00 ,105.71 ,3699.85
+08/02/2020,Quận Long Biên,Phường Việt Hưng,"Nhà ngõ, hẻm",5,4.00,60.00 ,99.17 ,5950.2
+08/02/2020,Quận Hà Đông,Phường Kiến Hưng,"Nhà ngõ, hẻm",5,6.00,40.00 ,65.00 ,2600
+08/02/2020,Quận Ba Đình,Phường Vĩnh Phúc,"Nhà ngõ, hẻm",5,3.00,33.00 ,71.21 ,2349.93
+08/02/2020,Quận Ba Đình,Phường Vĩnh Phúc,"Nhà ngõ, hẻm",4,3.00,32.00 ,89.06 ,2849.92
+08/02/2020,Quận Hai Bà Trưng,Phường Bách Khoa,"Nhà mặt phố, mặt tiền",3,2.00,24.00 ,74.58 ,1789.92
+08/02/2020,Quận Đống Đa,Phường Ngã Tư Sở,"Nhà mặt phố, mặt tiền",4,3.00,26.00 ,126.92 ,3299.92
+08/02/2020,Quận Ba Đình,Phường Ngọc Khánh,"Nhà ngõ, hẻm",4,4.00,40.00 ,96.25 ,3850
+08/02/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà ngõ, hẻm",4,3.00,20.00 ,91.50 ,1830
+08/02/2020,Quận Cầu Giấy,Phường Mai Dịch,"Nhà ngõ, hẻm",5,6.00,75.00 ,120.00 ,9000
+08/02/2020,Quận Thanh Xuân,Phường Khương Đình,"Nhà ngõ, hẻm",5,3.00,29.00 ,77.59 ,2249.994
+08/02/2020,Quận Tây Hồ,Phường Yên Phụ,Nhà phố liền kề,5,3.00,45.00 ,144.44 ,6499.8
+08/02/2020,Huyện Gia Lâm,Xã Đông Dư,"Nhà ngõ, hẻm",3,2.00,30.00 ,50.27 ,1508.1
+08/02/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",4,3.00,30.00 ,70.00 ,2100
+08/02/2020,Quận Nam Từ Liêm,Phường Mỹ Đình 2,"Nhà ngõ, hẻm",4,4.00,46.00 ,90.22 ,4150.12
+08/02/2020,Quận Thanh Xuân,Phường Thượng Đình,"Nhà ngõ, hẻm",4,4.00,36.00 ,93.06 ,3350.16
+08/02/2020,Quận Nam Từ Liêm,Phường Đại Mỗ,"Nhà ngõ, hẻm",4,4.00,39.00 ,69.23 ,2699.97
+08/02/2020,Quận Thanh Xuân,Phường Khương Mai,"Nhà ngõ, hẻm",4,6.00,50.00 ,736.00 ,36800
+08/02/2020,Quận Long Biên,Phường Gia Thụy,"Nhà ngõ, hẻm",1,1.00,40.00 ,58.75 ,2350
+08/02/2020,Quận Cầu Giấy,Phường Nghĩa Đô,"Nhà ngõ, hẻm",5,6.00,70.00 ,128.57 ,8999.9
+08/02/2020,Quận Tây Hồ,Phường Quảng An,"Nhà mặt phố, mặt tiền",3,5.00,50.00 ,148.00 ,7400
+08/02/2020,Quận Bắc Từ Liêm,Phường Phúc Diễn,"Nhà mặt phố, mặt tiền",3,4.00,40.00 ,87.50 ,3500
+08/02/2020,Quận Tây Hồ,Phường Phú Thượng,"Nhà ngõ, hẻm",5,6.00,51.00 ,107.65 ,5490.15
+08/02/2020,Quận Nam Từ Liêm,Phường Mỹ Đình 1,"Nhà mặt phố, mặt tiền",5,3.00,32.00 ,110.94 ,3550.08
+08/01/2020,Quận Hoàng Mai,Phường Lĩnh Nam,"Nhà ngõ, hẻm",5,4.00,33.00 ,72.73 ,2400.09
+08/01/2020,Quận Hoàng Mai,Phường Tân Mai,"Nhà ngõ, hẻm",5,4.00,32.00 ,89.06 ,2849.92
+08/01/2020,Quận Hoàng Mai,Phường Yên Sở,"Nhà ngõ, hẻm",5,6.00,50.00 ,72.00 ,3600
+08/01/2020,Quận Hai Bà Trưng,Phường Thanh Lương,"Nhà ngõ, hẻm",5,4.00,36.00 ,97.22 ,3499.92
+08/01/2020,Quận Hà Đông,Phường Văn Quán,"Nhà ngõ, hẻm",4,3.00,35.00 ,71.43 ,2500.05
+08/01/2020,Quận Bắc Từ Liêm,Phường Phúc Diễn,"Nhà ngõ, hẻm",4,4.00,37.00 ,75.68 ,2800.16
+08/01/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",4,4.00,28.00 ,78.57 ,2199.96
+08/01/2020,Quận Đống Đa,Phường Láng Thượng,"Nhà ngõ, hẻm",4,4.00,40.00 ,73.25 ,2930
+08/01/2020,Quận Hoàng Mai,Phường Đại Kim,"Nhà ngõ, hẻm",5,4.00,35.00 ,68.57 ,2399.95
+08/01/2020,Quận Cầu Giấy,Phường Mai Dịch,"Nhà ngõ, hẻm",5,4.00,61.00 ,68.85 ,4199.85
+08/01/2020,Quận Hai Bà Trưng,Phường Bách Khoa,"Nhà ngõ, hẻm",3,4.00,50.00 ,62.00 ,3100
+08/01/2020,Quận Nam Từ Liêm,Phường Trung Văn,"Nhà mặt phố, mặt tiền",4,4.00,58.00 ,115.52 ,6700.16
+08/01/2020,Quận Tây Hồ,Phường Bưởi,"Nhà ngõ, hẻm",5,3.00,44.00 ,106.82 ,4700.08
+08/01/2020,Huyện Hoài Đức,Xã Kim Chung,"Nhà ngõ, hẻm",3,2.00,34.00 ,43.47 ,1477.98
+08/01/2020,Quận Đống Đa,Phường Văn Chương,"Nhà ngõ, hẻm",5,4.00,50.00 ,170.00 ,8500
+08/01/2020,Quận Bắc Từ Liêm,Phường Xuân Đỉnh,"Nhà ngõ, hẻm",5,3.00,35.00 ,74.29 ,2600.15
+08/01/2020,Quận Bắc Từ Liêm,Phường Cổ Nhuế 2,"Nhà ngõ, hẻm",4,4.00,50.00 ,59.00 ,2950
+08/01/2020,Quận Tây Hồ,Phường Yên Phụ,"Nhà mặt phố, mặt tiền",6,4.00,51.00 ,245.10 ,12500.1
+08/01/2020,Quận Cầu Giấy,Phường Dịch Vọng Hậu,"Nhà ngõ, hẻm",4,4.00,40.00 ,82.50 ,3300
+08/01/2020,Quận Đống Đa,Phường Phương Mai,"Nhà mặt phố, mặt tiền",8,5.00,46.00 ,234.78 ,10799.88
+08/01/2020,Quận Tây Hồ,Phường Phú Thượng,"Nhà ngõ, hẻm",5,6.00,40.00 ,71.25 ,2850
+08/01/2020,Quận Hà Đông,Phường La Khê,"Nhà ngõ, hẻm",4,3.00,35.00 ,71.43 ,2500.05
+08/01/2020,Quận Hà Đông,Phường Phú Lãm,"Nhà ngõ, hẻm",4,3.00,31.00 ,48.39 ,1500.09
+08/01/2020,Quận Thanh Xuân,Phường Kim Giang,"Nhà ngõ, hẻm",4,4.00,32.00 ,85.94 ,2750.08
+08/01/2020,Quận Ba Đình,Phường Cống Vị,"Nhà ngõ, hẻm",4,4.00,46.00 ,105.43 ,4849.78
+08/01/2020,Quận Hai Bà Trưng,Phường Quỳnh Lôi,"Nhà mặt phố, mặt tiền",4,4.00,45.00 ,66.67 ,3000.15
+08/01/2020,Huyện Hoài Đức,Xã Vân Canh,"Nhà ngõ, hẻm",4,3.00,34.00 ,54.41 ,1849.94
+08/01/2020,Quận Đống Đa,Phường Khâm Thiên,"Nhà mặt phố, mặt tiền",3,3.00,70.00 ,94.29 ,6600.3
+08/01/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",4,4.00,43.00 ,123.02 ,5289.86
+08/01/2020,Quận Hai Bà Trưng,Phường Bạch Mai,"Nhà ngõ, hẻm",4,2.00,25.00 ,78.00 ,1950
+08/01/2020,Quận Tây Hồ,Phường Xuân La,"Nhà ngõ, hẻm",5,3.00,30.00 ,110.00 ,3300
+08/01/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",5,3.00,48.00 ,129.17 ,6200.16
+08/01/2020,Quận Tây Hồ,Phường Xuân La,"Nhà ngõ, hẻm",5,7.00,45.00 ,84.44 ,3799.8
+08/01/2020,Quận Hoàng Mai,Phường Đại Kim,"Nhà ngõ, hẻm",6,3.00,35.00 ,70.00 ,2450
+08/01/2020,Quận Thanh Xuân,Phường Kim Giang,"Nhà ngõ, hẻm",6,4.00,35.00 ,67.71 ,2369.85
+08/01/2020,Quận Hoàng Mai,Phường Hoàng Liệt,"Nhà ngõ, hẻm",5,4.00,30.00 ,116.67 ,3500.1
+08/01/2020,Quận Hoàng Mai,Phường Đại Kim,"Nhà ngõ, hẻm",6,6.00,35.00 ,70.00 ,2450
+08/01/2020,Quận Đống Đa,Phường Nam Đồng,"Nhà ngõ, hẻm",5,4.00,35.00 ,95.71 ,3349.85
+08/01/2020,Quận Thanh Xuân,Phường Kim Giang,"Nhà ngõ, hẻm",6,3.00,31.00 ,79.03 ,2449.93
+08/01/2020,Quận Cầu Giấy,Phường Trung Hoà,"Nhà mặt phố, mặt tiền",4,4.00,42.00 ,273.81 ,11500.02
+08/01/2020,Quận Đống Đa,Phường Hàng Bột,"Nhà ngõ, hẻm",4,3.00,33.00 ,69.70 ,2300.1
+08/01/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",4,6.00,60.00 ,130.00 ,7800
+08/01/2020,Quận Đống Đa,Phường Trung Liệt,"Nhà ngõ, hẻm",5,4.00,42.00 ,133.33 ,5599.86
+08/01/2020,Quận Hà Đông,Phường Kiến Hưng,"Nhà mặt phố, mặt tiền",5,5.00,35.00 ,114.29 ,4000.15
+08/01/2020,Quận Hà Đông,Phường La Khê,Nhà phố liền kề,5,4.00,55.00 ,99.09 ,5449.95
+08/01/2020,Quận Hà Đông,Phường Văn Quán,"Nhà ngõ, hẻm",4,3.00,38.00 ,70.00 ,2660
+08/01/2020,Quận Hoàng Mai,Phường Thịnh Liệt,"Nhà ngõ, hẻm",5,3.00,30.00 ,88.33 ,2649.9
+08/01/2020,Quận Thanh Xuân,Phường Khương Mai,"Nhà mặt phố, mặt tiền",4,4.00,43.00 ,97.67 ,4199.81
+08/01/2020,Quận Đống Đa,Phường Thịnh Quang,"Nhà mặt phố, mặt tiền",5,4.00,28.00 ,189.29 ,5300.12
+08/01/2020,Quận Nam Từ Liêm,Phường Mỹ Đình 2,"Nhà ngõ, hẻm",5,5.00,40.00 ,85.00 ,3400
+08/01/2020,Huyện Thanh Trì,Xã Thanh Liệt,"Nhà ngõ, hẻm",4,4.00,39.00 ,74.62 ,2910.18
+08/01/2020,Quận Hà Đông,Phường Hà Cầu,"Nhà mặt phố, mặt tiền",5,3.00,35.00 ,75.71 ,2649.85
+08/01/2020,Quận Cầu Giấy,Phường Trung Hoà,"Nhà mặt phố, mặt tiền",4,4.00,42.00 ,273.81 ,11500.02
+08/01/2020,Quận Thanh Xuân,Phường Thanh Xuân Nam,"Nhà mặt phố, mặt tiền",4,5.00,44.00 ,81.82 ,3600.08
+08/01/2020,Quận Hoàng Mai,Phường Lĩnh Nam,"Nhà ngõ, hẻm",6,9.00,50.00 ,94.00 ,4700
+08/01/2020,Quận Thanh Xuân,Phường Khương Mai,"Nhà ngõ, hẻm",5,4.00,65.00 ,72.31 ,4700.15
+08/01/2020,Quận Long Biên,Phường Đức Giang,"Nhà mặt phố, mặt tiền",5,5.00,52.00 ,114.42 ,5949.84
+08/01/2020,Quận Long Biên,Phường Thạch Bàn,"Nhà ngõ, hẻm",5,4.00,40.00 ,85.50 ,3420
+08/01/2020,Quận Nam Từ Liêm,Phường Mỹ Đình 1,"Nhà mặt phố, mặt tiền",5,4.00,54.00 ,87.04 ,4700.16
+08/01/2020,Quận Long Biên,Phường Long Biên,"Nhà ngõ, hẻm",4,6.00,55.00 ,98.18 ,5399.9
+08/01/2020,Quận Đống Đa,Phường Láng Hạ,"Nhà ngõ, hẻm",5,3.00,35.00 ,155.71 ,5449.85
+08/01/2020,Quận Long Biên,Phường Đức Giang,Nhà biệt thự,5,5.00,58.00 ,102.59 ,5950.22
+08/01/2020,Quận Hà Đông,Phường Văn Quán,"Nhà mặt phố, mặt tiền",5,4.00,37.00 ,116.22 ,4300.14
+08/01/2020,Quận Long Biên,Phường Phúc Lợi,"Nhà ngõ, hẻm",4,2.00,30.00 ,60.67 ,1820.1
+08/01/2020,Quận Hoàng Mai,Phường Thịnh Liệt,"Nhà ngõ, hẻm",5,4.00,43.00 ,93.02 ,3999.86
+08/01/2020,Quận Hoàng Mai,Phường Định Công,"Nhà ngõ, hẻm",5,4.00,35.00 ,57.14 ,1999.9
+08/01/2020,Quận Đống Đa,Phường Ô Chợ Dừa,"Nhà mặt phố, mặt tiền",5,4.00,60.00 ,448.33 ,26899.8
+08/01/2020,Quận Long Biên,Phường Ngọc Thụy,"Nhà ngõ, hẻm",5,4.00,42.60 ,69.05 ,2941.53
+08/01/2020,Quận Hoàng Mai,Phường Đại Kim,"Nhà ngõ, hẻm",5,3.00,30.00 ,103.33 ,3099.9
+08/01/2020,Quận Hai Bà Trưng,Phường Bạch Mai,"Nhà mặt phố, mặt tiền",5,6.00,70.00 ,107.14 ,7499.8
+08/01/2020,Quận Cầu Giấy,Phường Dịch Vọng Hậu,"Nhà ngõ, hẻm",5,4.00,40.00 ,93.75 ,3750
+08/01/2020,Quận Hai Bà Trưng,Phường Trương Định,"Nhà ngõ, hẻm",5,5.00,50.00 ,84.00 ,4200
+08/01/2020,Quận Hoàng Mai,Phường Đại Kim,"Nhà ngõ, hẻm",5,3.00,30.00 ,103.33 ,3099.9
+08/01/2020,Quận Hà Đông,Phường Quang Trung,"Nhà ngõ, hẻm",5,4.00,52.00 ,64.42 ,3349.84
+08/01/2020,Quận Cầu Giấy,Phường Yên Hoà,"Nhà ngõ, hẻm",4,4.00,98.00 ,77.55 ,7599.9
+08/01/2020,Quận Bắc Từ Liêm,Phường Cổ Nhuế 1,"Nhà mặt phố, mặt tiền",2,2.00,45.00 ,60.00 ,2700
+08/01/2020,Quận Hà Đông,Phường Vạn Phúc,"Nhà ngõ, hẻm",5,3.00,33.00 ,66.67 ,2200.11
+08/01/2020,Quận Hoàng Mai,Phường Định Công,"Nhà ngõ, hẻm",2,2.00,32.30 ,71.88 ,2321.724
+08/01/2020,Quận Bắc Từ Liêm,Phường Cổ Nhuế 2,"Nhà mặt phố, mặt tiền",2,2.00,45.00 ,60.00 ,2700
+08/01/2020,Quận Hoàng Mai,Phường Thịnh Liệt,"Nhà ngõ, hẻm",4,4.00,42.00 ,67.86 ,2850.12
+08/01/2020,Quận Hoàng Mai,Phường Thịnh Liệt,"Nhà ngõ, hẻm",5,6.00,37.00 ,97.30 ,3600.1
+08/01/2020,Quận Hoàng Mai,Phường Định Công,"Nhà ngõ, hẻm",4,4.00,52.00 ,70.19 ,3649.88
+08/01/2020,Quận Hoàng Mai,Phường Hoàng Liệt,Nhà biệt thự,4,6.00,234.00 ,93.12 ,21790.08
+08/01/2020,Quận Hà Đông,Phường La Khê,"Nhà ngõ, hẻm",4,3.00,30.00 ,86.67 ,2600.1
+08/01/2020,Quận Hà Đông,Phường Nguyễn Trãi,"Nhà mặt phố, mặt tiền",4,4.00,100.00 ,145.00 ,14500
+08/01/2020,Quận Long Biên,Phường Long Biên,"Nhà ngõ, hẻm",5,4.00,40.00 ,65.00 ,2600
+08/01/2020,Quận Long Biên,Phường Thạch Bàn,"Nhà ngõ, hẻm",5,3.00,30.00 ,76.67 ,2300.1
+08/01/2020,Quận Long Biên,Phường Thạch Bàn,"Nhà mặt phố, mặt tiền",5,4.00,38.00 ,105.26 ,3999.88
+08/01/2020,Quận Cầu Giấy,Phường Nghĩa Đô,"Nhà ngõ, hẻm",5,3.00,30.00 ,106.67 ,3200.1
+08/01/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà ngõ, hẻm",5,4.00,35.00 ,94.29 ,3300.15
+08/01/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà ngõ, hẻm",5,4.00,35.00 ,94.29 ,3300.15
+08/01/2020,Quận Hà Đông,Phường Văn Quán,Nhà phố liền kề,5,6.00,90.00 ,95.56 ,8600.4
+08/01/2020,Quận Đống Đa,Phường Kim Liên,"Nhà ngõ, hẻm",4,4.00,52.00 ,76.92 ,3999.84
+08/01/2020,Quận Hoàng Mai,Phường Giáp Bát,"Nhà ngõ, hẻm",5,5.00,50.00 ,76.00 ,3800
+08/01/2020,Quận Đống Đa,Phường Văn Chương,"Nhà ngõ, hẻm",4,4.00,36.00 ,63.89 ,2300.04
+08/01/2020,Quận Hoàn Kiếm,Phường Hàng Bài,"Nhà mặt phố, mặt tiền",4,4.00,43.00 ,395.35 ,17000.05
+08/01/2020,Quận Thanh Xuân,Phường Khương Đình,"Nhà ngõ, hẻm",5,3.00,35.00 ,92.29 ,3230.15
+08/01/2020,Quận Long Biên,Phường Thượng Thanh,"Nhà mặt phố, mặt tiền",5,6.00,45.00 ,60.00 ,2700
+08/01/2020,Quận Hoàng Mai,Phường Lĩnh Nam,"Nhà ngõ, hẻm",5,3.00,34.00 ,61.76 ,2099.84
+08/01/2020,Quận Tây Hồ,Phường Xuân La,"Nhà ngõ, hẻm",5,6.00,72.00 ,111.11 ,7999.92
+08/01/2020,Quận Ba Đình,Phường Ngọc Hà,"Nhà mặt phố, mặt tiền",4,2.00,17.00 ,105.88 ,1799.96
+08/01/2020,Quận Đống Đa,Phường Hàng Bột,"Nhà ngõ, hẻm",4,4.00,55.00 ,72.73 ,4000.15
+08/01/2020,Quận Hoàng Mai,Phường Mai Động,"Nhà ngõ, hẻm",4,4.00,32.00 ,71.88 ,2300.16
+08/01/2020,Quận Tây Hồ,Phường Thụy Khuê,"Nhà mặt phố, mặt tiền",6,8.00,38.00 ,128.95 ,4900.1
+07/31/2020,Quận Ba Đình,Phường Cống Vị,"Nhà ngõ, hẻm",5,5.00,50.00 ,132.00 ,6600
+07/31/2020,Quận Long Biên,Phường Bồ Đề,"Nhà ngõ, hẻm",5,3.00,40.00 ,86.25 ,3450
+07/31/2020,Quận Hoàng Mai,Phường Lĩnh Nam,"Nhà ngõ, hẻm",3,4.00,36.00 ,58.33 ,2099.88
+07/31/2020,Quận Tây Hồ,Phường Xuân La,"Nhà ngõ, hẻm",4,4.00,50.00 ,100.00 ,5000
+07/31/2020,Quận Ba Đình,Phường Phúc Xá,"Nhà mặt phố, mặt tiền",3,4.00,50.00 ,103.00 ,5150
+07/31/2020,Quận Nam Từ Liêm,Phường Mễ Trì,"Nhà ngõ, hẻm",5,3.00,33.00 ,81.82 ,2700.06
+07/31/2020,Quận Đống Đa,Phường Ô Chợ Dừa,"Nhà mặt phố, mặt tiền",4,4.00,22.00 ,222.73 ,4900.06
+07/31/2020,Quận Hai Bà Trưng,Phường Lê Đại Hành,"Nhà mặt phố, mặt tiền",5,4.00,35.00 ,125.71 ,4399.85
+07/31/2020,Quận Hai Bà Trưng,Phường Bạch Đằng,"Nhà ngõ, hẻm",3,4.00,50.00 ,55.00 ,2750
+07/31/2020,Quận Đống Đa,Phường Khương Thượng,"Nhà mặt phố, mặt tiền",5,6.00,45.00 ,182.22 ,8199.9
+07/31/2020,Quận Ba Đình,Phường Kim Mã,"Nhà ngõ, hẻm",5,4.00,20.00 ,135.00 ,2700
+07/31/2020,Quận Hà Đông,Phường Văn Quán,"Nhà ngõ, hẻm",5,4.00,35.00 ,88.57 ,3099.95
+07/31/2020,Quận Hà Đông,Phường Kiến Hưng,"Nhà ngõ, hẻm",5,4.00,33.00 ,60.61 ,2000.13
+07/31/2020,Quận Cầu Giấy,Phường Nghĩa Đô,"Nhà ngõ, hẻm",6,4.00,35.00 ,85.71 ,2999.85
+07/31/2020,Quận Hai Bà Trưng,Phường Bạch Mai,"Nhà mặt phố, mặt tiền",8,7.00,136.00 ,235.29 ,31999.44
+07/31/2020,Quận Bắc Từ Liêm,Phường Xuân Đỉnh,"Nhà ngõ, hẻm",5,3.00,30.00 ,96.67 ,2900.1
+07/31/2020,Quận Hà Đông,Phường Phú Lãm,"Nhà ngõ, hẻm",3,3.00,33.00 ,49.39 ,1629.87
+07/31/2020,Quận Đống Đa,Phường Ngã Tư Sở,"Nhà mặt phố, mặt tiền",5,3.00,30.00 ,173.33 ,5199.9
+07/31/2020,Quận Nam Từ Liêm,Phường Mỹ Đình 1,Nhà biệt thự,4,8.00,138.00 ,176.81 ,24399.78
+07/31/2020,Quận Đống Đa,Phường Ô Chợ Dừa,"Nhà ngõ, hẻm",5,3.00,32.00 ,104.69 ,3350.08
+07/31/2020,Quận Hoàng Mai,Phường Tân Mai,"Nhà ngõ, hẻm",5,4.00,30.00 ,100.00 ,3000
+07/31/2020,Quận Đống Đa,Phường Láng Hạ,"Nhà ngõ, hẻm",5,4.00,35.00 ,122.86 ,4300.1
+07/31/2020,Quận Hà Đông,Phường Dương Nội,"Nhà mặt phố, mặt tiền",4,3.00,38.00 ,59.74 ,2270.12
+07/31/2020,Quận Hoàng Mai,Phường Tương Mai,"Nhà ngõ, hẻm",4,4.00,30.00 ,96.00 ,2880
+07/31/2020,Quận Đống Đa,Phường Ô Chợ Dừa,"Nhà mặt phố, mặt tiền",4,3.00,45.00 ,488.89 ,22000.05
+07/31/2020,Quận Đống Đa,Phường Trung Tự,"Nhà ngõ, hẻm",5,4.00,34.00 ,117.65 ,4000.1
+07/31/2020,Quận Long Biên,Phường Ngọc Thụy,"Nhà ngõ, hẻm",4,4.00,31.70 ,75.81 ,2403.177
+07/30/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",5,8.00,33.00 ,136.36 ,4499.88
+07/30/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà mặt phố, mặt tiền",4,2.00,37.00 ,80.81 ,2989.97
+07/30/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà ngõ, hẻm",5,5.00,60.00 ,65.83 ,3949.8
+07/30/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà ngõ, hẻm",5,6.00,65.00 ,60.77 ,3950.05
+07/30/2020,Quận Nam Từ Liêm,Phường Mỹ Đình 1,Nhà biệt thự,4,7.00,140.00 ,175.00 ,24500
+07/30/2020,Quận Đống Đa,Phường Khâm Thiên,"Nhà ngõ, hẻm",5,4.00,34.00 ,86.76 ,2949.84
+07/30/2020,Quận Bắc Từ Liêm,Phường Xuân Đỉnh,"Nhà ngõ, hẻm",5,3.00,30.00 ,98.33 ,2949.9
+07/30/2020,Quận Hai Bà Trưng,Phường Quỳnh Mai,"Nhà mặt phố, mặt tiền",4,4.00,36.00 ,205.56 ,7400.16
+07/30/2020,Quận Bắc Từ Liêm,Phường Xuân Đỉnh,"Nhà ngõ, hẻm",5,6.00,38.00 ,71.05 ,2699.9
+07/30/2020,Quận Hà Đông,Phường Mộ Lao,"Nhà ngõ, hẻm",4,2.00,28.00 ,76.79 ,2150.12
+07/30/2020,Quận Hà Đông,Phường La Khê,"Nhà ngõ, hẻm",1,1.00,35.00 ,75.71 ,2649.85
+07/30/2020,Quận Ba Đình,Phường Vĩnh Phúc,"Nhà ngõ, hẻm",4,3.00,33.00 ,85.76 ,2830.08
+07/30/2020,Quận Tây Hồ,Phường Thụy Khuê,"Nhà ngõ, hẻm",6,4.00,30.00 ,140.00 ,4200
+07/30/2020,Quận Thanh Xuân,Phường Kim Giang,"Nhà ngõ, hẻm",5,4.00,36.00 ,102.78 ,3700.08
+07/30/2020,Quận Thanh Xuân,Phường Khương Đình,"Nhà ngõ, hẻm",5,5.00,46.00 ,147.83 ,6800.18
+07/30/2020,Quận Đống Đa,Phường Ô Chợ Dừa,"Nhà ngõ, hẻm",5,3.00,30.00 ,153.33 ,4599.9
+07/30/2020,Quận Hà Đông,Phường Mộ Lao,"Nhà ngõ, hẻm",5,4.00,20.00 ,105.00 ,2100
+07/30/2020,Quận Hai Bà Trưng,Phường Bạch Mai,"Nhà mặt phố, mặt tiền",5,4.00,51.00 ,58.82 ,2999.82
+07/30/2020,Quận Đống Đa,Phường Khâm Thiên,"Nhà ngõ, hẻm",4,3.00,28.00 ,118.93 ,3330.04
+07/30/2020,Quận Hoàng Mai,Phường Định Công,"Nhà ngõ, hẻm",4,2.00,43.00 ,41.86 ,1799.98
+07/30/2020,Quận Tây Hồ,Phường Bưởi,"Nhà ngõ, hẻm",6,4.00,40.00 ,101.25 ,4050
+07/30/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà mặt phố, mặt tiền",4,4.00,56.00 ,89.29 ,5000.24
+07/30/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",4,3.00,26.00 ,86.54 ,2250.04
+07/30/2020,Quận Hoàng Mai,Phường Thanh Trì,"Nhà ngõ, hẻm",4,4.00,80.00 ,73.75 ,5900
+07/30/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà ngõ, hẻm",4,2.00,30.00 ,55.00 ,1650
+07/30/2020,Quận Cầu Giấy,Phường Yên Hoà,"Nhà ngõ, hẻm",5,4.00,50.00 ,95.00 ,4750
+07/30/2020,Quận Long Biên,Phường Bồ Đề,"Nhà ngõ, hẻm",5,5.00,58.00 ,62.07 ,3600.06
+07/30/2020,Quận Đống Đa,Phường Phương Mai,"Nhà ngõ, hẻm",4,4.00,36.00 ,94.44 ,3399.84
+07/30/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",3,3.00,10.00 ,105.00 ,1050
+07/30/2020,Quận Hà Đông,Phường Vạn Phúc,"Nhà ngõ, hẻm",3,2.00,23.00 ,76.09 ,1750.07
+07/30/2020,Quận Hoàng Mai,Phường Mai Động,"Nhà ngõ, hẻm",4,5.00,42.00 ,50.00 ,2100
+07/30/2020,Quận Hoàng Mai,Phường Tân Mai,"Nhà ngõ, hẻm",5,3.00,38.00 ,56.58 ,2150.04
+07/30/2020,Quận Hà Đông,Phường La Khê,"Nhà ngõ, hẻm",4,3.00,40.00 ,86.25 ,3450
+07/30/2020,Quận Cầu Giấy,Phường Quan Hoa,"Nhà ngõ, hẻm",5,4.00,150.00 ,25.33 ,3799.5
+07/30/2020,Quận Hà Đông,Phường Văn Quán,Nhà phố liền kề,4,6.00,112.00 ,104.29 ,11680.48
+07/30/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà ngõ, hẻm",5,4.00,28.00 ,85.71 ,2399.88
+07/29/2020,Quận Hoàng Mai,Phường Tân Mai,"Nhà mặt phố, mặt tiền",5,6.00,52.00 ,109.62 ,5700.24
+07/29/2020,Quận Đống Đa,Phường Trung Tự,"Nhà mặt phố, mặt tiền",5,4.00,40.00 ,85.00 ,3400
+07/29/2020,Quận Tây Hồ,Phường Quảng An,"Nhà mặt phố, mặt tiền",2,4.00,68.00 ,485.29 ,32999.72
+07/29/2020,Quận Hoàng Mai,Phường Lĩnh Nam,"Nhà ngõ, hẻm",3,4.00,80.00 ,47.50 ,3800
+07/29/2020,Quận Tây Hồ,Phường Thụy Khuê,"Nhà mặt phố, mặt tiền",2,4.00,68.00 ,485.29 ,32999.72
+07/29/2020,Quận Thanh Xuân,Phường Nhân Chính,"Nhà ngõ, hẻm",5,4.00,45.00 ,108.89 ,4900.05
+07/29/2020,Quận Đống Đa,Phường Trung Phụng,"Nhà ngõ, hẻm",4,3.00,36.00 ,83.33 ,2999.88
+07/29/2020,Quận Hoàng Mai,Phường Lĩnh Nam,"Nhà ngõ, hẻm",4,6.00,40.00 ,62.50 ,2500
+07/29/2020,Quận Hà Đông,Phường La Khê,"Nhà ngõ, hẻm",3,2.00,41.00 ,53.66 ,2200.06
+07/29/2020,Quận Ba Đình,Phường Kim Mã,"Nhà ngõ, hẻm",5,3.00,23.00 ,100.00 ,2300
+07/29/2020,Quận Đống Đa,Phường Trung Phụng,"Nhà mặt phố, mặt tiền",4,5.00,50.00 ,166.00 ,8300
+07/29/2020,Quận Long Biên,Phường Ngọc Thụy,"Nhà ngõ, hẻm",4,4.00,55.00 ,69.09 ,3799.95
+07/29/2020,Quận Hai Bà Trưng,Phường Đống Mác,"Nhà ngõ, hẻm",5,5.00,45.00 ,157.78 ,7100.1
+07/29/2020,Quận Thanh Xuân,Phường Hạ Đình,"Nhà ngõ, hẻm",5,3.00,32.00 ,84.38 ,2700.16
+07/29/2020,Quận Ba Đình,Phường Đội Cấn,"Nhà ngõ, hẻm",5,3.00,19.00 ,126.32 ,2400.08
+07/29/2020,Quận Hà Đông,Phường La Khê,"Nhà ngõ, hẻm",5,4.00,34.00 ,72.06 ,2450.04
+07/29/2020,Quận Hà Đông,Phường Vạn Phúc,"Nhà ngõ, hẻm",5,4.00,35.00 ,63.14 ,2209.9
+07/29/2020,Quận Hà Đông,Phường Vạn Phúc,"Nhà ngõ, hẻm",5,4.00,36.00 ,66.67 ,2400.12
+07/29/2020,Quận Hà Đông,Phường La Khê,"Nhà ngõ, hẻm",5,4.00,34.00 ,66.18 ,2250.12
+07/29/2020,Quận Đống Đa,Phường Thịnh Quang,"Nhà ngõ, hẻm",4,4.00,45.00 ,95.56 ,4300.2
+07/29/2020,Quận Hà Đông,Phường La Khê,"Nhà ngõ, hẻm",5,4.00,33.00 ,62.12 ,2049.96
+07/29/2020,Quận Cầu Giấy,Phường Yên Hoà,"Nhà ngõ, hẻm",4,3.00,34.00 ,98.53 ,3350.02
+07/29/2020,Quận Ba Đình,Phường Đội Cấn,"Nhà ngõ, hẻm",5,4.00,28.00 ,100.00 ,2800
+07/29/2020,Quận Đống Đa,Phường Láng Thượng,"Nhà ngõ, hẻm",4,3.00,32.00 ,76.56 ,2449.92
+07/29/2020,Quận Đống Đa,Phường Láng Hạ,"Nhà ngõ, hẻm",6,3.00,34.00 ,100.00 ,3400
+07/29/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà ngõ, hẻm",5,4.00,67.00 ,41.79 ,2799.93
+07/29/2020,Quận Cầu Giấy,Phường Quan Hoa,"Nhà ngõ, hẻm",4,4.00,32.00 ,101.56 ,3249.92
+07/29/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",3,3.00,40.00 ,62.50 ,2500
+07/29/2020,Quận Cầu Giấy,Phường Yên Hoà,"Nhà ngõ, hẻm",5,4.00,44.00 ,261.36 ,11499.84
+07/29/2020,Quận Hoàng Mai,Phường Định Công,"Nhà ngõ, hẻm",5,3.00,49.00 ,63.27 ,3100.23
+07/29/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà ngõ, hẻm",5,4.00,40.00 ,150.00 ,6000
+07/29/2020,Quận Thanh Xuân,Phường Thanh Xuân Trung,"Nhà ngõ, hẻm",4,3.00,38.00 ,140.79 ,5350.02
+07/29/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà mặt phố, mặt tiền",3,3.00,67.00 ,41.79 ,2799.93
+07/29/2020,Quận Cầu Giấy,Phường Trung Hoà,"Nhà ngõ, hẻm",5,5.00,55.00 ,113.64 ,6250.2
+07/29/2020,Quận Tây Hồ,Phường Bưởi,"Nhà ngõ, hẻm",4,4.00,33.00 ,90.91 ,3000.03
+07/29/2020,Quận Hà Đông,Phường Dương Nội,"Nhà ngõ, hẻm",5,4.00,35.00 ,65.71 ,2299.85
+07/29/2020,Quận Thanh Xuân,Phường Phương Liệt,"Nhà ngõ, hẻm",4,6.00,42.00 ,100.00 ,4200
+07/29/2020,Huyện Thanh Trì,Xã Ngọc Hồi,"Nhà ngõ, hẻm",4,3.00,30.00 ,53.33 ,1599.9
+07/29/2020,Quận Long Biên,Phường Phúc Đồng,"Nhà ngõ, hẻm",5,4.00,36.00 ,88.89 ,3200.04
+07/29/2020,Quận Hà Đông,Phường Vạn Phúc,"Nhà ngõ, hẻm",4,4.00,35.00 ,71.43 ,2500.05
+07/29/2020,Huyện Gia Lâm,Xã Đa Tốn,"Nhà ngõ, hẻm",4,3.00,48.00 ,38.54 ,1849.92
+07/29/2020,Quận Nam Từ Liêm,Phường Trung Văn,"Nhà ngõ, hẻm",4,3.00,30.00 ,93.33 ,2799.9
+07/29/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà mặt phố, mặt tiền",5,6.00,50.00 ,128.00 ,6400
+07/29/2020,Quận Cầu Giấy,Phường Nghĩa Đô,"Nhà ngõ, hẻm",5,6.00,52.00 ,74.04 ,3850.08
+07/29/2020,Quận Hà Đông,Phường Văn Quán,Nhà phố liền kề,5,4.00,96.00 ,109.38 ,10500.48
+07/29/2020,Quận Long Biên,Phường Long Biên,Nhà biệt thự,4,4.00,360.00 ,88.89 ,32000.4
+07/29/2020,Quận Hoàn Kiếm,Phường Phúc Tân,"Nhà ngõ, hẻm",3,3.00,20.00 ,49.95 ,999
+07/29/2020,Quận Đống Đa,Phường Thịnh Quang,"Nhà ngõ, hẻm",5,4.00,32.00 ,92.19 ,2950.08
+07/29/2020,Quận Hai Bà Trưng,Phường Bạch Mai,"Nhà ngõ, hẻm",3,3.00,51.00 ,52.94 ,2699.94
+07/29/2020,Quận Cầu Giấy,Phường Mai Dịch,"Nhà mặt phố, mặt tiền",5,3.00,56.00 ,81.25 ,4550
+07/29/2020,Quận Nam Từ Liêm,Phường Cầu Diễn,"Nhà mặt phố, mặt tiền",2,2.00,40.00 ,85.00 ,3400
+07/29/2020,Quận Hà Đông,Phường La Khê,"Nhà ngõ, hẻm",5,3.00,33.00 ,66.67 ,2200.11
+07/29/2020,Quận Hoàng Mai,Phường Tân Mai,"Nhà ngõ, hẻm",5,6.00,38.00 ,89.47 ,3399.86
+07/29/2020,Quận Nam Từ Liêm,Phường Mỹ Đình 1,"Nhà mặt phố, mặt tiền",5,4.00,35.00 ,85.71 ,2999.85
+07/29/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",4,3.00,35.00 ,77.14 ,2699.9
+07/29/2020,Quận Hà Đông,Phường La Khê,"Nhà ngõ, hẻm",4,4.00,36.00 ,66.67 ,2400.12
+07/29/2020,Huyện Hoài Đức,Xã La Phù,"Nhà ngõ, hẻm",3,3.00,33.00 ,40.91 ,1350.03
+07/29/2020,Quận Hà Đông,Phường Vạn Phúc,"Nhà ngõ, hẻm",4,4.00,36.00 ,75.00 ,2700
+07/29/2020,Quận Hoàng Mai,Phường Tương Mai,"Nhà ngõ, hẻm",2,2.00,30.00 ,27.67 ,830.1
+07/29/2020,Quận Đống Đa,Phường Khâm Thiên,"Nhà ngõ, hẻm",2,2.00,40.00 ,52.50 ,2100
+07/29/2020,Quận Cầu Giấy,Phường Quan Hoa,"Nhà ngõ, hẻm",6,5.00,40.00 ,145.00 ,5800
+07/29/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",4,3.00,30.00 ,75.00 ,2250
+07/29/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",5,6.00,50.00 ,128.00 ,6400
+07/29/2020,Quận Tây Hồ,Phường Phú Thượng,"Nhà mặt phố, mặt tiền",4,3.00,35.00 ,88.57 ,3099.95
+07/29/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà mặt phố, mặt tiền",5,3.00,33.00 ,130.30 ,4299.9
+07/29/2020,Quận Hai Bà Trưng,Phường Lê Đại Hành,"Nhà mặt phố, mặt tiền",7,5.00,70.00 ,214.29 ,15000.3
+07/29/2020,Quận Hà Đông,Phường Phúc La,"Nhà ngõ, hẻm",5,4.00,38.00 ,96.05 ,3649.9
+07/29/2020,Quận Tây Hồ,Phường Yên Phụ,"Nhà mặt phố, mặt tiền",3,3.00,86.00 ,296.51 ,25499.86
+07/29/2020,Quận Hà Đông,Phường Văn Quán,"Nhà ngõ, hẻm",5,3.00,35.00 ,64.29 ,2250.15
+07/29/2020,Quận Hai Bà Trưng,Phường Đồng Tâm,"Nhà mặt phố, mặt tiền",5,5.00,70.00 ,214.29 ,15000.3
+07/29/2020,Quận Hai Bà Trưng,Phường Trương Định,"Nhà ngõ, hẻm",4,4.00,41.00 ,73.17 ,2999.97
+07/29/2020,Quận Long Biên,Phường Gia Thụy,"Nhà mặt phố, mặt tiền",5,3.00,34.00 ,88.24 ,3000.16
+07/29/2020,Quận Ba Đình,Phường Ngọc Hà,"Nhà mặt phố, mặt tiền",6,2.00,52.00 ,157.69 ,8199.88
+07/29/2020,Quận Hoàng Mai,Phường Định Công,"Nhà ngõ, hẻm",5,3.00,46.00 ,67.39 ,3099.94
+07/29/2020,Quận Tây Hồ,Phường Thụy Khuê,"Nhà ngõ, hẻm",5,4.00,55.00 ,161.82 ,8900.1
+07/29/2020,Quận Đống Đa,Phường Văn Chương,"Nhà ngõ, hẻm",2,2.00,30.00 ,73.33 ,2199.9
+07/29/2020,Quận Hà Đông,Phường Phú La,Nhà phố liền kề,4,6.00,126.00 ,73.25 ,9229.5
+07/29/2020,Quận Ba Đình,Phường Liễu Giai,"Nhà ngõ, hẻm",4,4.00,35.00 ,85.71 ,2999.85
+07/29/2020,Quận Ba Đình,Phường Đội Cấn,"Nhà ngõ, hẻm",5,3.00,35.00 ,128.57 ,4499.95
+07/29/2020,Quận Hà Đông,Phường Yên Nghĩa,"Nhà ngõ, hẻm",4,5.00,32.00 ,53.13 ,1700.16
+07/29/2020,Quận Đống Đa,Phường Khâm Thiên,"Nhà ngõ, hẻm",4,3.00,32.00 ,85.94 ,2750.08
+07/29/2020,Quận Tây Hồ,Phường Nhật Tân,"Nhà mặt phố, mặt tiền",4,4.00,40.00 ,80.00 ,3200
+07/29/2020,Quận Nam Từ Liêm,Phường Mỹ Đình 1,"Nhà ngõ, hẻm",5,6.00,40.00 ,90.00 ,3600
+07/29/2020,Quận Hai Bà Trưng,Phường Bạch Mai,"Nhà ngõ, hẻm",4,4.00,35.00 ,108.57 ,3799.95
+07/29/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà ngõ, hẻm",4,3.00,16.00 ,88.75 ,1420
+07/29/2020,Quận Long Biên,Phường Long Biên,"Nhà ngõ, hẻm",3,3.00,64.00 ,60.16 ,3850.24
+07/29/2020,Quận Hai Bà Trưng,Phường Thanh Lương,"Nhà ngõ, hẻm",4,4.00,39.00 ,73.08 ,2850.12
+07/29/2020,Quận Hà Đông,Phường Quang Trung,Nhà phố liền kề,5,4.00,44.20 ,129.55 ,5726.11
+07/29/2020,Quận Ba Đình,Phường Cống Vị,"Nhà ngõ, hẻm",5,3.00,26.00 ,91.92 ,2389.92
+07/29/2020,Quận Tây Hồ,Phường Thụy Khuê,"Nhà ngõ, hẻm",5,5.00,50.00 ,124.00 ,6200
+07/29/2020,Quận Ba Đình,Phường Quán Thánh,"Nhà ngõ, hẻm",5,3.00,32.00 ,140.63 ,4500.16
+07/29/2020,Quận Long Biên,Phường Bồ Đề,"Nhà mặt phố, mặt tiền",5,2.00,55.00 ,106.36 ,5849.8
+07/29/2020,Quận Long Biên,Phường Ngọc Thụy,"Nhà mặt phố, mặt tiền",5,4.00,48.00 ,85.42 ,4100.16
+07/29/2020,Quận Hai Bà Trưng,Phường Bạch Mai,"Nhà ngõ, hẻm",4,4.00,50.00 ,90.00 ,4500
+07/29/2020,Quận Ba Đình,Phường Cống Vị,"Nhà ngõ, hẻm",5,3.00,25.00 ,96.00 ,2400
+07/29/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà ngõ, hẻm",4,4.00,67.00 ,41.79 ,2799.93
+07/28/2020,Quận Hà Đông,Phường Phú La,"Nhà mặt phố, mặt tiền",7,6.00,60.00 ,183.33 ,10999.8
+07/28/2020,Quận Hoàng Mai,Phường Giáp Bát,"Nhà mặt phố, mặt tiền",5,4.00,42.00 ,67.86 ,2850.12
+07/28/2020,Quận Cầu Giấy,Phường Dịch Vọng,"Nhà ngõ, hẻm",4,6.00,32.00 ,100.00 ,3200
+07/28/2020,Huyện Hoài Đức,Xã Kim Chung,"Nhà ngõ, hẻm",5,4.00,45.00 ,46.67 ,2100.15
+07/28/2020,Huyện Thanh Trì,Xã Thanh Liệt,"Nhà ngõ, hẻm",4,3.00,35.00 ,72.86 ,2550.1
+07/28/2020,Quận Cầu Giấy,Phường Nghĩa Tân,"Nhà ngõ, hẻm",5,6.00,50.00 ,102.00 ,5100
+07/28/2020,Quận Hà Đông,Phường Dương Nội,"Nhà ngõ, hẻm",4,3.00,40.00 ,45.00 ,1800
+07/28/2020,Quận Đống Đa,Phường Láng Hạ,"Nhà ngõ, hẻm",4,3.00,34.00 ,86.76 ,2949.84
+07/28/2020,Quận Hoàng Mai,Phường Tân Mai,"Nhà ngõ, hẻm",4,4.00,54.00 ,105.56 ,5700.24
+07/28/2020,Quận Đống Đa,Phường Cát Linh,"Nhà ngõ, hẻm",4,3.00,25.00 ,76.00 ,1900
+07/28/2020,Quận Hà Đông,Phường Hà Cầu,"Nhà ngõ, hẻm",5,4.00,40.00 ,50.00 ,2000
+07/28/2020,Quận Ba Đình,Phường Đội Cấn,"Nhà mặt phố, mặt tiền",3,2.00,41.00 ,153.66 ,6300.06
+07/28/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà ngõ, hẻm",5,3.00,40.00 ,68.75 ,2750
+07/28/2020,Quận Cầu Giấy,Phường Yên Hoà,"Nhà ngõ, hẻm",5,4.00,34.00 ,108.82 ,3699.88
+07/28/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà ngõ, hẻm",5,4.00,40.00 ,70.00 ,2800
+07/28/2020,Quận Thanh Xuân,Phường Khương Đình,"Nhà ngõ, hẻm",5,3.00,43.00 ,56.98 ,2450.14
+07/28/2020,Quận Cầu Giấy,Phường Mai Dịch,"Nhà ngõ, hẻm",5,3.00,40.00 ,80.00 ,3200
+07/28/2020,Quận Ba Đình,Phường Vĩnh Phúc,"Nhà ngõ, hẻm",5,3.00,32.00 ,90.31 ,2889.92
+07/28/2020,Quận Thanh Xuân,Phường Nhân Chính,"Nhà ngõ, hẻm",6,3.00,30.00 ,131.67 ,3950.1
+07/28/2020,Quận Ba Đình,Phường Cống Vị,"Nhà mặt phố, mặt tiền",7,1.00,60.00 ,275.00 ,16500
+07/28/2020,Quận Đống Đa,Phường Trung Tự,"Nhà mặt phố, mặt tiền",5,4.00,40.00 ,87.50 ,3500
+07/28/2020,Quận Hoàng Mai,Phường Thịnh Liệt,"Nhà ngõ, hẻm",5,3.00,40.00 ,75.00 ,3000
+07/28/2020,Quận Tây Hồ,Phường Thụy Khuê,"Nhà ngõ, hẻm",6,3.00,42.00 ,154.76 ,6499.92
+07/28/2020,Quận Tây Hồ,Phường Bưởi,"Nhà ngõ, hẻm",5,4.00,45.00 ,111.11 ,4999.95
+07/28/2020,Quận Thanh Xuân,Phường Khương Mai,"Nhà ngõ, hẻm",5,5.00,49.00 ,114.29 ,5600.21
+07/27/2020,Quận Long Biên,Phường Long Biên,"Nhà ngõ, hẻm",4,4.00,50.00 ,52.00 ,2600
+07/27/2020,Quận Đống Đa,Phường Quốc Tử Giám,"Nhà ngõ, hẻm",5,3.00,30.00 ,83.33 ,2499.9
+07/27/2020,Quận Hà Đông,Phường Kiến Hưng,Nhà phố liền kề,3,3.00,53.00 ,84.64 ,4485.92
+07/27/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",3,4.00,57.00 ,124.56 ,7099.92
+07/27/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà ngõ, hẻm",5,3.00,35.00 ,71.43 ,2500.05
+07/27/2020,Quận Đống Đa,Phường Quốc Tử Giám,"Nhà ngõ, hẻm",4,4.00,55.00 ,72.73 ,4000.15
+07/27/2020,Quận Ba Đình,Phường Kim Mã,"Nhà ngõ, hẻm",4,3.00,40.00 ,100.00 ,4000
+07/27/2020,Quận Nam Từ Liêm,Phường Trung Văn,"Nhà mặt phố, mặt tiền",4,4.00,90.00 ,83.33 ,7499.7
+07/27/2020,Quận Hai Bà Trưng,Phường Thanh Nhàn,"Nhà ngõ, hẻm",4,2.00,16.00 ,87.50 ,1400
+07/27/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà ngõ, hẻm",4,3.00,31.00 ,62.90 ,1949.9
+07/27/2020,Quận Cầu Giấy,Phường Yên Hoà,"Nhà mặt phố, mặt tiền",5,4.00,55.00 ,170.00 ,9350
+07/27/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",4,3.00,100.00 ,55.00 ,5500
+07/27/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà ngõ, hẻm",4,4.00,60.00 ,65.00 ,3900
+07/27/2020,Quận Thanh Xuân,Phường Thanh Xuân Nam,"Nhà mặt phố, mặt tiền",4,4.00,55.00 ,100.00 ,5500
+07/27/2020,Quận Ba Đình,Phường Đội Cấn,"Nhà ngõ, hẻm",4,3.00,45.00 ,60.00 ,2700
+07/27/2020,Quận Hà Đông,Phường Phú La,"Nhà ngõ, hẻm",2,3.00,26400.00 ,62.50 ,1650000
+07/27/2020,Quận Hà Đông,Phường Quang Trung,"Nhà mặt phố, mặt tiền",4,3.00,45.00 ,74.44 ,3349.8
+07/27/2020,Quận Hai Bà Trưng,Phường Bạch Mai,"Nhà ngõ, hẻm",5,4.00,40.00 ,62.50 ,2500
+07/27/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà mặt phố, mặt tiền",7,6.00,75.00 ,130.67 ,9800.25
+07/27/2020,Quận Hoàng Mai,Phường Tân Mai,"Nhà mặt phố, mặt tiền",4,4.00,50.00 ,92.00 ,4600
+07/27/2020,Quận Đống Đa,Phường Nam Đồng,"Nhà ngõ, hẻm",4,4.00,48.00 ,73.96 ,3550.08
+07/27/2020,Quận Đống Đa,Phường Ngã Tư Sở,"Nhà ngõ, hẻm",5,3.00,32.00 ,131.25 ,4200
+07/27/2020,Quận Cầu Giấy,Phường Quan Hoa,"Nhà mặt phố, mặt tiền",3,3.00,56.00 ,332.14 ,18599.84
+07/27/2020,Quận Long Biên,Phường Long Biên,"Nhà ngõ, hẻm",6,4.00,46.00 ,107.61 ,4950.06
+07/27/2020,Quận Đống Đa,Phường Ngã Tư Sở,"Nhà ngõ, hẻm",6,5.00,60.00 ,95.83 ,5749.8
+07/27/2020,Quận Hoàng Mai,Phường Vĩnh Hưng,"Nhà ngõ, hẻm",4,2.00,19.00 ,63.16 ,1200.04
+07/26/2020,Quận Hai Bà Trưng,Phường Thanh Nhàn,"Nhà ngõ, hẻm",5,4.00,35.00 ,104.29 ,3650.15
+07/26/2020,Quận Đống Đa,Phường Thịnh Quang,"Nhà ngõ, hẻm",4,4.00,34.00 ,202.94 ,6899.96
+07/26/2020,Quận Hoàng Mai,Phường Tân Mai,"Nhà ngõ, hẻm",5,6.00,45.00 ,72.22 ,3249.9
+07/26/2020,Quận Tây Hồ,Phường Thụy Khuê,"Nhà ngõ, hẻm",6,4.00,40.00 ,113.75 ,4550
+07/26/2020,Quận Hoàng Mai,Phường Yên Sở,"Nhà ngõ, hẻm",4,3.00,35.00 ,71.43 ,2500.05
+07/26/2020,Quận Long Biên,Phường Ngọc Thụy,"Nhà ngõ, hẻm",4,5.00,36.00 ,82.78 ,2980.08
+07/26/2020,Quận Cầu Giấy,Phường Mai Dịch,"Nhà mặt phố, mặt tiền",6,6.00,50.00 ,200.00 ,10000
+07/26/2020,Quận Đống Đa,Phường Láng Hạ,"Nhà ngõ, hẻm",5,3.00,30.00 ,125.00 ,3750
+07/26/2020,Quận Long Biên,Phường Bồ Đề,"Nhà ngõ, hẻm",4,3.00,30.00 ,101.67 ,3050.1
+07/26/2020,Quận Nam Từ Liêm,Phường Mỹ Đình 1,"Nhà mặt phố, mặt tiền",5,4.00,40.00 ,90.00 ,3600
+07/26/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà ngõ, hẻm",4,3.00,31.00 ,61.29 ,1899.99
+07/26/2020,Quận Cầu Giấy,Phường Yên Hoà,"Nhà ngõ, hẻm",4,4.00,73.00 ,79.45 ,5799.85
+07/26/2020,Quận Đống Đa,Phường Thịnh Quang,"Nhà mặt phố, mặt tiền",5,4.00,30.00 ,176.67 ,5300.1
+07/26/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà ngõ, hẻm",4,3.00,45.00 ,55.56 ,2500.2
+07/26/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà ngõ, hẻm",5,4.00,36.00 ,101.49 ,3653.64
+07/26/2020,Quận Cầu Giấy,Phường Yên Hoà,"Nhà ngõ, hẻm",5,4.00,33.00 ,100.00 ,3300
+07/26/2020,Quận Thanh Xuân,Phường Kim Giang,"Nhà ngõ, hẻm",5,3.00,36.00 ,68.06 ,2450.16
+07/26/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà ngõ, hẻm",5,4.00,40.00 ,67.50 ,2700
+07/26/2020,Quận Hoàng Mai,Phường Thịnh Liệt,Nhà phố liền kề,5,5.00,63.00 ,125.40 ,7900.2
+07/26/2020,Quận Đống Đa,Phường Láng Hạ,"Nhà ngõ, hẻm",5,3.00,35.00 ,80.00 ,2800
+07/26/2020,Quận Đống Đa,Phường Quang Trung,"Nhà ngõ, hẻm",5,3.00,31.00 ,93.55 ,2900.05
+07/26/2020,Quận Đống Đa,Phường Khương Thượng,"Nhà ngõ, hẻm",4,4.00,40.00 ,165.00 ,6600
+07/26/2020,Quận Hà Đông,Phường Phú La,"Nhà mặt phố, mặt tiền",5,4.00,50.00 ,108.00 ,5400
+07/26/2020,Quận Đống Đa,Phường Láng Hạ,"Nhà ngõ, hẻm",5,5.00,56.00 ,139.09 ,7789.04
+07/26/2020,Quận Hai Bà Trưng,Phường Bạch Mai,"Nhà ngõ, hẻm",3,2.00,16.00 ,90.63 ,1450.08
+07/26/2020,Quận Hoàng Mai,Phường Lĩnh Nam,"Nhà mặt phố, mặt tiền",4,4.00,70.00 ,57.14 ,3999.8
+07/26/2020,Quận Đống Đa,Phường Khâm Thiên,"Nhà ngõ, hẻm",4,2.00,25.00 ,54.00 ,1350
+07/26/2020,Quận Đống Đa,Phường Khương Thượng,"Nhà ngõ, hẻm",5,3.00,35.00 ,77.14 ,2699.9
+07/25/2020,Quận Hai Bà Trưng,Phường Đồng Tâm,"Nhà ngõ, hẻm",5,3.00,42.00 ,70.24 ,2950.08
+07/25/2020,Quận Hoàng Mai,Phường Đại Kim,"Nhà ngõ, hẻm",4,4.00,45.00 ,88.89 ,4000.05
+07/25/2020,Quận Cầu Giấy,Phường Dịch Vọng,"Nhà ngõ, hẻm",4,3.00,32.00 ,184.38 ,5900.16
+07/25/2020,Quận Cầu Giấy,Phường Yên Hoà,"Nhà ngõ, hẻm",5,4.00,41.00 ,148.78 ,6099.98
+07/25/2020,Quận Cầu Giấy,Phường Yên Hoà,"Nhà ngõ, hẻm",5,4.00,51.00 ,911.76 ,46499.76
+07/25/2020,Quận Hà Đông,Phường La Khê,"Nhà ngõ, hẻm",3,3.00,44.00 ,68.18 ,2999.92
+07/25/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà ngõ, hẻm",2,3.00,60.00 ,36.50 ,2190
+07/25/2020,Quận Long Biên,Phường Ngọc Lâm,"Nhà ngõ, hẻm",5,3.00,34.00 ,83.82 ,2849.88
+07/25/2020,Quận Hai Bà Trưng,Phường Trương Định,"Nhà ngõ, hẻm",5,4.00,52.00 ,59.62 ,3100.24
+07/25/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà ngõ, hẻm",4,4.00,41.00 ,89.02 ,3649.82
+07/25/2020,Quận Cầu Giấy,Phường Mai Dịch,"Nhà mặt phố, mặt tiền",5,6.00,46.00 ,105.43 ,4849.78
+07/25/2020,Quận Thanh Xuân,Phường Thanh Xuân Trung,"Nhà mặt phố, mặt tiền",3,2.00,102.00 ,191.18 ,19500.36
+07/25/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà mặt phố, mặt tiền",5,6.00,50.00 ,65.60 ,3280
+07/25/2020,Quận Hoàng Mai,Phường Lĩnh Nam,"Nhà ngõ, hẻm",4,5.00,35.00 ,68.57 ,2399.95
+07/25/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà ngõ, hẻm",4,2.00,27.00 ,66.67 ,1800.09
+07/25/2020,Quận Nam Từ Liêm,Phường Mỹ Đình 1,"Nhà ngõ, hẻm",5,3.00,40.00 ,66.25 ,2650
+07/25/2020,Quận Thanh Xuân,Phường Thượng Đình,"Nhà mặt phố, mặt tiền",5,6.00,65.00 ,323.08 ,21000.2
+07/25/2020,Quận Ba Đình,Phường Thành Công,"Nhà mặt phố, mặt tiền",5,3.00,32.00 ,237.50 ,7600
+07/25/2020,Quận Thanh Xuân,Phường Nhân Chính,"Nhà mặt phố, mặt tiền",4,4.00,110.00 ,168.18 ,18499.8
+07/25/2020,Quận Ba Đình,Phường Thành Công,"Nhà ngõ, hẻm",5,3.00,32.00 ,248.44 ,7950.08
+07/25/2020,Quận Hoàng Mai,Phường Định Công,"Nhà ngõ, hẻm",5,3.00,44.00 ,65.91 ,2900.04
+07/25/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà ngõ, hẻm",3,2.00,15.00 ,92.00 ,1380
+07/25/2020,Quận Hai Bà Trưng,Phường Trương Định,"Nhà ngõ, hẻm",5,3.00,32.00 ,85.94 ,2750.08
+07/25/2020,Quận Ba Đình,Phường Đội Cấn,"Nhà ngõ, hẻm",7,5.00,65.00 ,253.85 ,16500.25
+07/25/2020,Quận Hà Đông,Phường Văn Quán,"Nhà ngõ, hẻm",4,3.00,50.00 ,53.00 ,2650
+07/25/2020,Quận Thanh Xuân,Phường Khương Mai,"Nhà mặt phố, mặt tiền",4,4.00,60.00 ,130.00 ,7800
+07/25/2020,Quận Ba Đình,Phường Vĩnh Phúc,"Nhà ngõ, hẻm",5,3.00,34.00 ,105.88 ,3599.92
+07/25/2020,Quận Đống Đa,Phường Ô Chợ Dừa,"Nhà ngõ, hẻm",4,4.00,66.00 ,100.00 ,6600
+07/25/2020,Quận Hoàng Mai,Phường Thịnh Liệt,"Nhà ngõ, hẻm",5,4.00,35.00 ,71.43 ,2500.05
+07/25/2020,Quận Thanh Xuân,Phường Nhân Chính,Nhà biệt thự,3,4.00,122.00 ,121.31 ,14799.82
+07/25/2020,Quận Tây Hồ,Phường Bưởi,"Nhà mặt phố, mặt tiền",3,3.00,78.00 ,191.03 ,14900.34
+07/25/2020,Quận Ba Đình,Phường Cống Vị,"Nhà mặt phố, mặt tiền",7,5.00,65.00 ,246.15 ,15999.75
+07/25/2020,Quận Hoàng Mai,Phường Định Công,"Nhà ngõ, hẻm",5,3.00,31.00 ,100.00 ,3100
+07/25/2020,Quận Đống Đa,Phường Ô Chợ Dừa,"Nhà ngõ, hẻm",5,4.00,37.00 ,86.49 ,3200.13
+07/25/2020,Quận Thanh Xuân,Phường Thượng Đình,"Nhà mặt phố, mặt tiền",5,5.00,55.00 ,187.27 ,10299.85
+07/25/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà ngõ, hẻm",5,3.00,32.00 ,93.75 ,3000
+07/25/2020,Quận Long Biên,Phường Long Biên,"Nhà ngõ, hẻm",4,4.00,80.00 ,85.00 ,6800
+07/25/2020,Quận Thanh Xuân,Phường Thanh Xuân Trung,"Nhà ngõ, hẻm",5,5.00,54.00 ,103.70 ,5599.8
+07/14/2020,Quận Đống Đa,Phường Khâm Thiên,"Nhà ngõ, hẻm",4,2.00,30.00 ,76.67 ,2300.1
+07/14/2020,Quận Bắc Từ Liêm,Phường Minh Khai,"Nhà ngõ, hẻm",2,4.00,101.00 ,29.70 ,2999.7
+07/14/2020,Quận Thanh Xuân,Phường Thượng Đình,"Nhà ngõ, hẻm",5,3.00,36.00 ,93.06 ,3350.16
+07/14/2020,Quận Hà Đông,Phường Mộ Lao,"Nhà ngõ, hẻm",2,1.00,23.00 ,86.09 ,1980.07
+07/14/2020,Quận Hà Đông,Phường Hà Cầu,"Nhà ngõ, hẻm",4,4.00,40.00 ,97.50 ,3900
+07/14/2020,Quận Hai Bà Trưng,Phường Bách Khoa,"Nhà ngõ, hẻm",5,4.00,50.00 ,116.00 ,5800
+07/14/2020,Quận Hà Đông,Phường Mộ Lao,"Nhà ngõ, hẻm",4,4.00,42.00 ,96.43 ,4050.06
+07/14/2020,Quận Thanh Xuân,Phường Khương Đình,"Nhà ngõ, hẻm",4,4.00,65.00 ,56.92 ,3699.8
+07/14/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",5,3.00,43.00 ,115.81 ,4979.83
+07/14/2020,Quận Ba Đình,Phường Đội Cấn,"Nhà ngõ, hẻm",3,2.00,32.00 ,96.88 ,3100.16
+07/14/2020,Quận Long Biên,Phường Long Biên,"Nhà ngõ, hẻm",5,4.00,35.00 ,65.71 ,2299.85
+07/14/2020,Huyện Thanh Trì,Thị trấn Văn Điển,"Nhà ngõ, hẻm",4,3.00,30.00 ,53.33 ,1599.9
+07/14/2020,Quận Thanh Xuân,Phường Nhân Chính,"Nhà ngõ, hẻm",4,3.00,48.00 ,79.17 ,3800.16
+07/14/2020,Quận Hoàng Mai,Phường Đại Kim,"Nhà ngõ, hẻm",4,4.00,65.00 ,69.23 ,4499.95
+07/14/2020,Quận Bắc Từ Liêm,Phường Cổ Nhuế 2,"Nhà ngõ, hẻm",5,6.00,51.00 ,111.76 ,5699.76
+07/14/2020,Quận Đống Đa,Phường Khâm Thiên,"Nhà ngõ, hẻm",3,3.00,30.00 ,63.33 ,1899.9
+07/14/2020,Quận Hoàng Mai,Phường Đại Kim,"Nhà ngõ, hẻm",4,4.00,58.00 ,64.66 ,3750.28
+07/14/2020,Quận Cầu Giấy,Phường Quan Hoa,"Nhà ngõ, hẻm",4,3.00,41.00 ,80.49 ,3300.09
+07/14/2020,Quận Hoàng Mai,Phường Định Công,"Nhà mặt phố, mặt tiền",4,4.00,53.00 ,84.91 ,4500.23
+07/14/2020,Quận Đống Đa,Phường Phương Liên,"Nhà ngõ, hẻm",4,3.00,30.00 ,83.33 ,2499.9
+07/14/2020,Quận Cầu Giấy,Phường Quan Hoa,"Nhà ngõ, hẻm",5,2.00,33.00 ,95.45 ,3149.85
+07/14/2020,Quận Hai Bà Trưng,Phường Thanh Lương,"Nhà ngõ, hẻm",5,6.00,70.00 ,127.86 ,8950.2
+07/14/2020,Quận Thanh Xuân,Phường Khương Đình,"Nhà ngõ, hẻm",4,4.00,52.00 ,58.65 ,3049.8
+07/14/2020,Quận Cầu Giấy,Phường Quan Hoa,"Nhà ngõ, hẻm",5,6.00,55.00 ,140.00 ,7700
+07/14/2020,Quận Đống Đa,Phường Quang Trung,"Nhà ngõ, hẻm",5,3.00,35.00 ,74.29 ,2600.15
+07/14/2020,Quận Hai Bà Trưng,Phường Đồng Tâm,"Nhà ngõ, hẻm",4,3.00,20.00 ,102.50 ,2050
+07/14/2020,Quận Hai Bà Trưng,Phường Trương Định,"Nhà ngõ, hẻm",4,3.00,41.00 ,76.83 ,3150.03
+07/14/2020,Quận Thanh Xuân,Phường Phương Liệt,"Nhà ngõ, hẻm",4,2.00,29.00 ,86.21 ,2500.09
+07/14/2020,Quận Đống Đa,Phường Ô Chợ Dừa,"Nhà ngõ, hẻm",4,3.00,38.00 ,76.32 ,2900.16
+07/14/2020,Quận Hà Đông,Phường Vạn Phúc,"Nhà ngõ, hẻm",5,6.00,40.00 ,67.50 ,2700
+07/14/2020,Quận Đống Đa,Phường Trung Liệt,"Nhà ngõ, hẻm",6,4.00,43.00 ,193.02 ,8299.86
+07/02/2020,Quận Đống Đa,Phường Trung Phụng,"Nhà ngõ, hẻm",3,2.00,22.00 ,100.00 ,2200
+07/02/2020,Quận Đống Đa,Phường Trung Liệt,"Nhà ngõ, hẻm",4,4.00,40.00 ,140.00 ,5600
+07/02/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà ngõ, hẻm",4,4.00,38.00 ,75.00 ,2850
+07/02/2020,Quận Long Biên,Phường Long Biên,"Nhà ngõ, hẻm",3,3.00,58.00 ,53.45 ,3100.1
+07/02/2020,Quận Đống Đa,Phường Trung Phụng,"Nhà ngõ, hẻm",4,3.00,24.00 ,89.58 ,2149.92
+07/02/2020,Huyện Thanh Trì,Xã Thanh Liệt,"Nhà ngõ, hẻm",4,4.00,35.00 ,70.00 ,2450
+07/02/2020,Quận Hoàng Mai,Phường Lĩnh Nam,"Nhà ngõ, hẻm",2,1.00,26.00 ,57.31 ,1490.06
+07/02/2020,Quận Long Biên,Phường Long Biên,"Nhà ngõ, hẻm",5,3.00,32.00 ,85.94 ,2750.08
+07/02/2020,Quận Hai Bà Trưng,Phường Nguyễn Du,"Nhà ngõ, hẻm",5,3.00,35.00 ,97.14 ,3399.9
+07/02/2020,Quận Ba Đình,Phường Cống Vị,"Nhà mặt phố, mặt tiền",5,4.00,40.00 ,300.00 ,12000
+07/02/2020,Quận Tây Hồ,Phường Nhật Tân,"Nhà mặt phố, mặt tiền",5,4.00,36.00 ,77.78 ,2800.08
+07/02/2020,Quận Hai Bà Trưng,Phường Quỳnh Lôi,"Nhà mặt phố, mặt tiền",5,3.00,25.00 ,88.00 ,2200
+07/02/2020,Quận Đống Đa,Phường Trung Liệt,"Nhà ngõ, hẻm",4,4.00,35.00 ,148.57 ,5199.95
+07/02/2020,Quận Thanh Xuân,Phường Hạ Đình,"Nhà ngõ, hẻm",4,4.00,45.00 ,87.78 ,3950.1
+07/02/2020,Quận Tây Hồ,Phường Nhật Tân,"Nhà ngõ, hẻm",5,4.00,36.00 ,77.78 ,2800.08
+07/02/2020,Quận Tây Hồ,Phường Tứ Liên,"Nhà ngõ, hẻm",4,4.00,67.00 ,73.13 ,4899.71
+07/02/2020,Quận Tây Hồ,Phường Tứ Liên,"Nhà ngõ, hẻm",4,3.00,65.00 ,103.85 ,6750.25
+07/02/2020,Quận Long Biên,Phường Long Biên,"Nhà ngõ, hẻm",4,4.00,61.00 ,54.92 ,3350.12
+07/02/2020,Quận Hoàng Mai,Phường Giáp Bát,"Nhà ngõ, hẻm",5,3.00,52.00 ,67.31 ,3500.12
+07/02/2020,Quận Cầu Giấy,Phường Dịch Vọng Hậu,"Nhà ngõ, hẻm",5,5.00,38.00 ,198.68 ,7549.84
+07/02/2020,Quận Cầu Giấy,Phường Mai Dịch,"Nhà ngõ, hẻm",4,5.00,53.00 ,79.25 ,4200.25
+07/02/2020,Quận Đống Đa,Phường Ngã Tư Sở,"Nhà ngõ, hẻm",4,4.00,48.00 ,114.58 ,5499.84
+07/02/2020,Quận Đống Đa,Phường Quang Trung,"Nhà ngõ, hẻm",4,4.00,36.00 ,90.28 ,3250.08
+07/02/2020,Quận Đống Đa,Phường Láng Thượng,"Nhà ngõ, hẻm",3,3.00,36.00 ,69.44 ,2499.84
+07/02/2020,Quận Cầu Giấy,Phường Nghĩa Đô,"Nhà ngõ, hẻm",5,4.00,35.00 ,197.14 ,6899.9
+07/02/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà ngõ, hẻm",4,3.00,35.00 ,74.29 ,2600.15
+07/02/2020,Quận Nam Từ Liêm,Phường Mễ Trì,"Nhà ngõ, hẻm",3,3.00,50.00 ,100.00 ,5000
+07/02/2020,Quận Cầu Giấy,Phường Nghĩa Đô,"Nhà ngõ, hẻm",3,3.00,52.00 ,64.42 ,3349.84
+07/02/2020,Quận Bắc Từ Liêm,Phường Cổ Nhuế 2,"Nhà ngõ, hẻm",5,3.00,30.00 ,983.33 ,29499.9
+07/02/2020,Quận Ba Đình,Phường Thành Công,"Nhà ngõ, hẻm",4,4.00,45.00 ,131.11 ,5899.95
+07/02/2020,Quận Thanh Xuân,Phường Khương Mai,Nhà phố liền kề,5,4.00,45.00 ,124.44 ,5599.8
+07/02/2020,Quận Tây Hồ,Phường Thụy Khuê,"Nhà ngõ, hẻm",5,3.00,45.00 ,102.22 ,4599.9
+07/02/2020,Quận Hoàng Mai,Phường Thanh Trì,"Nhà mặt phố, mặt tiền",2,3.00,92.00 ,72.83 ,6700.36
+07/02/2020,Quận Ba Đình,Phường Ngọc Khánh,"Nhà ngõ, hẻm",4,3.00,35.00 ,111.43 ,3900.05
+07/02/2020,Quận Hoàng Mai,Phường Giáp Bát,"Nhà ngõ, hẻm",6,2.00,20.00 ,70.00 ,1400
+07/02/2020,Quận Hà Đông,Phường Phú Lãm,Nhà phố liền kề,5,5.00,35.00 ,68.57 ,2399.95
+07/02/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà mặt phố, mặt tiền",4,4.00,48.00 ,143.75 ,6900
+07/02/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà ngõ, hẻm",3,6.00,180.00 ,49.44 ,8899.2
+07/02/2020,Quận Đống Đa,Phường Láng Hạ,"Nhà ngõ, hẻm",6,7.00,46.00 ,122.83 ,5650.18
+07/02/2020,Quận Cầu Giấy,Phường Mai Dịch,"Nhà ngõ, hẻm",5,6.00,55.00 ,81.82 ,4500.1
+07/02/2020,Quận Hoàng Mai,Phường Tương Mai,"Nhà ngõ, hẻm",4,4.00,37.00 ,86.49 ,3200.13
+06/23/2020,Quận Ba Đình,Phường Vĩnh Phúc,"Nhà ngõ, hẻm",4,4.00,40.00 ,86.25 ,3450
+06/23/2020,Quận Nam Từ Liêm,Phường Phú Đô,"Nhà ngõ, hẻm",1,2.00,55.00 ,14.91 ,820.05
+06/23/2020,Quận Nam Từ Liêm,Phường Mỹ Đình 2,"Nhà ngõ, hẻm",5,4.00,40.00 ,90.00 ,3600
+06/23/2020,Quận Hoàng Mai,Phường Thịnh Liệt,"Nhà mặt phố, mặt tiền",1,1.00,50.00 ,80.00 ,4000
+06/23/2020,Quận Hà Đông,Phường Văn Quán,"Nhà ngõ, hẻm",4,3.00,60.00 ,55.83 ,3349.8
+06/23/2020,Quận Hai Bà Trưng,Phường Vĩnh Tuy,"Nhà ngõ, hẻm",5,5.00,34.00 ,98.53 ,3350.02
+06/23/2020,Quận Hoàng Mai,Phường Lĩnh Nam,"Nhà ngõ, hẻm",5,3.00,35.00 ,60.00 ,2100
+06/23/2020,Quận Nam Từ Liêm,Phường Mỹ Đình 1,"Nhà mặt phố, mặt tiền",2,2.00,110.00 ,76.36 ,8399.6
+06/23/2020,Quận Hoàng Mai,Phường Đại Kim,"Nhà ngõ, hẻm",5,6.00,50.00 ,70.00 ,3500
+06/23/2020,Quận Hai Bà Trưng,Phường Thanh Nhàn,"Nhà ngõ, hẻm",4,2.00,31.00 ,80.65 ,2500.15
+06/23/2020,Quận Tây Hồ,Phường Xuân La,"Nhà mặt phố, mặt tiền",5,6.00,45.00 ,233.33 ,10499.85
+06/23/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà ngõ, hẻm",4,4.00,44.00 ,82.95 ,3649.8
+06/23/2020,Quận Long Biên,Phường Gia Thụy,"Nhà ngõ, hẻm",5,3.00,35.00 ,100.00 ,3500
+06/23/2020,Quận Thanh Xuân,Phường Khương Đình,"Nhà ngõ, hẻm",4,2.00,40.00 ,65.00 ,2600
+06/23/2020,Quận Hoàng Mai,Phường Hoàng Liệt,"Nhà ngõ, hẻm",5,4.00,35.00 ,73.71 ,2579.85
+06/23/2020,Quận Đống Đa,Phường Ngã Tư Sở,"Nhà ngõ, hẻm",3,3.00,18.00 ,102.78 ,1850.04
+06/23/2020,Quận Hoàng Mai,Phường Vĩnh Hưng,"Nhà ngõ, hẻm",3,2.00,32.00 ,65.63 ,2100.16
+06/23/2020,Quận Ba Đình,Phường Kim Mã,"Nhà mặt phố, mặt tiền",5,4.00,56.00 ,428.57 ,23999.92
+06/23/2020,Quận Tây Hồ,Phường Bưởi,"Nhà ngõ, hẻm",6,4.00,40.00 ,162.50 ,6500
+06/23/2020,Quận Hoàng Mai,Phường Tân Mai,"Nhà ngõ, hẻm",4,4.00,38.00 ,62.11 ,2360.18
+06/23/2020,Quận Thanh Xuân,Phường Khương Mai,"Nhà ngõ, hẻm",5,6.00,70.00 ,67.14 ,4699.8
+06/23/2020,Quận Ba Đình,Phường Kim Mã,"Nhà mặt phố, mặt tiền",3,3.00,28.00 ,160.71 ,4499.88
+06/23/2020,Quận Thanh Xuân,Phường Khương Đình,"Nhà mặt phố, mặt tiền",5,4.00,39.00 ,87.18 ,3400.02
+06/23/2020,Quận Đống Đa,Phường Thịnh Quang,"Nhà ngõ, hẻm",5,4.00,50.00 ,100.00 ,5000
+06/23/2020,Quận Hoàng Mai,Phường Tân Mai,"Nhà mặt phố, mặt tiền",5,4.00,35.00 ,102.86 ,3600.1
+06/23/2020,Quận Hai Bà Trưng,Phường Thanh Lương,"Nhà ngõ, hẻm",3,2.00,48.00 ,75.00 ,3600
+06/23/2020,Quận Long Biên,Phường Ngọc Lâm,"Nhà ngõ, hẻm",5,3.00,38.00 ,100.00 ,3800
+06/23/2020,Quận Đống Đa,Phường Láng Hạ,"Nhà ngõ, hẻm",8,4.00,50.00 ,264.00 ,13200
+06/23/2020,Quận Tây Hồ,Phường Tứ Liên,"Nhà ngõ, hẻm",5,4.00,50.00 ,108.00 ,5400
+06/23/2020,Quận Nam Từ Liêm,Phường Mễ Trì,"Nhà ngõ, hẻm",4,4.00,40.00 ,92.50 ,3700
+06/23/2020,Quận Thanh Xuân,Phường Khương Mai,"Nhà mặt phố, mặt tiền",4,4.00,52.00 ,115.38 ,5999.76
+06/23/2020,Quận Hà Đông,Phường La Khê,"Nhà ngõ, hẻm",2,4.00,50.00 ,53.00 ,2650
+06/23/2020,Quận Thanh Xuân,Phường Khương Mai,"Nhà ngõ, hẻm",4,4.00,60.00 ,75.00 ,4500
+06/23/2020,Quận Cầu Giấy,Phường Dịch Vọng Hậu,"Nhà ngõ, hẻm",4,4.00,46.00 ,85.87 ,3950.02
+06/23/2020,Quận Thanh Xuân,Phường Thượng Đình,"Nhà ngõ, hẻm",5,4.00,33.00 ,100.00 ,3300
+06/23/2020,Quận Hoàn Kiếm,Phường Phúc Tân,"Nhà ngõ, hẻm",4,6.00,58.00 ,124.14 ,7200.12
+06/23/2020,Quận Hà Đông,Phường Yên Nghĩa,"Nhà ngõ, hẻm",4,4.00,45.00 ,57.78 ,2600.1
+06/23/2020,Quận Đống Đa,Phường Nam Đồng,"Nhà mặt phố, mặt tiền",5,3.00,25.00 ,174.00 ,4350
+06/23/2020,Quận Thanh Xuân,Phường Thượng Đình,"Nhà mặt phố, mặt tiền",5,4.00,38.00 ,89.47 ,3399.86
+06/23/2020,Quận Thanh Xuân,Phường Khương Đình,"Nhà mặt phố, mặt tiền",5,5.00,36.00 ,94.44 ,3399.84
+06/23/2020,Quận Hoàng Mai,Phường Giáp Bát,"Nhà ngõ, hẻm",5,4.00,42.00 ,66.67 ,2800.14
+06/23/2020,Quận Hoàng Mai,Phường Giáp Bát,"Nhà ngõ, hẻm",4,4.00,61.00 ,59.02 ,3600.22
+06/23/2020,Quận Đống Đa,Phường Nam Đồng,"Nhà mặt phố, mặt tiền",5,4.00,20.00 ,217.50 ,4350
+06/23/2020,Quận Hai Bà Trưng,Phường Quỳnh Lôi,"Nhà mặt phố, mặt tiền",6,4.00,43.00 ,160.47 ,6900.21
+06/23/2020,Quận Long Biên,Phường Ngọc Thụy,"Nhà ngõ, hẻm",6,4.00,33.00 ,93.94 ,3100.02
+06/23/2020,Quận Hà Đông,Phường La Khê,Nhà phố liền kề,5,5.00,85.00 ,100.00 ,8500
+06/23/2020,Quận Long Biên,Phường Thượng Thanh,"Nhà ngõ, hẻm",3,4.00,68.00 ,41.18 ,2800.24
+06/23/2020,Quận Đống Đa,Phường Phương Mai,"Nhà ngõ, hẻm",4,4.00,45.00 ,142.22 ,6399.9
+06/09/2020,Huyện Thanh Trì,Xã Thanh Liệt,"Nhà ngõ, hẻm",4,3.00,33.00 ,80.30 ,2649.9
+06/09/2020,Quận Thanh Xuân,Phường Hạ Đình,"Nhà ngõ, hẻm",4,4.00,65.00 ,68.46 ,4449.9
+06/09/2020,Quận Thanh Xuân,Phường Khương Đình,"Nhà ngõ, hẻm",4,4.00,42.00 ,85.71 ,3599.82
+06/09/2020,Quận Thanh Xuân,Phường Khương Mai,"Nhà mặt phố, mặt tiền",3,3.00,54.00 ,157.41 ,8500.14
+06/09/2020,Quận Hoàng Mai,Phường Vĩnh Hưng,"Nhà mặt phố, mặt tiền",3,3.00,35.00 ,47.14 ,1649.9
+06/09/2020,Quận Cầu Giấy,Phường Dịch Vọng,"Nhà ngõ, hẻm",4,4.00,40.00 ,75.00 ,3000
+06/09/2020,Quận Hoàng Mai,Phường Tân Mai,"Nhà ngõ, hẻm",5,3.00,31.00 ,95.16 ,2949.96
+06/09/2020,Quận Bắc Từ Liêm,Phường Xuân Đỉnh,"Nhà mặt phố, mặt tiền",6,5.00,108.00 ,10.65 ,1150.2
+06/09/2020,Quận Ba Đình,Phường Ngọc Khánh,"Nhà ngõ, hẻm",4,4.00,46.00 ,133.70 ,6150.2
+06/09/2020,Quận Đống Đa,Phường Láng Hạ,"Nhà ngõ, hẻm",4,3.00,20.00 ,102.50 ,2050
+06/09/2020,Quận Ba Đình,Phường Đội Cấn,"Nhà ngõ, hẻm",5,4.00,28.00 ,125.00 ,3500
+06/09/2020,Quận Hà Đông,Phường Văn Quán,"Nhà ngõ, hẻm",5,3.00,30.00 ,75.00 ,2250
+06/09/2020,Quận Thanh Xuân,Phường Nhân Chính,"Nhà ngõ, hẻm",5,1.00,48.00 ,89.58 ,4299.84
+06/09/2020,Quận Hai Bà Trưng,Phường Cầu Dền,"Nhà ngõ, hẻm",4,2.00,35.00 ,85.71 ,2999.85
+06/09/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",4,3.00,25.00 ,78.00 ,1950
+06/09/2020,Quận Bắc Từ Liêm,Phường Xuân Đỉnh,"Nhà ngõ, hẻm",5,3.00,36.00 ,80.56 ,2900.16
+06/09/2020,Quận Ba Đình,Phường Cống Vị,"Nhà ngõ, hẻm",4,4.00,33.00 ,128.79 ,4250.07
+06/09/2020,Quận Long Biên,Phường Việt Hưng,"Nhà mặt phố, mặt tiền",7,8.00,83.00 ,126.51 ,10500.33
+06/09/2020,Quận Ba Đình,Phường Đội Cấn,"Nhà ngõ, hẻm",5,4.00,61.00 ,116.39 ,7099.79
+06/09/2020,Quận Hoàng Mai,Phường Lĩnh Nam,"Nhà ngõ, hẻm",3,3.00,32.00 ,51.56 ,1649.92
+06/09/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",4,3.00,35.00 ,81.43 ,2850.05
+06/09/2020,Quận Đống Đa,Phường Trung Liệt,"Nhà ngõ, hẻm",5,6.00,42.00 ,88.10 ,3700.2
+06/09/2020,Quận Long Biên,Phường Bồ Đề,"Nhà ngõ, hẻm",5,4.00,60.00 ,88.33 ,5299.8
+06/09/2020,Quận Hà Đông,Phường Dương Nội,Nhà phố liền kề,6,8.00,65.00 ,112.00 ,7280
+06/09/2020,Quận Thanh Xuân,Phường Khương Đình,"Nhà ngõ, hẻm",4,3.00,35.00 ,77.14 ,2699.9
+06/09/2020,Quận Hoàng Mai,Phường Đại Kim,"Nhà ngõ, hẻm",5,4.00,37.00 ,74.32 ,2749.84
+06/09/2020,Quận Cầu Giấy,Phường Dịch Vọng,"Nhà mặt phố, mặt tiền",3,2.00,60.00 ,191.67 ,11500.2
+06/09/2020,Quận Đống Đa,Phường Nam Đồng,"Nhà ngõ, hẻm",4,3.00,35.00 ,82.86 ,2900.1
+06/09/2020,Quận Thanh Xuân,Phường Nhân Chính,"Nhà ngõ, hẻm",5,3.00,30.00 ,98.33 ,2949.9
+06/09/2020,Quận Thanh Xuân,Phường Thượng Đình,"Nhà ngõ, hẻm",4,3.00,30.00 ,90.00 ,2700
+06/09/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà ngõ, hẻm",5,4.00,35.00 ,85.71 ,2999.85
+06/09/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà ngõ, hẻm",2,2.00,19.00 ,47.37 ,900.03
+06/09/2020,Quận Đống Đa,Phường Láng Hạ,"Nhà ngõ, hẻm",5,3.00,80.00 ,143.75 ,11500
+06/09/2020,Quận Hai Bà Trưng,Phường Đồng Nhân,"Nhà ngõ, hẻm",4,3.00,52.00 ,93.27 ,4850.04
+06/09/2020,Quận Long Biên,Phường Ngọc Lâm,"Nhà ngõ, hẻm",4,4.00,40.00 ,82.50 ,3300
+06/09/2020,Quận Đống Đa,Phường Quốc Tử Giám,"Nhà ngõ, hẻm",5,4.00,25.00 ,86.00 ,2150
+06/09/2020,Quận Hai Bà Trưng,Phường Trương Định,"Nhà mặt phố, mặt tiền",5,4.00,45.00 ,98.89 ,4450.05
+06/09/2020,Quận Đống Đa,Phường Quang Trung,"Nhà ngõ, hẻm",3,2.00,36.00 ,86.11 ,3099.96
+06/09/2020,Quận Đống Đa,Phường Hàng Bột,"Nhà ngõ, hẻm",5,3.00,40.00 ,90.00 ,3600
+06/09/2020,Quận Tây Hồ,Phường Bưởi,"Nhà ngõ, hẻm",5,4.00,35.00 ,92.86 ,3250.1
+06/09/2020,Quận Cầu Giấy,Phường Nghĩa Đô,"Nhà ngõ, hẻm",5,3.00,33.00 ,87.88 ,2900.04
+06/09/2020,Quận Đống Đa,Phường Trung Liệt,"Nhà ngõ, hẻm",4,3.00,25.00 ,92.00 ,2300
+06/09/2020,Quận Thanh Xuân,Phường Thượng Đình,"Nhà ngõ, hẻm",4,4.00,50.00 ,80.00 ,4000
+06/09/2020,Quận Cầu Giấy,Phường Nghĩa Đô,"Nhà ngõ, hẻm",5,3.00,31.00 ,93.55 ,2900.05
+06/09/2020,Quận Long Biên,Phường Đức Giang,"Nhà ngõ, hẻm",5,3.00,45.00 ,48.00 ,2160
+06/09/2020,Quận Long Biên,Phường Cự Khối,"Nhà ngõ, hẻm",4,3.00,30.00 ,57.67 ,1730.1
+05/20/2020,Quận Long Biên,Phường Ngọc Thụy,"Nhà mặt phố, mặt tiền",4,3.00,65.00 ,76.92 ,4999.8
+05/20/2020,Quận Hoàng Mai,Phường Giáp Bát,"Nhà mặt phố, mặt tiền",4,4.00,40.00 ,87.50 ,3500
+05/20/2020,Quận Long Biên,Phường Thạch Bàn,"Nhà ngõ, hẻm",5,3.00,32.00 ,65.63 ,2100.16
+05/20/2020,Quận Đống Đa,Phường Kim Liên,"Nhà ngõ, hẻm",5,4.00,41.00 ,114.63 ,4699.83
+05/20/2020,Quận Hai Bà Trưng,Phường Cầu Dền,"Nhà mặt phố, mặt tiền",8,2.00,172.00 ,325.58 ,55999.76
+05/20/2020,Quận Hoàng Mai,Phường Hoàng Văn Thụ,"Nhà mặt phố, mặt tiền",5,5.00,45.00 ,95.56 ,4300.2
+05/20/2020,Quận Hoàng Mai,Phường Giáp Bát,"Nhà ngõ, hẻm",5,4.00,48.00 ,93.75 ,4500
+05/20/2020,Quận Hai Bà Trưng,Phường Phố Huế,"Nhà mặt phố, mặt tiền",4,6.00,96.00 ,125.00 ,12000
+05/20/2020,Quận Ba Đình,Phường Ngọc Hà,Nhà biệt thự,4,5.00,88.00 ,104.55 ,9200.4
+05/04/2020,Quận Tây Hồ,Phường Tứ Liên,"Nhà ngõ, hẻm",1,1.00,72.00 ,62.50 ,4500
+04/27/2020,Quận Đống Đa,Phường Trung Phụng,"Nhà ngõ, hẻm",3,2.00,22.00 ,63.64 ,1400.08
+04/27/2020,Quận Ba Đình,Phường Đội Cấn,"Nhà ngõ, hẻm",4,3.00,42.00 ,83.33 ,3499.86
+03/31/2020,Quận Ba Đình,Phường Vĩnh Phúc,"Nhà mặt phố, mặt tiền",5,3.00,41.00 ,91.46 ,3749.86
+03/30/2020,Quận Nam Từ Liêm,Phường Mỹ Đình 1,"Nhà mặt phố, mặt tiền",7,4.00,35.00 ,145.71 ,5099.85
+03/29/2020,Quận Bắc Từ Liêm,Phường Cổ Nhuế 2,"Nhà mặt phố, mặt tiền",6,4.00,100.00 ,110.00 ,11000
+03/28/2020,Quận Nam Từ Liêm,Phường Mỹ Đình 1,"Nhà mặt phố, mặt tiền",5,6.00,43.00 ,120.93 ,5199.99
+03/28/2020,Quận Nam Từ Liêm,Phường Mỹ Đình 1,"Nhà ngõ, hẻm",6,5.00,45.00 ,71.11 ,3199.95
+03/27/2020,Quận Đống Đa,Phường Khương Thượng,"Nhà mặt phố, mặt tiền",5,7.00,40.00 ,125.00 ,5000
+03/26/2020,Quận Đống Đa,Phường Ô Chợ Dừa,"Nhà mặt phố, mặt tiền",3,3.00,30.00 ,106.67 ,3200.1
+03/26/2020,Quận Hai Bà Trưng,Phường Quỳnh Mai,"Nhà mặt phố, mặt tiền",5,4.00,52.00 ,105.77 ,5500.04
+03/25/2020,Quận Thanh Xuân,Phường Khương Mai,"Nhà mặt phố, mặt tiền",3,3.00,58.00 ,279.31 ,16199.98
+03/25/2020,Huyện Hoài Đức,Xã Vân Canh,Nhà biệt thự,4,4.00,114.00 ,64.04 ,7300.56
+03/25/2020,Quận Tây Hồ,Phường Xuân La,"Nhà mặt phố, mặt tiền",4,5.00,60.00 ,150.00 ,9000
+03/24/2020,Quận Tây Hồ,Phường Xuân La,Nhà phố liền kề,5,4.00,40.00 ,62.50 ,2500
+03/23/2020,Quận Nam Từ Liêm,Phường Mễ Trì,"Nhà mặt phố, mặt tiền",5,3.00,37.00 ,100.00 ,3700
+03/23/2020,Quận Hoàng Mai,Phường Định Công,"Nhà mặt phố, mặt tiền",5,4.00,60.00 ,135.00 ,8100
+03/22/2020,Quận Tây Hồ,Phường Bưởi,"Nhà mặt phố, mặt tiền",5,3.00,50.00 ,136.00 ,6800
+03/20/2020,Quận Nam Từ Liêm,Phường Cầu Diễn,"Nhà ngõ, hẻm",7,5.00,42.00 ,126.19 ,5299.98
+03/20/2020,Quận Đống Đa,Phường Nam Đồng,"Nhà mặt phố, mặt tiền",5,6.00,100.00 ,250.00 ,25000
+03/19/2020,Quận Long Biên,Phường Bồ Đề,"Nhà ngõ, hẻm",5,4.00,43.00 ,97.67 ,4199.81
+03/18/2020,Quận Tây Hồ,Phường Xuân La,"Nhà ngõ, hẻm",5,6.00,37.00 ,97.30 ,3600.1
+03/18/2020,Quận Thanh Xuân,Phường Thượng Đình,"Nhà ngõ, hẻm",5,3.00,38.00 ,94.74 ,3600.12
+03/18/2020,Quận Tây Hồ,Phường Yên Phụ,"Nhà mặt phố, mặt tiền",5,6.00,50.00 ,160.00 ,8000
+03/17/2020,Quận Cầu Giấy,Phường Trung Hoà,"Nhà ngõ, hẻm",4,4.00,62.00 ,85.48 ,5299.76
+03/17/2020,Quận Nam Từ Liêm,Phường Mỹ Đình 1,"Nhà mặt phố, mặt tiền",8,8.00,55.00 ,112.73 ,6200.15
+03/17/2020,Quận Long Biên,Phường Gia Thụy,"Nhà mặt phố, mặt tiền",5,4.00,33.00 ,103.03 ,3399.99
+03/16/2020,Quận Tây Hồ,Phường Bưởi,"Nhà ngõ, hẻm",1,2.00,69.00 ,130.43 ,8999.67
+03/14/2020,Quận Thanh Xuân,Phường Khương Đình,"Nhà mặt phố, mặt tiền",4,10.00,95.00 ,150.53 ,14300.35
+03/14/2020,Quận Cầu Giấy,Phường Quan Hoa,"Nhà mặt phố, mặt tiền",6,6.00,90.00 ,143.33 ,12899.7
+03/12/2020,Quận Hai Bà Trưng,Phường Đống Mác,Nhà phố liền kề,6,4.00,36.00 ,169.44 ,6099.84
+03/11/2020,Quận Thanh Xuân,Phường Khương Mai,Nhà phố liền kề,6,8.00,70.00 ,192.86 ,13500.2
+03/11/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà mặt phố, mặt tiền",5,5.00,60.00 ,130.00 ,7800
+03/10/2020,Quận Nam Từ Liêm,Phường Mễ Trì,Nhà biệt thự,4,4.00,195.00 ,123.08 ,24000.6
+03/09/2020,Quận Ba Đình,Phường Kim Mã,"Nhà ngõ, hẻm",4,4.00,52.00 ,86.54 ,4500.08
+03/05/2020,Quận Thanh Xuân,Phường Nhân Chính,"Nhà ngõ, hẻm",4,4.00,62.00 ,90.32 ,5599.84
+02/29/2020,Quận Thanh Xuân,Phường Khương Trung,"Nhà mặt phố, mặt tiền",5,4.00,64.00 ,257.81 ,16499.84
+02/28/2020,Quận Đống Đa,Phường Quốc Tử Giám,"Nhà mặt phố, mặt tiền",4,5.00,155.00 ,193.55 ,30000.25
+02/28/2020,Quận Đống Đa,Phường Láng Hạ,Nhà phố liền kề,4,3.00,60.00 ,183.33 ,10999.8
+02/24/2020,Quận Thanh Xuân,Phường Phương Liệt,"Nhà mặt phố, mặt tiền",5,5.00,96.00 ,112.50 ,10800
+02/24/2020,Quận Đống Đa,Phường Quang Trung,"Nhà mặt phố, mặt tiền",2,3.00,68.00 ,257.35 ,17499.8
+02/20/2020,Quận Long Biên,Phường Thượng Thanh,"Nhà ngõ, hẻm",5,3.00,33.00 ,57.58 ,1900.14
+02/19/2020,Quận Tây Hồ,Phường Quảng An,Nhà biệt thự,5,5.00,99.00 ,176.77 ,17500.23
+02/17/2020,Quận Cầu Giấy,Phường Trung Hoà,"Nhà ngõ, hẻm",5,5.00,70.00 ,235.71 ,16499.7
+02/16/2020,Quận Đống Đa,Phường Quốc Tử Giám,"Nhà mặt phố, mặt tiền",5,6.00,100.00 ,360.00 ,36000
+02/13/2020,Quận Hai Bà Trưng,Phường Minh Khai,"Nhà mặt phố, mặt tiền",4,2.00,11.00 ,61.82 ,680.02
+02/12/2020,Quận Hai Bà Trưng,Phường Lê Đại Hành,"Nhà mặt phố, mặt tiền",5,4.00,41.00 ,304.88 ,12500.08
+02/11/2020,Quận Hoàng Mai,Phường Định Công,"Nhà ngõ, hẻm",5,6.00,45.00 ,96.67 ,4350.15
+02/10/2020,Quận Đống Đa,Phường Nam Đồng,Nhà phố liền kề,5,6.00,50.00 ,290.00 ,14500
+02/10/2020,Quận Thanh Xuân,Phường Khương Đình,Nhà phố liền kề,4,4.00,42.00 ,71.43 ,3000.06
+02/09/2020,Quận Ba Đình,Phường Phúc Xá,"Nhà ngõ, hẻm",3,3.00,32.00 ,375.00 ,12000
