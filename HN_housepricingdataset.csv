@@ -1,0 +1,782 @@
+Date,District,Ward,Types of houses,House ownership certificate,Number of floors,Number of bedrooms,Total rooms,Area (m2),Length (m),Width (m),Price (million)/ m2,Total price (million)
+02/09/2020,Ba Dinh,Phuc Xa,Alley house,Yes,3,3,7,32,9.14,3.50,375,12000
+02/10/2020,Thanh Xuan,Khuong Dinh,Terraced house,Yes,4,4,10,42,8.40,5.00,71.43,3000.06
+02/10/2020,Dong Da,Nam Dong,Terraced house,Yes,5,6,13,50,10.00,5.00,290,14500
+02/11/2020,Hoang Mai,Dinh Cong,Alley house,Yes,5,6,11,45,8.04,5.60,96.67,4350.15
+02/12/2020,Hai Ba Trung,Le Dai Hanh,Townhouse,Yes,5,4,10,41,8.20,5.00,304.88,12500.08
+02/16/2020,Dong Da,Quoc Tu Giam,Townhouse,Yes,5,6,12,100,13.33,7.50,360,36000
+02/17/2020,Cau Giay,Trung Hoa,Alley house,Yes,5,5,10,70,11.29,6.20,235.71,16499.7
+02/19/2020,Tay Ho,Quang An,Villa,Yes,5,5,10,99,13.20,7.50,176.77,17500.23
+02/20/2020,Long Bien,Thuong Thanh,Alley house,Yes,5,3,7,33,9.43,3.50,57.58,1900.14
+02/24/2020,Thanh Xuan,Phuong Liet,Townhouse,Yes,5,5,11,96,12.31,7.80,112.5,10800
+02/24/2020,Dong Da,Quang Trung,Townhouse,Yes,2,3,6,68,10.46,6.50,257.35,17499.8
+02/28/2020,Dong Da,Lang Ha,Terraced house,Yes,4,3,12,60,9.23,6.50,183.33,10999.8
+02/28/2020,Dong Da,Quoc Tu Giam,Townhouse,Yes,4,5,10,155,12.92,12.00,193.55,30000.25
+02/29/2020,Thanh Xuan,Khuong Trung,Townhouse,Yes,5,4,10,64,9.85,6.50,257.81,16499.84
+03/05/2020,Thanh Xuan,Nhan Chinh,Alley house,Yes,4,4,8,62,9.54,6.50,90.32,5599.84
+03/09/2020,Ba Dinh,Kim Ma,Alley house,Yes,4,4,8,52,10.40,5.00,86.54,4500.08
+03/10/2020,Nam Tu Liem,Me Tri,Villa,Yes,4,4,13,195,30.00,6.50,123.08,24000.6
+03/11/2020,Thanh Xuan,Khuong Mai,Terraced house,Yes,6,8,16,70,10.77,6.50,192.86,13500.2
+03/11/2020,Thanh Xuan,Khuong Trung,Townhouse,Yes,5,5,11,60,9.23,6.50,130,7800
+03/12/2020,Hai Ba Trung,Dong Mac,Terraced house,Yes,6,4,13,36,10.98,3.28,169.44,6099.84
+03/14/2020,Thanh Xuan,Khuong Dinh,Townhouse,Yes,4,10,15,95,13.34,7.12,150.53,14300.35
+03/14/2020,Cau Giay,Quan Hoa,Townhouse,Yes,6,6,13,90,12.00,7.50,143.33,12899.7
+03/16/2020,Tay Ho,Buoi,Alley house,Yes,1,2,6,69,10.62,6.50,130.43,8999.67
+03/17/2020,Long Bien,Gia Thuy,Townhouse,Yes,5,4,10,33,9.38,3.52,103.03,3399.99
+03/17/2020,Nam Tu Liem,My Dinh 1,Townhouse,Yes,8,8,17,55,11.00,5.00,112.73,6200.15
+03/17/2020,Cau Giay,Trung Hoa,Alley house,Yes,4,4,8,62,8.92,6.95,85.48,5299.76
+03/18/2020,Thanh Xuan,Thuong Dinh,Alley house,No,5,3,7,38,10.86,3.50,94.74,3600.12
+03/18/2020,Tay Ho,Xuan La,Alley house,Yes,5,6,11,37,10.57,3.50,97.3,3600.1
+03/18/2020,Tay Ho,Yen Phu,Townhouse,Yes,5,6,12,50,12.50,4.00,160,8000
+03/19/2020,Long Bien,Bo De,Alley house,Yes,5,4,8,43,7.29,5.90,97.67,4199.81
+03/20/2020,Nam Tu Liem,Cau Dien,Alley house,Yes,7,5,10,42,8.40,5.00,126.19,5299.98
+03/20/2020,Dong Da,Nam Dong,Townhouse,Yes,5,6,12,100,13.33,7.50,250,25000
+03/22/2020,Tay Ho,Buoi,Townhouse,Yes,5,3,9,50,8.33,6.00,136,6800
+03/23/2020,Hoang Mai,Dinh Cong,Townhouse,Yes,5,4,10,60,9.23,6.50,135,8100
+03/23/2020,Nam Tu Liem,Me Tri,Townhouse,Yes,5,3,9,37,11.01,3.36,100,3700
+03/24/2020,Tay Ho,Xuan La,Terraced house,Yes,5,4,11,40,11.43,3.50,62.5,2500
+03/25/2020,Thanh Xuan,Khuong Mai,Townhouse,Yes,3,3,7,58,8.92,6.50,279.31,16199.98
+03/25/2020,Hoai Duc,Van Canh,Villa,Yes,4,4,11,114,12.67,9.00,64.04,7300.56
+03/25/2020,Tay Ho,Xuan La,Townhouse,Yes,4,5,10,60,9.23,6.50,150,9000
+03/26/2020,Dong Da,O Cho Dua,Townhouse,Yes,3,3,7,30,10.00,3.00,106.67,3200.1
+03/26/2020,Hai Ba Trung,Quynh Mai,Townhouse,Yes,5,4,10,52,10.20,5.10,105.77,5500.04
+03/27/2020,Dong Da,Khuong Thuong,Townhouse,Yes,5,7,13,40,11.43,3.50,125,5000
+03/28/2020,Nam Tu Liem,My Dinh 1,Townhouse,Yes,5,6,12,43,8.60,5.00,120.93,5199.99
+03/28/2020,Nam Tu Liem,My Dinh 1,Alley house,Yes,6,5,10,45,9.00,5.00,71.11,3199.95
+03/29/2020,Bac Tu Liem,Co Nhue 2,Townhouse,Yes,6,4,11,100,12.15,8.23,110,11000
+03/30/2020,Nam Tu Liem,My Dinh 1,Townhouse,Yes,7,4,12,35,10.00,3.50,145.71,5099.85
+03/31/2020,Ba Dinh,Vinh Phuc,Townhouse,Yes,5,3,9,41,8.04,5.10,91.46,3749.86
+04/27/2020,Ba Dinh,Doi Can,Alley house,Yes,4,3,7,42,7.64,5.50,83.33,3499.86
+04/27/2020,Dong Da,Trung Phung,Alley house,No,3,2,6,22,5.50,4.00,63.64,1400.08
+05/04/2020,Tay Ho,Tu Lien,Alley house,Yes,1,1,5,72,10.11,7.12,62.5,4500
+05/20/2020,Hai Ba Trung,Cau Den,Townhouse,Yes,8,2,11,172,27.30,6.30,325.58,55999.76
+05/20/2020,Hoang Mai,Giap Bat,Townhouse,Yes,4,4,9,40,11.43,3.50,87.5,3500
+05/20/2020,Hoang Mai,Giap Bat,Alley house,Yes,5,4,8,48,9.60,5.00,93.75,4500
+05/20/2020,Hoang Mai,Hoang Van Thu,Townhouse,Yes,5,5,11,45,9.00,5.00,95.56,4300.2
+05/20/2020,Dong Da,Kim Lien,Alley house,No,5,4,8,41,8.20,5.00,114.63,4699.83
+05/20/2020,Ba Dinh,Ngoc Ha,Villa,Yes,4,5,14,88,11.73,7.50,104.55,9200.4
+05/20/2020,Long Bien,Ngoc Thuy,Townhouse,Yes,4,3,8,65,10.40,6.25,76.92,4999.8
+05/20/2020,Hai Ba Trung,Pho Hue,Townhouse,Yes,4,6,11,96,12.80,7.50,125,12000
+05/20/2020,Long Bien,Thach Ban,Alley house,Yes,5,3,7,32,8.21,3.90,65.63,2100.16
+06/09/2020,Long Bien,Bo De,Alley house,Yes,5,4,8,60,9.23,6.50,88.33,5299.8
+06/09/2020,Tay Ho,Buoi,Alley house,Yes,5,4,8,35,10.00,3.50,92.86,3250.1
+06/09/2020,Hai Ba Trung,Cau Den,Alley house,Yes,4,2,6,35,10.00,3.50,85.71,2999.85
+06/09/2020,Ba Dinh,Cong Vi,Alley house,Yes,4,4,8,33,9.12,3.62,128.79,4250.07
+06/09/2020,Long Bien,Cu Khoi,Alley house,Yes,4,3,7,30,9.09,3.30,57.67,1730.1
+06/09/2020,Hoang Mai,Dai Kim,Alley house,No,5,4,8,37,10.57,3.50,74.32,2749.84
+06/09/2020,Cau Giay,Dich Vong,Alley house,Yes,4,4,8,40,11.43,3.50,75,3000
+06/09/2020,Cau Giay,Dich Vong,Townhouse,Yes,3,2,6,60,9.60,6.25,191.67,11500.2
+06/09/2020,Ba Dinh,Doi Can,Alley house,No,5,4,8,28,9.33,3.00,125,3500
+06/09/2020,Ba Dinh,Doi Can,Alley house,Yes,5,4,8,61,9.04,6.75,116.39,7099.79
+06/09/2020,Hai Ba Trung,Dong Nhan,Alley house,Yes,4,3,7,52,10.40,5.00,93.27,4850.04
+06/09/2020,Long Bien,Duc Giang,Alley house,Yes,5,3,7,45,8.49,5.30,48,2160
+06/09/2020,Ha Dong,Duong Noi,Terraced house,Yes,6,8,11,65,10.00,6.50,112,7280
+06/09/2020,Thanh Xuan,Ha Dinh,Alley house,Yes,4,4,8,65,10.24,6.35,68.46,4449.9
+06/09/2020,Dong Da,Hang Bot,Alley house,No,5,3,7,40,11.43,3.50,90,3600
+06/09/2020,Thanh Xuan,Khuong Dinh,Alley house,Yes,4,3,7,35,10.00,3.50,77.14,2699.9
+06/09/2020,Thanh Xuan,Khuong Dinh,Alley house,Yes,4,4,8,42,8.40,5.00,85.71,3599.82
+06/09/2020,Thanh Xuan,Khuong Mai,Townhouse,Yes,3,3,7,54,10.80,5.00,157.41,8500.14
+06/09/2020,Thanh Xuan,Khuong Trung,Alley house,No,4,3,7,25,5.95,4.20,78,1950
+06/09/2020,Thanh Xuan,Khuong Trung,Alley house,Yes,5,4,8,35,10.61,3.30,85.71,2999.85
+06/09/2020,Thanh Xuan,Khuong Trung,Alley house,No,4,3,7,35,10.00,3.50,81.43,2850.05
+06/09/2020,Dong Da,Lang Ha,Alley house,No,4,3,7,20,5.71,3.50,102.5,2050
+06/09/2020,Dong Da,Lang Ha,Alley house,Yes,5,3,7,80,12.31,6.50,143.75,11500
+06/09/2020,Hoang Mai,Linh Nam,Alley house,Yes,3,3,7,32,9.14,3.50,51.56,1649.92
+06/09/2020,Dong Da,Nam Dong,Alley house,Yes,4,3,7,35,8.91,3.93,82.86,2900.1
+06/09/2020,Cau Giay,Nghia Do,Alley house,Yes,5,3,7,31,7.95,3.90,93.55,2900.05
+06/09/2020,Cau Giay,Nghia Do,Alley house,Yes,5,3,7,33,9.43,3.50,87.88,2900.04
+06/09/2020,Ba Dinh,Ngoc Khanh,Alley house,Yes,4,4,8,46,9.20,5.00,133.7,6150.2
+06/09/2020,Long Bien,Ngoc Lam,Alley house,Yes,4,4,8,40,13.11,3.05,82.5,3300
+06/09/2020,Thanh Xuan,Nhan Chinh,Alley house,Yes,5,3,7,30,8.82,3.40,98.33,2949.9
+06/09/2020,Thanh Xuan,Nhan Chinh,Alley house,Yes,5,1,5,48,9.60,5.00,89.58,4299.84
+06/09/2020,Dong Da,Quang Trung,Alley house,Yes,3,2,6,36,10.75,3.35,86.11,3099.96
+06/09/2020,Dong Da,Quoc Tu Giam,Alley house,No,5,4,8,25,6.25,4.00,86,2150
+06/09/2020,Hoang Mai,Tan Mai,Alley house,No,5,3,7,31,8.86,3.50,95.16,2949.96
+06/09/2020,Thanh Tri,Thanh Liet,Alley house,Yes,4,3,7,33,10.38,3.18,80.3,2649.9
+06/09/2020,Thanh Xuan,Thuong Dinh,Alley house,No,4,3,7,30,10.00,3.00,90,2700
+06/09/2020,Thanh Xuan,Thuong Dinh,Alley house,No,4,4,8,50,10.00,5.00,80,4000
+06/09/2020,Dong Da,Trung Liet,Alley house,No,4,3,7,25,5.68,4.40,92,2300
+06/09/2020,Dong Da,Trung Liet,Alley house,Yes,5,6,11,42,8.40,5.00,88.1,3700.2
+06/09/2020,Hai Ba Trung,Truong Dinh,Townhouse,Yes,5,4,10,45,8.74,5.15,98.89,4450.05
+06/09/2020,Ha Dong,Van Quan,Alley house,Yes,5,3,7,30,10.00,3.00,75,2250
+06/09/2020,Long Bien,Viet Hung,Townhouse,Yes,7,8,16,83,11.07,7.50,126.51,10500.33
+06/09/2020,Hoang Mai,Vinh Hung,Townhouse,Yes,3,3,7,35,10.00,3.50,47.14,1649.9
+06/09/2020,Bac Tu Liem,Xuan Dinh,Alley house,Yes,5,3,7,36,10.29,3.50,80.56,2900.16
+06/09/2020,Bac Tu Liem,Xuan Dinh,Townhouse,Yes,6,5,12,108,11.68,9.25,10.65,1150.2
+06/23/2020,Tay Ho,Buoi,Alley house,Yes,6,4,8,40,11.11,3.60,162.5,6500
+06/23/2020,Hoang Mai,Dai Kim,Alley house,No,5,6,11,50,10.00,5.00,70,3500
+06/23/2020,Cau Giay,Dich Vong Hau,Alley house,No,4,4,8,46,9.20,5.00,85.87,3950.02
+06/23/2020,Long Bien,Gia Thuy,Alley house,No,5,3,7,35,10.14,3.45,100,3500
+06/23/2020,Hoang Mai,Giap Bat,Alley house,No,5,4,8,42,8.08,5.20,66.67,2800.14
+06/23/2020,Hoang Mai,Giap Bat,Alley house,Yes,4,4,8,61,9.38,6.50,59.02,3600.22
+06/23/2020,Hoang Mai,Hoang Liet,Alley house,Yes,5,4,8,35,10.48,3.34,73.71,2579.85
+06/23/2020,Hoang Mai,Hoang Van Thu,Alley house,Yes,4,4,8,44,8.46,5.20,82.95,3649.8
+06/23/2020,Thanh Xuan,Khuong Dinh,Townhouse,Yes,5,5,11,36,10.62,3.39,94.44,3399.84
+06/23/2020,Thanh Xuan,Khuong Dinh,Townhouse,Yes,5,4,10,39,11.68,3.34,87.18,3400.02
+06/23/2020,Thanh Xuan,Khuong Dinh,Alley house,Yes,4,2,6,40,11.43,3.50,65,2600
+06/23/2020,Thanh Xuan,Khuong Mai,Townhouse,Yes,4,4,9,52,10.40,5.00,115.38,5999.76
+06/23/2020,Thanh Xuan,Khuong Mai,Alley house,Yes,4,4,8,60,9.23,6.50,75,4500
+06/23/2020,Thanh Xuan,Khuong Mai,Alley house,Yes,5,6,11,70,10.77,6.50,67.14,4699.8
+06/23/2020,Ba Dinh,Kim Ma,Townhouse,No,3,3,7,28,8.24,3.40,160.71,4499.88
+06/23/2020,Ba Dinh,Kim Ma,Townhouse,Yes,5,4,10,56,8.62,6.50,428.57,23999.92
+06/23/2020,Ha Dong,La Khe,Alley house,Yes,2,4,8,50,10.00,5.00,53,2650
+06/23/2020,Ha Dong,La Khe,Terraced house,Yes,5,5,14,85,11.33,7.50,100,8500
+06/23/2020,Dong Da,Lang Ha,Alley house,Yes,8,4,8,50,10.00,5.00,264,13200
+06/23/2020,Hoang Mai,Linh Nam,Alley house,No,5,3,7,35,10.00,3.50,60,2100
+06/23/2020,Nam Tu Liem,Me Tri,Alley house,Yes,4,4,8,40,11.43,3.50,92.5,3700
+06/23/2020,Nam Tu Liem,My Dinh 1,Townhouse,Yes,2,2,5,110,12.22,9.00,76.36,8399.6
+06/23/2020,Nam Tu Liem,My Dinh 2,Alley house,Yes,5,4,8,40,11.43,3.50,90,3600
+06/23/2020,Dong Da,Nam Dong,Townhouse,No,5,4,10,20,5.00,4.00,217.5,4350
+06/23/2020,Dong Da,Nam Dong,Townhouse,No,5,3,9,25,5.95,4.20,174,4350
+06/23/2020,Long Bien,Ngoc Lam,Alley house,Yes,5,3,7,38,10.86,3.50,100,3800
+06/23/2020,Long Bien,Ngoc Thuy,Alley house,Yes,6,4,8,33,9.43,3.50,93.94,3100.02
+06/23/2020,Nam Tu Liem,Phu Do,Alley house,Yes,1,2,6,55,11.46,4.80,14.91,820.05
+06/23/2020,Hoan Kiem,Phuc Tan,Alley house,No,4,6,11,58,8.92,6.50,124.14,7200.12
+06/23/2020,Dong Da,Phuong Mai,Alley house,Yes,4,4,8,45,9.00,5.00,142.22,6399.9
+06/23/2020,Hai Ba Trung,Quynh Loi,Townhouse,Yes,6,4,11,43,8.60,5.00,160.47,6900.21
+06/23/2020,Hoang Mai,Tan Mai,Townhouse,Yes,5,4,10,35,9.43,3.71,102.86,3600.1
+06/23/2020,Hoang Mai,Tan Mai,Alley house,Yes,4,4,8,38,11.34,3.35,62.11,2360.18
+06/23/2020,Hai Ba Trung,Thanh Luong,Alley house,No,3,2,6,48,9.14,5.25,75,3600
+06/23/2020,Hai Ba Trung,Thanh Nhan,Alley house,Yes,4,2,6,31,8.86,3.50,80.65,2500.15
+06/23/2020,Hoang Mai,Thinh Liet,Townhouse,Yes,1,1,3,50,9.26,5.40,80,4000
+06/23/2020,Dong Da,Thinh Quang,Alley house,Yes,5,4,8,50,10.00,5.00,100,5000
+06/23/2020,Thanh Xuan,Thuong Dinh,Alley house,Yes,5,4,8,33,9.43,3.50,100,3300
+06/23/2020,Thanh Xuan,Thuong Dinh,Townhouse,Yes,5,4,10,38,10.73,3.54,89.47,3399.86
+06/23/2020,Long Bien,Thuong Thanh,Alley house,Yes,3,4,8,68,10.46,6.50,41.18,2800.24
+06/23/2020,Tay Ho,Tu Lien,Alley house,Yes,5,4,8,50,12.02,4.16,108,5400
+06/23/2020,Ha Dong,Van Quan,Alley house,Yes,4,3,7,60,9.23,6.50,55.83,3349.8
+06/23/2020,Hoang Mai,Vinh Hung,Alley house,Yes,3,2,6,32,8.00,4.00,65.63,2100.16
+06/23/2020,Ba Dinh,Vinh Phuc,Alley house,Yes,4,4,8,40,11.59,3.45,86.25,3450
+06/23/2020,Hai Ba Trung,Vinh Tuy,Alley house,Yes,5,5,10,34,9.71,3.50,98.53,3350.02
+06/23/2020,Tay Ho,Xuan La,Townhouse,Yes,5,6,12,45,8.74,5.15,233.33,10499.85
+06/23/2020,Ha Dong,Yen Nghia,Alley house,Yes,4,4,8,45,8.49,5.30,57.78,2600.1
+07/02/2020,Bac Tu Liem,Co Nhue 2,Alley house,Yes,5,3,7,30,10.00,3.00,983.33,29499.9
+07/02/2020,Ba Dinh,Cong Vi,Townhouse,Yes,5,4,10,40,11.98,3.34,300,12000
+07/02/2020,Cau Giay,Dich Vong Hau,Alley house,Yes,5,5,10,38,10.70,3.55,198.68,7549.84
+07/02/2020,Hoang Mai,Giap Bat,Alley house,Yes,6,2,6,20,5.00,4.00,70,1400
+07/02/2020,Hoang Mai,Giap Bat,Alley house,Yes,5,3,7,52,10.83,4.80,67.31,3500.12
+07/02/2020,Thanh Xuan,Ha Dinh,Alley house,Yes,4,4,8,45,8.65,5.20,87.78,3950.1
+07/02/2020,Thanh Xuan,Khuong Mai,Terraced house,Yes,5,4,12,45,9.00,5.00,124.44,5599.8
+07/02/2020,Thanh Xuan,Khuong Trung,Townhouse,Yes,4,4,9,48,9.60,5.00,143.75,6900
+07/02/2020,Dong Da,Lang Ha,Alley house,Yes,6,7,12,46,9.20,5.00,122.83,5650.18
+07/02/2020,Dong Da,Lang Thuong,Alley house,Yes,3,3,7,36,10.29,3.50,69.44,2499.84
+07/02/2020,Hoang Mai,Linh Nam,Alley house,Yes,2,1,5,26,8.67,3.00,57.31,1490.06
+07/02/2020,Long Bien,Long Bien,Alley house,Yes,5,3,7,32,9.14,3.50,85.94,2750.08
+07/02/2020,Long Bien,Long Bien,Alley house,Yes,3,3,7,58,8.92,6.50,53.45,3100.1
+07/02/2020,Long Bien,Long Bien,Alley house,Yes,4,4,8,61,9.38,6.50,54.92,3350.12
+07/02/2020,Cau Giay,Mai Dich,Alley house,Yes,4,5,10,53,11.78,4.50,79.25,4200.25
+07/02/2020,Cau Giay,Mai Dich,Alley house,Yes,5,6,11,55,11.00,5.00,81.82,4500.1
+07/02/2020,Nam Tu Liem,Me Tri,Alley house,Yes,3,3,7,50,10.00,5.00,100,5000
+07/02/2020,Hai Ba Trung,Minh Khai,Alley house,Yes,4,3,7,35,10.00,3.50,74.29,2600.15
+07/02/2020,Hai Ba Trung,Minh Khai,Alley house,No,4,4,8,38,10.86,3.50,75,2850
+07/02/2020,Dong Da,Nga Tu So,Alley house,No,4,4,8,48,8.89,5.40,114.58,5499.84
+07/02/2020,Cau Giay,Nghia Do,Alley house,No,5,4,8,35,10.00,3.50,197.14,6899.9
+07/02/2020,Cau Giay,Nghia Do,Alley house,Yes,3,3,7,52,10.40,5.00,64.42,3349.84
+07/02/2020,Ba Dinh,Ngoc Khanh,Alley house,No,4,3,7,35,9.36,3.74,111.43,3900.05
+07/02/2020,Hai Ba Trung,Nguyen Du,Alley house,Yes,5,3,7,35,10.00,3.50,97.14,3399.9
+07/02/2020,Tay Ho,Nhat Tan,Alley house,Yes,5,4,8,36,10.29,3.50,77.78,2800.08
+07/02/2020,Tay Ho,Nhat Tan,Townhouse,Yes,5,4,10,36,10.43,3.45,77.78,2800.08
+07/02/2020,Ha Dong,Phu Lam,Terraced house,Yes,5,5,12,35,9.86,3.55,68.57,2399.95
+07/02/2020,Dong Da,Quang Trung,Alley house,Yes,4,4,8,36,10.29,3.50,90.28,3250.08
+07/02/2020,Hai Ba Trung,Quynh Loi,Townhouse,Yes,5,3,9,25,6.25,4.00,88,2200
+07/02/2020,Ba Dinh,Thanh Cong,Alley house,Yes,4,4,8,45,9.00,5.00,131.11,5899.95
+07/02/2020,Thanh Tri,Thanh Liet,Alley house,Yes,4,4,8,35,10.00,3.50,70,2450
+07/02/2020,Hoang Mai,Thanh Tri,Townhouse,Yes,2,3,6,92,12.27,7.50,72.83,6700.36
+07/02/2020,Tay Ho,Thuy Khue,Alley house,Yes,5,3,7,45,9.00,5.00,102.22,4599.9
+07/02/2020,Dong Da,Trung Liet,Alley house,No,4,4,8,35,10.00,3.50,148.57,5199.95
+07/02/2020,Dong Da,Trung Liet,Alley house,Yes,4,4,8,40,11.43,3.50,140,5600
+07/02/2020,Dong Da,Trung Phung,Alley house,No,3,2,6,22,5.50,4.00,100,2200
+07/02/2020,Dong Da,Trung Phung,Alley house,No,4,3,7,24,6.00,4.00,89.58,2149.92
+07/02/2020,Tay Ho,Tu Lien,Alley house,Yes,4,3,7,65,10.00,6.50,103.85,6750.25
+07/02/2020,Tay Ho,Tu Lien,Alley house,Yes,4,4,8,67,10.31,6.50,73.13,4899.71
+07/02/2020,Hoang Mai,Tuong Mai,Alley house,No,4,4,8,37,10.57,3.50,86.49,3200.13
+07/14/2020,Hai Ba Trung,Bach Khoa,Alley house,Yes,5,4,8,50,10.00,5.00,116,5800
+07/14/2020,Bac Tu Liem,Co Nhue 2,Alley house,Yes,5,6,11,51,10.20,5.00,111.76,5699.76
+07/14/2020,Hoang Mai,Dai Kim,Alley house,Yes,4,4,8,58,9.67,6.00,64.66,3750.28
+07/14/2020,Hoang Mai,Dai Kim,Alley house,No,4,4,8,65,10.57,6.15,69.23,4499.95
+07/14/2020,Hoang Mai,Dinh Cong,Townhouse,Yes,4,4,9,53,10.60,5.00,84.91,4500.23
+07/14/2020,Ba Dinh,Doi Can,Alley house,Yes,3,2,6,32,9.14,3.50,96.88,3100.16
+07/14/2020,Hai Ba Trung,Dong Tam,Alley house,No,4,3,7,20,5.00,4.00,102.5,2050
+07/14/2020,Ha Dong,Ha Cau,Alley house,Yes,4,4,8,40,12.70,3.15,97.5,3900
+07/14/2020,Dong Da,Kham Thien,Alley house,Yes,4,2,6,30,8.82,3.40,76.67,2300.1
+07/14/2020,Dong Da,Kham Thien,Alley house,No,3,3,7,30,10.00,3.00,63.33,1899.9
+07/14/2020,Thanh Xuan,Khuong Dinh,Alley house,Yes,4,4,8,52,10.40,5.00,58.65,3049.8
+07/14/2020,Thanh Xuan,Khuong Dinh,Alley house,No,4,4,8,65,10.00,6.50,56.92,3699.8
+07/14/2020,Thanh Xuan,Khuong Trung,Alley house,Yes,5,3,7,43,8.60,5.00,115.81,4979.83
+07/14/2020,Long Bien,Long Bien,Alley house,Yes,5,4,8,35,10.00,3.50,65.71,2299.85
+07/14/2020,Bac Tu Liem,Minh Khai,Alley house,Yes,2,4,8,101,11.22,9.00,29.7,2999.7
+07/14/2020,Ha Dong,Mo Lao,Alley house,No,2,1,5,23,5.75,4.00,86.09,1980.07
+07/14/2020,Ha Dong,Mo Lao,Alley house,Yes,4,4,8,42,8.38,5.01,96.43,4050.06
+07/14/2020,Thanh Xuan,Nhan Chinh,Alley house,Yes,4,3,7,48,9.60,5.00,79.17,3800.16
+07/14/2020,Dong Da,O Cho Dua,Alley house,Yes,4,3,7,38,10.86,3.50,76.32,2900.16
+07/14/2020,Dong Da,Phuong Lien,Alley house,Yes,4,3,7,30,8.82,3.40,83.33,2499.9
+07/14/2020,Thanh Xuan,Phuong Liet,Alley house,No,4,2,6,29,9.67,3.00,86.21,2500.09
+07/14/2020,Cau Giay,Quan Hoa,Alley house,Yes,5,2,6,33,9.43,3.50,95.45,3149.85
+07/14/2020,Cau Giay,Quan Hoa,Alley house,Yes,4,3,7,41,8.54,4.80,80.49,3300.09
+07/14/2020,Cau Giay,Quan Hoa,Alley house,Yes,5,6,11,55,11.00,5.00,140,7700
+07/14/2020,Dong Da,Quang Trung,Alley house,Yes,5,3,7,35,10.00,3.50,74.29,2600.15
+07/14/2020,Hai Ba Trung,Thanh Luong,Alley house,Yes,5,6,11,70,10.77,6.50,127.86,8950.2
+07/14/2020,Thanh Xuan,Thuong Dinh,Alley house,Yes,5,3,7,36,10.29,3.50,93.06,3350.16
+07/14/2020,Dong Da,Trung Liet,Alley house,Yes,6,4,8,43,8.60,5.00,193.02,8299.86
+07/14/2020,Hai Ba Trung,Truong Dinh,Alley house,No,4,3,7,41,8.20,5.00,76.83,3150.03
+07/14/2020,Thanh Tri,Van Dien,Alley house,Yes,4,3,7,30,10.00,3.00,53.33,1599.9
+07/14/2020,Ha Dong,Van Phuc,Alley house,Yes,5,6,11,40,11.43,3.50,67.5,2700
+07/25/2020,Tay Ho,Buoi,Townhouse,Yes,3,3,7,78,9.51,8.20,191.03,14900.34
+07/25/2020,Ba Dinh,Cong Vi,Townhouse,Yes,7,5,13,65,10.00,6.50,246.15,15999.75
+07/25/2020,Hoang Mai,Dai Kim,Alley house,No,4,4,8,45,8.52,5.28,88.89,4000.05
+07/25/2020,Cau Giay,Dich Vong,Alley house,No,4,3,7,32,8.89,3.60,184.38,5900.16
+07/25/2020,Ba Dinh,Dien Bien Phu,Alley house,Yes,5,3,7,32,9.14,3.50,248.44,7950.08
+07/25/2020,Hoang Mai,Dinh Cong,Alley house,Yes,5,3,7,31,8.86,3.50,100,3100
+07/25/2020,Hoang Mai,Dinh Cong,Alley house,Yes,5,3,7,44,8.80,5.00,65.91,2900.04
+07/25/2020,Ba Dinh,Doi Can,Alley house,Yes,7,5,10,65,10.40,6.25,253.85,16500.25
+07/25/2020,Hai Ba Trung,Dong Tam,Alley house,Yes,5,3,7,42,8.06,5.21,70.24,2950.08
+07/25/2020,Hoang Mai,Hoang Van Thu,Townhouse,Yes,5,6,12,50,8.77,5.70,65.6,3280
+07/25/2020,Thanh Xuan,Khuong Mai,Townhouse,Yes,4,4,9,60,9.23,6.50,130,7800
+07/25/2020,Ha Dong,La Khe,Alley house,Yes,3,3,7,44,8.80,5.00,68.18,2999.92
+07/25/2020,Hoang Mai,Linh Nam,Alley house,No,4,5,10,35,10.00,3.50,68.57,2399.95
+07/25/2020,Long Bien,Long Bien,Alley house,No,4,4,8,80,12.31,6.50,85,6800
+07/25/2020,Cau Giay,Mai Dich,Townhouse,Yes,5,6,12,46,8.36,5.50,105.43,4849.78
+07/25/2020,Hai Ba Trung,Minh Khai,Alley house,No,4,2,6,27,7.50,3.60,66.67,1800.09
+07/25/2020,Hai Ba Trung,Minh Khai,Alley house,Yes,5,3,7,32,10.00,3.20,93.75,3000
+07/25/2020,Hai Ba Trung,Minh Khai,Alley house,Yes,4,4,8,41,8.20,5.00,89.02,3649.82
+07/25/2020,Hai Ba Trung,Minh Khai,Alley house,Yes,2,3,7,60,9.68,6.20,36.5,2190
+07/25/2020,Nam Tu Liem,My Dinh 1,Alley house,Yes,5,3,7,40,12.31,3.25,66.25,2650
+07/25/2020,Long Bien,Ngoc Lam,Alley house,No,5,3,7,34,9.44,3.60,83.82,2849.88
+07/25/2020,Thanh Xuan,Nhan Chinh,Townhouse,Yes,4,4,9,110,12.22,9.00,168.18,18499.8
+07/25/2020,Thanh Xuan,Nhan Chinh,Villa,Yes,3,4,10,122,12.20,10.00,121.31,14799.82
+07/25/2020,Dong Da,O Cho Dua,Alley house,Yes,5,4,8,37,10.57,3.50,86.49,3200.13
+07/25/2020,Dong Da,O Cho Dua,Alley house,Yes,4,4,8,66,10.15,6.50,100,6600
+07/25/2020,Ba Dinh,Thanh Cong,Townhouse,Yes,5,3,9,32,9.14,3.50,237.5,7600
+07/25/2020,Thanh Xuan,Thanh Xuan Trung,Alley house,Yes,5,5,10,54,10.80,5.00,103.7,5599.8
+07/25/2020,Thanh Xuan,Thanh Xuan Trung,Townhouse,Yes,3,2,6,102,11.33,9.00,191.18,19500.36
+07/25/2020,Hoang Mai,Thinh Liet,Alley house,Yes,5,4,8,35,10.00,3.50,71.43,2500.05
+07/25/2020,Thanh Xuan,Thuong Dinh,Townhouse,Yes,5,5,11,55,11.00,5.00,187.27,10299.85
+07/25/2020,Thanh Xuan,Thuong Dinh,Townhouse,Yes,5,6,12,65,10.00,6.50,323.08,21000.2
+07/25/2020,Hai Ba Trung,Truong Dinh,Alley house,No,5,3,7,32,9.14,3.50,85.94,2750.08
+07/25/2020,Hai Ba Trung,Truong Dinh,Alley house,Yes,5,4,8,52,10.40,5.00,59.62,3100.24
+07/25/2020,Ha Dong,Van Quan,Alley house,Yes,4,3,7,50,9.43,5.30,53,2650
+07/25/2020,Ba Dinh,Vinh Phuc,Alley house,Yes,5,3,7,34,10.30,3.30,105.88,3599.92
+07/25/2020,Cau Giay,Yen Hoa,Alley house,Yes,5,4,8,41,8.37,4.90,148.78,6099.98
+07/25/2020,Cau Giay,Yen Hoa,Alley house,Yes,5,4,8,51,9.62,5.30,911.76,46499.76
+07/26/2020,Long Bien,Bo De,Alley house,Yes,4,3,7,30,8.82,3.40,101.67,3050.1
+07/26/2020,Hoang Mai,Hoang Van Thu,Alley house,Yes,5,4,8,36,10.98,3.28,101.49,3653.64
+07/26/2020,Hoang Mai,Hoang Van Thu,Alley house,Yes,5,4,8,40,11.43,3.50,67.5,2700
+07/26/2020,Dong Da,Kham Thien,Alley house,No,4,2,6,25,6.25,4.00,54,1350
+07/26/2020,Dong Da,Khuong Thuong,Alley house,Yes,5,3,7,35,9.46,3.70,77.14,2699.9
+07/26/2020,Dong Da,Khuong Thuong,Alley house,Yes,4,4,8,40,11.56,3.46,165,6600
+07/26/2020,Thanh Xuan,Kim Giang,Alley house,Yes,5,3,7,36,11.76,3.06,68.06,2450.16
+07/26/2020,Dong Da,Lang Ha,Alley house,No,5,3,7,30,10.00,3.00,125,3750
+07/26/2020,Dong Da,Lang Ha,Alley house,Yes,5,3,7,35,10.03,3.49,80,2800
+07/26/2020,Dong Da,Lang Ha,Alley house,no,5,5,10,56,8.62,6.50,139.09,7789.04
+07/26/2020,Hoang Mai,Linh Nam,Townhouse,Yes,4,4,9,70,10.77,6.50,57.14,3999.8
+07/26/2020,Cau Giay,Mai Dich,Townhouse,Yes,6,6,13,50,10.00,5.00,200,10000
+07/26/2020,Hai Ba Trung,Minh Khai,Alley house,Yes,4,3,7,31,8.86,3.50,61.29,1899.99
+07/26/2020,Hai Ba Trung,Minh Khai,Alley house,Yes,4,3,7,45,7.83,5.75,55.56,2500.2
+07/26/2020,Nam Tu Liem,My Dinh 1,Townhouse,Yes,5,4,10,40,12.01,3.33,90,3600
+07/26/2020,Long Bien,Ngoc Thuy,Alley house,Yes,4,5,10,36,10.29,3.50,82.78,2980.08
+07/26/2020,Ha Dong,Phu La,Townhouse,Yes,5,4,10,50,10.00,5.00,108,5400
+07/26/2020,Dong Da,Quang Trung,Alley house,No,5,3,7,31,7.95,3.90,93.55,2900.05
+07/26/2020,Hoang Mai,Tan Mai,Alley house,Yes,5,6,11,45,9.00,5.00,72.22,3249.9
+07/26/2020,Hai Ba Trung,Thanh Nhan,Alley house,Yes,5,4,8,35,10.00,3.50,104.29,3650.15
+07/26/2020,Hoang Mai,Thinh Liet,Terraced house,Yes,5,5,13,63,9.69,6.50,125.4,7900.2
+07/26/2020,Dong Da,Thinh Quang,Townhouse,Yes,5,4,10,30,10.00,3.00,176.67,5300.1
+07/26/2020,Dong Da,Thinh Quang,Alley house,Yes,4,4,8,34,9.44,3.60,202.94,6899.96
+07/26/2020,Tay Ho,Thuy Khue,Alley house,Yes,6,4,8,40,12.01,3.33,113.75,4550
+07/26/2020,Cau Giay,Yen Hoa,Alley house,Yes,5,4,8,33,9.43,3.50,100,3300
+07/26/2020,Cau Giay,Yen Hoa,Alley house,Yes,4,4,8,73,11.23,6.50,79.45,5799.85
+07/26/2020,Hoang Mai,Yen So,Alley house,No,4,3,7,35,10.00,3.50,71.43,2500.05
+07/27/2020,Hai Ba Trung,Bach Mai,Alley house,Yes,5,4,8,40,11.43,3.50,62.5,2500
+07/27/2020,Ba Dinh,Doi Can,Alley house,Yes,4,3,7,45,9.00,5.00,60,2700
+07/27/2020,Hoang Mai,Hoang Van Thu,Alley house,No,5,3,7,35,10.00,3.50,71.43,2500.05
+07/27/2020,Thanh Xuan,Khuong Trung,Alley house,Yes,3,4,8,57,8.77,6.50,124.56,7099.92
+07/27/2020,Thanh Xuan,Khuong Trung,Townhouse,Yes,7,6,14,75,9.09,8.25,130.67,9800.25
+07/27/2020,Thanh Xuan,Khuong Trung,Alley house,Yes,4,3,7,100,14.04,7.12,55,5500
+07/27/2020,Ha Dong,Kien Hung,Terraced house,Yes,3,3,8,53,10.60,5.00,84.64,4485.92
+07/27/2020,Ba Dinh,Kim Ma,Alley house,Yes,4,3,7,40,12.01,3.33,100,4000
+07/27/2020,Long Bien,Long Bien,Alley house,Yes,6,4,8,46,7.08,6.50,107.61,4950.06
+07/27/2020,Long Bien,Long Bien,Alley house,No,4,4,8,50,10.14,4.93,52,2600
+07/27/2020,Hai Ba Trung,Minh Khai,Alley house,No,4,3,7,31,8.86,3.50,62.9,1949.9
+07/27/2020,Hai Ba Trung,Minh Khai,Alley house,Yes,4,4,8,60,8.70,6.90,65,3900
+07/27/2020,Dong Da,Nam Dong,Alley house,Yes,4,4,8,48,9.60,5.00,73.96,3550.08
+07/27/2020,Dong Da,Nga Tu So,Alley house,No,5,3,7,32,9.14,3.50,131.25,4200
+07/27/2020,Dong Da,Nga Tu So,Alley house,Yes,6,5,10,60,9.23,6.50,95.83,5749.8
+07/27/2020,Cau Giay,Quan Hoa,Townhouse,Yes,3,3,7,56,8.62,6.50,332.14,18599.84
+07/27/2020,Ha Dong,Quang Trung,Townhouse,Yes,4,3,8,45,9.00,5.00,74.44,3349.8
+07/27/2020,Dong Da,Quoc Tu Giam,Alley house,Yes,5,3,7,30,10.00,3.00,83.33,2499.9
+07/27/2020,Dong Da,Quoc Tu Giam,Alley house,Yes,4,4,8,55,13.75,4.00,72.73,4000.15
+07/27/2020,Hoang Mai,Tan Mai,Townhouse,Yes,4,4,9,50,8.05,6.21,92,4600
+07/27/2020,Thanh Xuan,Thanh Xuan Nam,Townhouse,Yes,4,4,9,55,11.00,5.00,100,5500
+07/27/2020,Nam Tu Liem,Trung Van,Townhouse,Yes,4,4,9,90,12.00,7.50,83.33,7499.7
+07/27/2020,Cau Giay,Yen Hoa,Townhouse,Yes,5,4,10,55,11.00,5.00,170,9350
+07/28/2020,Tay Ho,Buoi,Alley house,Yes,5,4,8,45,7.50,6.00,111.11,4999.95
+07/28/2020,Dong Da,Cat Linh,Alley house,No,4,3,7,25,6.58,3.80,76,1900
+07/28/2020,Ba Dinh,Cong Vi,Townhouse,Yes,7,1,9,60,9.23,6.50,275,16500
+07/28/2020,Cau Giay,Dich Vong,Alley house,No,4,6,11,32,8.89,3.60,100,3200
+07/28/2020,Ba Dinh,Doi Can,Townhouse,Yes,3,2,6,41,8.20,5.00,153.66,6300.06
+07/28/2020,Ha Dong,Duong Noi,Alley house,No,4,3,7,40,11.43,3.50,45,1800
+07/28/2020,Hoang Mai,Giap Bat,Townhouse,Yes,5,4,10,42,8.40,5.00,67.86,2850.12
+07/28/2020,Ha Dong,Ha Cau,Alley house,Yes,5,4,8,40,11.43,3.50,50,2000
+07/28/2020,Hoang Mai,Hoang Van Thu,Alley house,Yes,5,4,8,40,11.20,3.57,70,2800
+07/28/2020,Hoang Mai,Hoang Van Thu,Alley house,Yes,5,3,7,40,11.43,3.50,68.75,2750
+07/28/2020,Thanh Xuan,Khuong Dinh,Alley house,Yes,5,3,7,43,7.41,5.80,56.98,2450.14
+07/28/2020,Thanh Xuan,Khuong Mai,Alley house,No,5,5,10,49,8.91,5.50,114.29,5600.21
+07/28/2020,Hoai Duc,Kim Chung,Alley house,Yes,5,4,8,45,9.00,5.00,46.67,2100.15
+07/28/2020,Dong Da,Lang Ha,Alley house,Yes,4,3,7,34,9.69,3.51,86.76,2949.84
+07/28/2020,Cau Giay,Mai Dich,Alley house,Yes,5,3,7,40,11.59,3.45,80,3200
+07/28/2020,Cau Giay,Nghia Tan,Alley house,Yes,5,6,11,50,10.00,5.00,102,5100
+07/28/2020,Thanh Xuan,Nhan Chinh,Alley house,Yes,6,3,7,30,10.00,3.00,131.67,3950.1
+07/28/2020,Ha Dong,Phu La,Townhouse,Yes,7,6,14,60,9.52,6.30,183.33,10999.8
+07/28/2020,Hoang Mai,Tan Mai,Alley house,No,4,4,8,54,10.80,5.00,105.56,5700.24
+07/28/2020,Thanh Tri,Thanh Liet,Alley house,Yes,4,3,7,35,10.00,3.50,72.86,2550.1
+07/28/2020,Hoang Mai,Thinh Liet,Alley house,Yes,5,3,7,40,11.90,3.36,75,3000
+07/28/2020,Tay Ho,Thuy Khue,Alley house,Yes,6,3,7,42,8.40,5.00,154.76,6499.92
+07/28/2020,Dong Da,Trung Tu,Townhouse,Yes,5,4,10,40,11.43,3.50,87.5,3500
+07/28/2020,Ba Dinh,Vinh Phuc,Alley house,Yes,5,3,7,32,9.14,3.50,90.31,2889.92
+07/28/2020,Cau Giay,Yen Hoa,Alley house,Yes,5,4,8,34,8.72,3.90,108.82,3699.88
+07/29/2020,Hai Ba Trung,Bach Mai,Alley house,Yes,4,4,8,35,9.51,3.68,108.57,3799.95
+07/29/2020,Hai Ba Trung,Bach Mai,Alley house,No,4,4,8,50,10.00,5.00,90,4500
+07/29/2020,Hai Ba Trung,Bach Mai,Alley house,Yes,3,3,7,51,10.20,5.00,52.94,2699.94
+07/29/2020,Long Bien,Bo De,Townhouse,Yes,5,2,8,55,11.00,5.00,106.36,5849.8
+07/29/2020,Tay Ho,Buoi,Alley house,Yes,4,4,8,33,10.65,3.10,90.91,3000.03
+07/29/2020,Nam Tu Liem,Cau Dien,Townhouse,Yes,2,2,5,40,12.01,3.33,85,3400
+07/29/2020,Ba Dinh,Cong Vi,Alley house,No,5,3,7,25,6.25,4.00,96,2400
+07/29/2020,Ba Dinh,Cong Vi,Alley house,No,5,3,7,26,8.13,3.20,91.92,2389.92
+07/29/2020,Gia Lam,Da Ton,Alley house,Yes,4,3,7,48,8.89,5.40,38.54,1849.92
+07/29/2020,Hoang Mai,Dinh Cong,Alley house,Yes,5,3,7,46,8.85,5.20,67.39,3099.94
+07/29/2020,Hoang Mai,Dinh Cong,Alley house,No,5,3,7,49,9.80,5.00,63.27,3100.23
+07/29/2020,Ba Dinh,Doi Can,Alley house,No,5,4,8,28,8.36,3.35,100,2800
+07/29/2020,Ba Dinh,Doi Can,Alley house,Yes,5,3,7,35,9.97,3.51,128.57,4499.95
+07/29/2020,Hai Ba Trung,Dong Mac,Alley house,Yes,5,5,10,45,7.76,5.80,157.78,7100.1
+07/29/2020,Hai Ba Trung,Dong Tam,Townhouse,Yes,5,5,11,70,10.77,6.50,214.29,15000.3
+07/29/2020,Ha Dong,Duong Noi,Alley house,No,5,4,8,35,9.43,3.71,65.71,2299.85
+07/29/2020,Long Bien,Gia Thuy,Townhouse,Yes,5,3,9,34,10.27,3.31,88.24,3000.16
+07/29/2020,Thanh Xuan,Ha Dinh,Alley house,No,5,3,7,32,8.89,3.60,84.38,2700.16
+07/29/2020,Dong Da,Kham Thien,Alley house,Yes,4,3,7,32,8.21,3.90,85.94,2750.08
+07/29/2020,Dong Da,Kham Thien,Alley house,Yes,2,2,6,40,11.43,3.50,52.5,2100
+07/29/2020,Thanh Xuan,Khuong Trung,Alley house,Yes,4,3,7,30,10.00,3.00,75,2250
+07/29/2020,Thanh Xuan,Khuong Trung,Alley house,No,4,3,7,35,9.72,3.60,77.14,2699.9
+07/29/2020,Thanh Xuan,Khuong Trung,Alley house,Yes,3,3,7,40,10.90,3.67,62.5,2500
+07/29/2020,Thanh Xuan,Khuong Trung,Townhouse,Yes,5,6,12,50,10.00,5.00,128,6400
+07/29/2020,Thanh Xuan,Khuong Trung,Alley house,Yes,5,6,11,50,8.62,5.80,128,6400
+07/29/2020,Ba Dinh,Kim Ma,Alley house,No,5,3,7,23,5.75,4.00,100,2300
+07/29/2020,Ha Dong,La Khe,Alley house,Yes,5,3,7,33,9.43,3.50,66.67,2200.11
+07/29/2020,Ha Dong,La Khe,Alley house,Yes,5,4,8,33,9.43,3.50,62.12,2049.96
+07/29/2020,Ha Dong,La Khe,Alley house,Yes,5,4,8,34,9.71,3.50,72.06,2450.04
+07/29/2020,Ha Dong,La Khe,Alley house,Yes,5,4,8,34,9.71,3.50,66.18,2250.12
+07/29/2020,Ha Dong,La Khe,Alley house,No,4,4,8,36,10.29,3.50,66.67,2400.12
+07/29/2020,Ha Dong,La Khe,Alley house,Yes,3,2,6,41,8.20,5.00,53.66,2200.06
+07/29/2020,Hoai Duc,La Phu,Alley house,Yes,3,3,7,33,9.12,3.62,40.91,1350.03
+07/29/2020,Dong Da,Lang Ha,Alley house,Yes,6,3,7,34,9.71,3.50,100,3400
+07/29/2020,Dong Da,Lang Thuong,Alley house,Yes,4,3,7,32,9.14,3.50,76.56,2449.92
+07/29/2020,Hai Ba Trung,Le Dai Hanh,Townhouse,Yes,7,5,13,70,10.77,6.50,214.29,15000.3
+07/29/2020,Ba Dinh,Lieu Giai,Alley house,Yes,4,4,8,35,10.00,3.50,85.71,2999.85
+07/29/2020,Hoang Mai,Linh Nam,Alley house,Yes,4,6,11,40,11.43,3.50,62.5,2500
+07/29/2020,Hoang Mai,Linh Nam,Alley house,Yes,3,4,8,80,10.36,7.72,47.5,3800
+07/29/2020,Long Bien,Long Bien,Alley house,Yes,3,3,7,64,9.85,6.50,60.16,3850.24
+07/29/2020,Cau Giay,Mai Dich,Townhouse,Yes,5,3,9,56,8.62,6.50,81.25,4550
+07/29/2020,Hai Ba Trung,Minh Khai,Townhouse,Yes,5,3,9,33,9.94,3.32,130.3,4299.9
+07/29/2020,Hai Ba Trung,Minh Khai,Alley house,Yes,5,4,8,40,11.43,3.50,150,6000
+07/29/2020,Hai Ba Trung,Minh Khai,Alley house,No,5,4,8,67,10.31,6.50,41.79,2799.93
+07/29/2020,Hai Ba Trung,Minh Khai,Alley house,Yes,4,4,8,67,10.31,6.50,41.79,2799.93
+07/29/2020,Hai Ba Trung,Minh Khai,Townhouse,Yes,3,3,7,67,10.31,6.50,41.79,2799.93
+07/29/2020,Nam Tu Liem,My Dinh 1,Townhouse,Yes,5,4,10,35,10.00,3.50,85.71,2999.85
+07/29/2020,Nam Tu Liem,My Dinh 1,Alley house,Yes,5,6,11,40,11.59,3.45,90,3600
+07/29/2020,Cau Giay,Nghia Do,Alley house,No,5,6,11,52,10.00,5.20,74.04,3850.08
+07/29/2020,Ba Dinh,Ngoc Ha,Townhouse,Yes,6,2,9,52,10.40,5.00,157.69,8199.88
+07/29/2020,Thanh Tri,Ngoc Hoi,Alley house,No,4,3,7,30,7.50,4.00,53.33,1599.9
+07/29/2020,Long Bien,Ngoc Thuy,Townhouse,Yes,5,4,10,48,9.60,5.00,85.42,4100.16
+07/29/2020,Long Bien,Ngoc Thuy,Alley house,Yes,4,4,8,55,11.00,5.00,69.09,3799.95
+07/29/2020,Thanh Xuan,Nhan Chinh,Alley house,Yes,5,4,8,45,8.33,5.40,108.89,4900.05
+07/29/2020,Tay Ho,Nhat Tan,Townhouse,Yes,4,4,9,40,11.43,3.50,80,3200
+07/29/2020,Ha Dong,Phu La,Terraced house,Yes,4,6,12,126,12.45,10.12,73.25,9229.5
+07/29/2020,Tay Ho,Phu Thuong,Townhouse,Yes,4,3,8,35,10.00,3.50,88.57,3099.95
+07/29/2020,Long Bien,Phuc Dong,Alley house,Yes,5,4,8,36,10.29,3.50,88.89,3200.04
+07/29/2020,Ha Dong,Phuc La,Alley house,Yes,5,4,8,38,10.03,3.79,96.05,3649.9
+07/29/2020,Hoan Kiem,Phuc Tan,Alley house,No,3,3,7,20,4.76,4.20,49.95,999
+07/29/2020,Thanh Xuan,Phuong Liet,Alley house,Yes,4,6,11,42,8.09,5.19,100,4200
+07/29/2020,Cau Giay,Quan Hoa,Alley house,Yes,4,4,8,32,9.14,3.50,101.56,3249.92
+07/29/2020,Cau Giay,Quan Hoa,Alley house,Yes,6,5,10,40,11.43,3.50,145,5800
+07/29/2020,Ba Dinh,Quan Thanh,Alley house,Yes,5,3,7,32,9.14,3.50,140.63,4500.16
+07/29/2020,Tay Ho,Quang An,Townhouse,Yes,2,4,7,68,10.46,6.50,485.29,32999.72
+07/29/2020,Ha Dong,Quang Trung,Terraced house,Yes,5,4,9,44.2,8.19,5.40,129.55,5726.11
+07/29/2020,Hoang Mai,Tan Mai,Alley house,Yes,5,6,11,38,10.92,3.48,89.47,3399.86
+07/29/2020,Hoang Mai,Tan Mai,Townhouse,Yes,5,6,12,52,10.40,5.00,109.62,5700.24
+07/29/2020,Hai Ba Trung,Thanh Luong,Alley house,Yes,4,4,8,39,11.14,3.50,73.08,2850.12
+07/29/2020,Thanh Xuan,Thanh Xuan Trung,Alley house,Yes,4,3,7,38,10.89,3.49,140.79,5350.02
+07/29/2020,Dong Da,Thinh Quang,Alley house,Yes,5,4,8,32,9.14,3.50,92.19,2950.08
+07/29/2020,Dong Da,Thinh Quang,Alley house,Yes,4,4,8,45,9.00,5.00,95.56,4300.2
+07/29/2020,Tay Ho,Thuy Khue,Alley house,Yes,5,5,10,50,10.00,5.00,124,6200
+07/29/2020,Tay Ho,Thuy Khue,Alley house,No,5,4,8,55,11.00,5.00,161.82,8900.1
+07/29/2020,Tay Ho,Thuy Khue,Townhouse,Yes,2,4,7,68,10.46,6.50,485.29,32999.72
+07/29/2020,Cau Giay,Trung Hoa,Alley house,Yes,5,5,10,55,11.00,5.00,113.64,6250.2
+07/29/2020,Dong Da,Trung Phung,Alley house,Yes,4,3,7,36,10.29,3.50,83.33,2999.88
+07/29/2020,Dong Da,Trung Phung,Townhouse,Yes,4,5,10,50,10.68,4.68,166,8300
+07/29/2020,Dong Da,Trung Tu,Townhouse,Yes,5,4,10,40,10.81,3.70,85,3400
+07/29/2020,Nam Tu Liem,Trung Van,Alley house,Yes,4,3,7,30,10.00,3.00,93.33,2799.9
+07/29/2020,Hai Ba Trung,Truong Dinh,Alley house,Yes,4,4,8,41,8.01,5.12,73.17,2999.97
+07/29/2020,Hoang Mai,Tuong Mai,Alley house,Yes,2,2,6,30,7.69,3.90,27.67,830.1
+07/29/2020,Dong Da,Van Chuong,Alley house,Yes,2,2,6,30,10.00,3.00,73.33,2199.9
+07/29/2020,Ha Dong,Van Phuc,Alley house,No,5,4,8,35,10.00,3.50,63.14,2209.9
+07/29/2020,Ha Dong,Van Phuc,Alley house,Yes,4,4,8,35,10.00,3.50,71.43,2500.05
+07/29/2020,Ha Dong,Van Phuc,Alley house,Yes,5,4,8,36,10.29,3.50,66.67,2400.12
+07/29/2020,Ha Dong,Van Phuc,Alley house,Yes,4,4,8,36,10.03,3.59,75,2700
+07/29/2020,Ha Dong,Van Quan,Alley house,Yes,5,3,7,35,10.00,3.50,64.29,2250.15
+07/29/2020,Ha Dong,Van Quan,Terraced house,Yes,5,4,11,96,12.80,7.50,109.38,10500.48
+07/29/2020,Cau Giay,Yen Hoa,Alley house,Yes,4,3,7,34,9.19,3.70,98.53,3350.02
+07/29/2020,Cau Giay,Yen Hoa,Alley house,Yes,5,4,8,44,8.80,5.00,261.36,11499.84
+07/29/2020,Ha Dong,Yen Nghia,Alley house,Yes,4,5,10,32,9.14,3.50,53.13,1700.16
+07/29/2020,Tay Ho,Yen Phu,Townhouse,Yes,3,3,7,86,10.75,8.00,296.51,25499.86
+07/30/2020,Hai Ba Trung,Bach Mai,Townhouse,Yes,5,4,10,51,10.20,5.00,58.82,2999.82
+07/30/2020,Long Bien,Bo De,Alley house,Yes,5,5,10,58,9.67,6.00,62.07,3600.06
+07/30/2020,Tay Ho,Buoi,Alley house,Yes,6,4,8,40,12.01,3.33,101.25,4050
+07/30/2020,Hoang Mai,Dinh Cong,Alley house,Yes,4,2,6,43,8.60,5.00,41.86,1799.98
+07/30/2020,Hoang Mai,Hoang Van Thu,Alley house,Yes,5,4,8,28,9.33,3.00,85.71,2399.88
+07/30/2020,Hoang Mai,Hoang Van Thu,Townhouse,Yes,4,4,9,56,8.62,6.50,89.29,5000.24
+07/30/2020,Hoang Mai,Hoang Van Thu,Alley house,No,5,5,10,60,9.23,6.50,65.83,3949.8
+07/30/2020,Hoang Mai,Hoang Van Thu,Alley house,Yes,5,6,11,65,10.00,6.50,60.77,3950.05
+07/30/2020,Dong Da,Kham Thien,Alley house,No,4,3,7,28,7.57,3.70,118.93,3330.04
+07/30/2020,Dong Da,Kham Thien,Alley house,Yes,5,4,8,34,9.71,3.50,86.76,2949.84
+07/30/2020,Thanh Xuan,Khuong Dinh,Alley house,Yes,5,5,10,46,9.20,5.00,147.83,6800.18
+07/30/2020,Thanh Xuan,Khuong Trung,Alley house,No,4,3,7,26,8.67,3.00,86.54,2250.04
+07/30/2020,Thanh Xuan,Khuong Trung,Alley house,Yes,5,8,15,33,9.43,3.50,136.36,4499.88
+07/30/2020,Thanh Xuan,Khuong Trung,Townhouse,Yes,4,2,7,37,10.05,3.68,80.81,2989.97
+07/30/2020,Thanh Xuan,Kim Giang,Alley house,Yes,5,4,8,36,10.29,3.50,102.78,3700.08
+07/30/2020,Ha Dong,La Khe,Alley house,Yes,1,1,5,35,10.00,3.50,75.71,2649.85
+07/30/2020,Ha Dong,La Khe,Alley house,No,4,3,7,40,11.43,3.50,86.25,3450
+07/30/2020,Hoang Mai,Mai Dong,Alley house,Yes,4,5,10,42,8.40,5.00,50,2100
+07/30/2020,Hai Ba Trung,Minh Khai,Alley house,Yes,4,2,6,30,10.00,3.00,55,1650
+07/30/2020,Ha Dong,Mo Lao,Alley house,No,5,4,8,20,5.00,4.00,105,2100
+07/30/2020,Ha Dong,Mo Lao,Alley house,No,4,2,6,28,9.33,3.00,76.79,2150.12
+07/30/2020,Nam Tu Liem,My Dinh 1,Villa,Yes,4,7,15,140,14.00,10.00,175,24500
+07/30/2020,Dong Da,O Cho Dua,Alley house,Yes,5,3,7,30,10.00,3.00,153.33,4599.9
+07/30/2020,Dong Da,Phuong Mai,Alley house,Yes,4,4,8,36,10.29,3.50,94.44,3399.84
+07/30/2020,Hai Ba Trung,Quynh Mai,Townhouse,Yes,4,4,9,36,10.29,3.50,205.56,7400.16
+07/30/2020,Hoang Mai,Tan Mai,Alley house,Yes,5,3,7,38,10.86,3.50,56.58,2150.04
+07/30/2020,Hoang Mai,Thanh Tri,Alley house,Yes,4,4,8,80,12.31,6.50,73.75,5900
+07/30/2020,Tay Ho,Thuy Khue,Alley house,No,6,4,8,30,8.33,3.60,140,4200
+07/30/2020,Ha Dong,Van Phuc,Alley house,No,3,2,6,23,5.75,4.00,76.09,1750.07
+07/30/2020,Ha Dong,Van Quan,Terraced house,Yes,4,6,14,112,12.44,9.00,104.29,11680.48
+07/30/2020,Ba Dinh,Vinh Phuc,Alley house,Yes,4,3,7,33,9.43,3.50,85.76,2830.08
+07/30/2020,Bac Tu Liem,Xuan Dinh,Alley house,Yes,5,3,7,30,9.62,3.12,98.33,2949.9
+07/30/2020,Bac Tu Liem,Xuan Dinh,Alley house,Yes,5,6,11,38,10.86,3.50,71.05,2699.9
+07/30/2020,Cau Giay,Yen Hoa,Alley house,No,5,4,8,50,11.52,4.34,95,4750
+07/31/2020,Hai Ba Trung,Bach Dang,Alley house,Yes,3,4,8,50,10.00,5.00,55,2750
+07/31/2020,Hai Ba Trung,Bach Mai,Townhouse,Yes,8,7,16,136,13.60,10.00,235.29,31999.44
+07/31/2020,Long Bien,Bo De,Alley house,No,5,3,7,40,11.43,3.50,86.25,3450
+07/31/2020,Ba Dinh,Cong Vi,Alley house,Yes,5,5,10,50,10.00,5.00,132,6600
+07/31/2020,Ha Dong,Duong Noi,Townhouse,Yes,4,3,8,38,11.31,3.36,59.74,2270.12
+07/31/2020,Dong Da,Khuong Thuong,Townhouse,Yes,5,6,12,45,9.18,4.90,182.22,8199.9
+07/31/2020,Ha Dong,Kien Hung,Alley house,Yes,5,4,8,33,9.43,3.50,60.61,2000.13
+07/31/2020,Ba Dinh,Kim Ma,Alley house,No,5,4,8,20,4.76,4.20,135,2700
+07/31/2020,Dong Da,Lang Ha,Alley house,Yes,5,4,8,35,8.86,3.95,122.86,4300.1
+07/31/2020,Hai Ba Trung,Le Dai Hanh,Townhouse,Yes,5,4,10,35,10.00,3.50,125.71,4399.85
+07/31/2020,Hoang Mai,Linh Nam,Alley house,Yes,3,4,8,36,10.29,3.50,58.33,2099.88
+07/31/2020,Nam Tu Liem,Me Tri,Alley house,Yes,5,3,7,33,9.43,3.50,81.82,2700.06
+07/31/2020,Nam Tu Liem,My Dinh 1,Villa,Yes,4,8,19,138,13.53,10.20,176.81,24399.78
+07/31/2020,Dong Da,Nga Tu So,Townhouse,Yes,5,3,9,30,10.00,3.00,173.33,5199.9
+07/31/2020,Cau Giay,Nghia Do,Alley house,Yes,6,4,8,35,10.39,3.37,85.71,2999.85
+07/31/2020,Long Bien,Ngoc Thuy,Alley house,Yes,4,4,8,31.7,9.06,3.50,75.81,2403.177
+07/31/2020,Dong Da,O Cho Dua,Townhouse,No,4,4,9,22,5.50,4.00,222.73,4900.06
+07/31/2020,Dong Da,O Cho Dua,Alley house,Yes,5,3,7,32,9.14,3.50,104.69,3350.08
+07/31/2020,Dong Da,O Cho Dua,Townhouse,Yes,4,3,8,45,9.00,5.00,488.89,22000.05
+07/31/2020,Ha Dong,Phu Lam,Alley house,Yes,3,3,7,33,10.56,3.13,49.39,1629.87
+07/31/2020,Ba Dinh,Phuc Xa,Townhouse,Yes,3,4,8,50,10.00,5.00,103,5150
+07/31/2020,Hoang Mai,Tan Mai,Alley house,No,5,4,8,30,10.00,3.00,100,3000
+07/31/2020,Dong Da,Trung Tu,Alley house,No,5,4,8,34,10.18,3.34,117.65,4000.1
+07/31/2020,Hoang Mai,Tuong Mai,Alley house,No,4,4,8,30,7.25,4.14,96,2880
+07/31/2020,Ha Dong,Van Quan,Alley house,No,5,4,8,35,10.00,3.50,88.57,3099.95
+07/31/2020,Bac Tu Liem,Xuan Dinh,Alley house,Yes,5,3,7,30,10.00,3.00,96.67,2900.1
+07/31/2020,Tay Ho,Xuan La,Alley house,Yes,4,4,8,50,10.00,5.00,100,5000
+08/01/2020,Hai Ba Trung,Bach Khoa,Alley house,Yes,3,4,8,50,10.00,5.00,62,3100
+08/01/2020,Hai Ba Trung,Bach Mai,Alley house,No,4,2,6,25,8.06,3.10,78,1950
+08/01/2020,Hai Ba Trung,Bach Mai,Townhouse,Yes,5,6,12,70,10.77,6.50,107.14,7499.8
+08/01/2020,Tay Ho,Buoi,Alley house,Yes,5,3,7,44,7.86,5.60,106.82,4700.08
+08/01/2020,Bac Tu Liem,Co Nhue 1,Townhouse,Yes,2,2,5,45,9.00,5.00,60,2700
+08/01/2020,Bac Tu Liem,Co Nhue 2,Townhouse,Yes,2,2,5,45,8.04,5.60,60,2700
+08/01/2020,Bac Tu Liem,Co Nhue 2,Alley house,Yes,4,4,8,50,8.33,6.00,59,2950
+08/01/2020,Ba Dinh,Cong Vi,Alley house,Yes,4,4,8,46,9.20,5.00,105.43,4849.78
+08/01/2020,Hoang Mai,Dai Kim,Alley house,Yes,5,3,7,30,10.00,3.00,103.33,3099.9
+08/01/2020,Hoang Mai,Dai Kim,Alley house,Yes,5,3,7,30,10.00,3.00,103.33,3099.9
+08/01/2020,Hoang Mai,Dai Kim,Alley house,Yes,6,3,7,35,10.00,3.50,70,2450
+08/01/2020,Hoang Mai,Dai Kim,Alley house,No,6,6,11,35,9.33,3.75,70,2450
+08/01/2020,Hoang Mai,Dai Kim,Alley house,No,5,4,8,35,10.00,3.50,68.57,2399.95
+08/01/2020,Cau Giay,Dich Vong Hau,Alley house,Yes,4,4,8,40,11.43,3.50,82.5,3300
+08/01/2020,Cau Giay,Dich Vong Hau,Alley house,Yes,5,4,8,40,12.16,3.29,93.75,3750
+08/01/2020,Hoang Mai,Dinh Cong,Alley house,Yes,2,2,6,32.3,9.23,3.50,71.88,2321.724
+08/01/2020,Hoang Mai,Dinh Cong,Alley house,Yes,5,4,8,35,10.00,3.50,57.14,1999.9
+08/01/2020,Hoang Mai,Dinh Cong,Alley house,Yes,4,4,8,52,10.40,5.00,70.19,3649.88
+08/01/2020,Long Bien,Duc Giang,Townhouse,Yes,5,5,11,52,10.40,5.00,114.42,5949.84
+08/01/2020,Long Bien,Duc Giang,Villa,Yes,5,5,13,58,8.92,6.50,102.59,5950.22
+08/01/2020,Hoang Mai,Giap Bat,Alley house,No,5,5,10,50,8.62,5.80,76,3800
+08/01/2020,Ha Dong,Ha Cau,Townhouse,Yes,5,3,9,35,10.00,3.50,75.71,2649.85
+08/01/2020,Hoan Kiem,Hang Bai,Townhouse,Yes,4,4,9,43,8.11,5.30,395.35,17000.05
+08/01/2020,Dong Da,Hang Bot,Alley house,Yes,4,3,7,33,9.43,3.50,69.7,2300.1
+08/01/2020,Dong Da,Hang Bot,Alley house,Yes,4,4,8,55,11.00,5.00,72.73,4000.15
+08/01/2020,Hoang Mai,Hoang Liet,Alley house,Yes,5,4,8,30,8.82,3.40,116.67,3500.1
+08/01/2020,Hoang Mai,Hoang Liet,Villa,Yes,4,6,15,234,19.50,12.00,93.12,21790.08
+08/01/2020,Hoang Mai,Hoang Van Thu,Alley house,Yes,5,4,8,35,10.00,3.50,94.29,3300.15
+08/01/2020,Hoang Mai,Hoang Van Thu,Alley house,Yes,5,4,8,35,10.64,3.29,94.29,3300.15
+08/01/2020,Dong Da,Kham Thien,Townhouse,Yes,3,3,7,70,10.77,6.50,94.29,6600.3
+08/01/2020,Thanh Xuan,Khuong Dinh,Alley house,No,5,3,7,35,10.00,3.50,92.29,3230.15
+08/01/2020,Thanh Xuan,Khuong Mai,Townhouse,Yes,4,4,9,43,8.60,5.00,97.67,4199.81
+08/01/2020,Thanh Xuan,Khuong Mai,Alley house,Yes,5,4,8,65,10.00,6.50,72.31,4700.15
+08/01/2020,Thanh Xuan,Khuong Trung,Alley house,No,4,4,8,28,7.37,3.80,78.57,2199.96
+08/01/2020,Thanh Xuan,Khuong Trung,Alley house,Yes,4,4,8,43,8.27,5.20,123.02,5289.86
+08/01/2020,Thanh Xuan,Khuong Trung,Alley house,Yes,5,3,7,48,9.60,5.00,129.17,6200.16
+08/01/2020,Thanh Xuan,Khuong Trung,Alley house,Yes,4,6,11,60,9.23,6.50,130,7800
+08/01/2020,Ha Dong,Kien Hung,Townhouse,Yes,5,5,11,35,9.19,3.81,114.29,4000.15
+08/01/2020,Hoai Duc,Kim Chung,Alley house,Yes,3,2,6,34,9.71,3.50,43.47,1477.98
+08/01/2020,Thanh Xuan,Kim Giang,Alley house,Yes,6,3,7,31,7.93,3.91,79.03,2449.93
+08/01/2020,Thanh Xuan,Kim Giang,Alley house,Yes,4,4,8,32,9.14,3.50,85.94,2750.08
+08/01/2020,Thanh Xuan,Kim Giang,Alley house,No,6,4,8,35,10.00,3.50,67.71,2369.85
+08/01/2020,Dong Da,Kim Lien,Alley house,Yes,4,4,8,52,10.40,5.00,76.92,3999.84
+08/01/2020,Ha Dong,La Khe,Alley house,Yes,4,3,7,30,9.09,3.30,86.67,2600.1
+08/01/2020,Ha Dong,La Khe,Alley house,No,4,3,7,35,10.00,3.50,71.43,2500.05
+08/01/2020,Ha Dong,La Khe,Terraced house,Yes,5,4,8,55,11.00,5.00,99.09,5449.95
+08/01/2020,Dong Da,Lang Ha,Alley house,Yes,5,3,7,35,10.00,3.50,155.71,5449.85
+08/01/2020,Dong Da,Lang Thuong,Alley house,Yes,4,4,8,40,10.58,3.78,73.25,2930
+08/01/2020,Hoang Mai,Linh Nam,Alley house,No,5,4,8,33,9.43,3.50,72.73,2400.09
+08/01/2020,Hoang Mai,Linh Nam,Alley house,Yes,5,3,7,34,10.00,3.40,61.76,2099.84
+08/01/2020,Hoang Mai,Linh Nam,Alley house,No,6,9,16,50,10.00,5.00,94,4700
+08/01/2020,Long Bien,Long Bien,Alley house,Yes,5,4,8,40,11.43,3.50,65,2600
+08/01/2020,Long Bien,Long Bien,Alley house,Yes,4,6,11,55,11.00,5.00,98.18,5399.9
+08/01/2020,Cau Giay,Mai Dich,Alley house,Yes,5,4,8,61,9.38,6.50,68.85,4199.85
+08/01/2020,Hoang Mai,Mai Dong,Alley house,No,4,4,8,32,9.14,3.50,71.88,2300.16
+08/01/2020,Nam Tu Liem,My Dinh 1,Townhouse,Yes,5,4,10,54,11.25,4.80,87.04,4700.16
+08/01/2020,Nam Tu Liem,My Dinh 2,Alley house,Yes,5,5,10,40,11.43,3.50,85,3400
+08/01/2020,Dong Da,Nam Dong,Alley house,Yes,5,4,8,35,9.07,3.86,95.71,3349.85
+08/01/2020,Cau Giay,Nghia Do,Alley house,Yes,5,3,7,30,10.34,2.90,106.67,3200.1
+08/01/2020,Long Bien,Ngoc Thuy,Alley house,No,5,4,8,42.6,8.52,5.00,69.05,2941.53
+08/01/2020,Ha Dong,Nguyen Trai,Townhouse,Yes,4,4,9,100,13.33,7.50,145,14500
+08/01/2020,Dong Da,O Cho Dua,Townhouse,Yes,5,4,10,60,9.23,6.50,448.33,26899.8
+08/01/2020,Ha Dong,Phu Lam,Alley house,Yes,4,3,7,31,8.86,3.50,48.39,1500.09
+08/01/2020,Tay Ho,Phu Thuong,Alley house,Yes,5,6,11,40,12.01,3.33,71.25,2850
+08/01/2020,Bac Tu Liem,Phuc Dien,Alley house,Yes,4,4,8,37,10.57,3.50,75.68,2800.16
+08/01/2020,Long Bien,Phuc Loi,Alley house,Yes,4,2,6,30,9.38,3.20,60.67,1820.1
+08/01/2020,Dong Da,Phuong Mai,Townhouse,Yes,8,5,14,46,9.20,5.00,234.78,10799.88
+08/01/2020,Ha Dong,Quang Trung,Alley house,Yes,5,4,8,52,11.30,4.60,64.42,3349.84
+08/01/2020,Hai Ba Trung,Quynh Loi,Townhouse,Yes,4,4,9,45,8.59,5.24,66.67,3000.15
+08/01/2020,Hoang Mai,Tan Mai,Alley house,No,5,4,8,32,9.12,3.51,89.06,2849.92
+08/01/2020,Long Bien,Thach Ban,Alley house,Yes,5,3,7,30,10.00,3.00,76.67,2300.1
+08/01/2020,Long Bien,Thach Ban,Townhouse,Yes,5,4,10,38,10.83,3.51,105.26,3999.88
+08/01/2020,Long Bien,Thach Ban,Alley house,Yes,5,4,8,40,11.43,3.50,85.5,3420
+08/01/2020,Thanh Tri,Thanh Liet,Alley house,No,4,4,8,39,11.11,3.51,74.62,2910.18
+08/01/2020,Hai Ba Trung,Thanh Luong,Alley house,Yes,5,4,8,36,12.00,3.00,97.22,3499.92
+08/01/2020,Thanh Xuan,Thanh Xuan Nam,Townhouse,Yes,4,5,10,44,8.80,5.00,81.82,3600.08
+08/01/2020,Hoang Mai,Thinh Liet,Alley house,Yes,5,3,7,30,10.00,3.00,88.33,2649.9
+08/01/2020,Hoang Mai,Thinh Liet,Alley house,Yes,5,6,11,37,11.11,3.33,97.3,3600.1
+08/01/2020,Hoang Mai,Thinh Liet,Alley house,Yes,4,4,8,42,8.40,5.00,67.86,2850.12
+08/01/2020,Hoang Mai,Thinh Liet,Alley house,Yes,5,4,8,43,8.60,5.00,93.02,3999.86
+08/01/2020,Dong Da,Thinh Quang,Townhouse,No,5,4,10,28,9.33,3.00,189.29,5300.12
+08/01/2020,Long Bien,Thuong Thanh,Townhouse,Yes,5,6,12,45,9.00,5.00,60,2700
+08/01/2020,Tay Ho,Thuy Khue,Townhouse,Yes,6,8,15,38,10.86,3.50,128.95,4900.1
+08/01/2020,Cau Giay,Trung Hoa,Townhouse,Yes,4,4,9,42,8.40,5.00,273.81,11500.02
+08/01/2020,Cau Giay,Trung Hoa,Townhouse,Yes,4,4,9,42,8.35,5.03,273.81,11500.02
+08/01/2020,Dong Da,Trung Liet,Alley house,Yes,5,4,8,42,7.71,5.45,133.33,5599.86
+08/01/2020,Nam Tu Liem,Trung Van,Townhouse,Yes,4,4,9,58,8.92,6.50,115.52,6700.16
+08/01/2020,Hai Ba Trung,Truong Dinh,Alley house,Yes,5,5,10,50,12.50,4.00,84,4200
+08/01/2020,Hoai Duc,Van Canh,Alley house,No,4,3,7,34,9.71,3.50,54.41,1849.94
+08/01/2020,Dong Da,Van Chuong,Alley house,Yes,4,4,8,36,10.29,3.50,63.89,2300.04
+08/01/2020,Dong Da,Van Chuong,Alley house,Yes,5,4,8,50,10.00,5.00,170,8500
+08/01/2020,Ha Dong,Van Phuc,Alley house,No,5,3,7,33,9.43,3.50,66.67,2200.11
+08/01/2020,Ha Dong,Van Quan,Alley house,Yes,4,3,7,35,10.51,3.33,71.43,2500.05
+08/01/2020,Ha Dong,Van Quan,Townhouse,Yes,5,4,10,37,10.57,3.50,116.22,4300.14
+08/01/2020,Ha Dong,Van Quan,Alley house,No,4,3,7,38,10.86,3.50,70,2660
+08/01/2020,Ha Dong,Van Quan,Terraced house,Yes,5,6,12,90,11.69,7.70,95.56,8600.4
+08/01/2020,Bac Tu Liem,Xuan Dinh,Alley house,Yes,5,3,7,35,9.80,3.57,74.29,2600.15
+08/01/2020,Tay Ho,Xuan La,Alley house,Yes,5,3,7,30,10.00,3.00,110,3300
+08/01/2020,Tay Ho,Xuan La,Alley house,Yes,5,7,12,45,9.00,5.00,84.44,3799.8
+08/01/2020,Tay Ho,Xuan La,Alley house,Yes,5,6,11,72,11.08,6.50,111.11,7999.92
+08/01/2020,Cau Giay,Yen Hoa,Alley house,No,4,4,8,98,12.89,7.60,77.55,7599.9
+08/01/2020,Tay Ho,Yen Phu,Townhouse,Yes,6,4,11,51,10.20,5.00,245.1,12500.1
+08/01/2020,Hoang Mai,Yen So,Alley house,Yes,5,6,11,50,8.93,5.60,72,3600
+08/02/2020,Hai Ba Trung,Bach Khoa,Townhouse,No,3,2,6,24,6.00,4.00,74.58,1789.92
+08/02/2020,Dong Da,Cat Linh,Alley house,No,5,9,16,39,11.14,3.50,110.26,4300.14
+08/02/2020,Nam Tu Liem,Dai Mo,Alley house,Yes,4,4,8,39,11.14,3.50,69.23,2699.97
+08/02/2020,Gia Lam,Dong Du,Alley house,Yes,3,2,6,30,10.00,3.00,50.27,1508.1
+08/02/2020,Long Bien,Duc Giang,Townhouse,Yes,3,4,8,100,13.33,7.50,148,14800
+08/02/2020,Long Bien,Gia Thuy,Alley house,Yes,1,1,5,40,12.01,3.33,58.75,2350
+08/02/2020,Hoan Kiem,Hang Bai,Townhouse,Yes,5,4,10,56,8.62,6.50,240.18,13450.08
+08/02/2020,Thanh Xuan,Khuong Dinh,Alley house,No,5,3,7,29,9.67,3.00,77.59,2249.994
+08/02/2020,Thanh Xuan,Khuong Mai,Alley house,Yes,4,6,11,50,8.93,5.60,736,36800
+08/02/2020,Thanh Xuan,Khuong Trung,Alley house,No,4,3,7,30,7.32,4.10,70,2100
+08/02/2020,Thanh Xuan,Khuong Trung,Alley house,Yes,4,3,7,35,10.94,3.20,111.43,3900.05
+08/02/2020,Thanh Xuan,Khuong Trung,Townhouse,Yes,5,4,10,68,10.46,6.50,101.47,6899.96
+08/02/2020,Ha Dong,Kien Hung,Alley house,Yes,5,6,11,40,11.43,3.50,65,2600
+08/02/2020,Long Bien,Long Bien,Alley house,Yes,4,3,7,38,10.86,3.50,67.11,2550.18
+08/02/2020,Cau Giay,Mai Dich,Alley house,Yes,5,6,11,75,12.00,6.25,120,9000
+08/02/2020,Hai Ba Trung,Minh Khai,Alley house,No,4,3,7,20,5.00,4.00,91.5,1830
+08/02/2020,Hai Ba Trung,Minh Khai,Alley house,Yes,2,3,7,40,11.43,3.50,44.13,1765.2
+08/02/2020,Nam Tu Liem,My Dinh 1,Townhouse,Yes,5,3,9,32,8.89,3.60,110.94,3550.08
+08/02/2020,Nam Tu Liem,My Dinh 1,Alley house,Yes,4,4,8,40,11.43,3.50,74.75,2990
+08/02/2020,Nam Tu Liem,My Dinh 2,Alley house,Yes,4,4,8,46,9.20,5.00,90.22,4150.12
+08/02/2020,Dong Da,Nga Tu So,Townhouse,No,4,3,8,26,8.67,3.00,126.92,3299.92
+08/02/2020,Cau Giay,Nghia Do,Alley house,Yes,5,3,7,30,7.94,3.78,110,3300
+08/02/2020,Cau Giay,Nghia Do,Alley house,No,5,6,11,70,10.00,7.00,128.57,8999.9
+08/02/2020,Ba Dinh,Ngoc Khanh,Alley house,Yes,4,4,8,40,11.43,3.50,96.25,3850
+08/02/2020,Tay Ho,Phu Thuong,Alley house,Yes,5,6,11,51,8.50,6.00,107.65,5490.15
+08/02/2020,Bac Tu Liem,Phuc Dien,Townhouse,Yes,3,4,8,40,11.43,3.50,87.5,3500
+08/02/2020,Hoan Kiem,Phuc Tan,Alley house,No,3,2,6,20,5.00,4.00,52.5,1050
+08/02/2020,Nam Tu Liem,Phuong Canh,Alley house,Yes,4,3,7,30,10.00,3.00,81.67,2450.1
+08/02/2020,Tay Ho,Quang An,Townhouse,Yes,3,5,9,50,10.00,5.00,148,7400
+08/02/2020,Dong Da,Quang Trung,Alley house,Yes,7,10,17,75,11.54,6.50,200,15000
+08/02/2020,Hai Ba Trung,Thanh Nhan,Alley house,Yes,3,3,7,72,11.08,6.50,94.44,6799.68
+08/02/2020,Thanh Xuan,Thanh Xuan Nam,Townhouse,Yes,10,8,19,65,10.00,6.50,315.38,20499.7
+08/02/2020,Thanh Xuan,Thuong Dinh,Alley house,Yes,5,4,8,35,10.00,3.50,105.71,3699.85
+08/02/2020,Thanh Xuan,Thuong Dinh,Alley house,Yes,4,4,8,36,10.29,3.50,93.06,3350.16
+08/02/2020,Bac Tu Liem,Thuy Phuong,Alley house,Yes,3,3,7,40,10.90,3.67,62.5,2500
+08/02/2020,Long Bien,Viet Hung,Alley house,Yes,5,4,8,60,9.23,6.50,99.17,5950.2
+08/02/2020,Ba Dinh,Vinh Phuc,Alley house,Yes,4,3,7,32,9.14,3.50,89.06,2849.92
+08/02/2020,Ba Dinh,Vinh Phuc,Alley house,No,5,3,7,33,9.43,3.50,71.21,2349.93
+08/02/2020,Ha Dong,Yen Nghia,Alley house,No,4,2,6,72,10.00,7.20,21.04,1514.88
+08/02/2020,Tay Ho,Yen Phu,Terraced house,Yes,5,3,10,45,9.18,4.90,144.44,6499.8
+08/02/2020,Hoang Mai,Yen So,Alley house,No,4,3,7,47,9.40,5.00,56.38,2649.86
+08/02/2020,Ha Dong,Yet Kieu,Townhouse,Yes,3,3,7,30,7.87,3.81,103.33,3099.9
+08/03/2020,Hai Ba Trung,Bach Khoa,Alley house,Yes,5,4,8,33,9.43,3.50,87.88,2900.04
+08/03/2020,Dong Da,Cat Linh,Alley house,No,4,3,7,22,5.00,4.40,88.64,1950.08
+08/03/2020,Hoang Mai,Dai Kim,Alley house,No,4,4,8,50,10.00,5.00,60,3000
+08/03/2020,Nam Tu Liem,Dai Mo,Townhouse,Yes,4,6,11,45,9.00,5.00,106.67,4800.15
+08/03/2020,Hoang Mai,Dinh Cong,Alley house,No,5,4,8,36,12.00,3.00,76.39,2750.04
+08/03/2020,Hoang Mai,Dinh Cong,Townhouse,Yes,5,5,11,54,12.56,4.30,101.85,5499.9
+08/03/2020,Long Bien,Giang Bien,Alley house,Yes,2,2,6,54,10.80,5.00,42.59,2299.86
+08/03/2020,Thanh Xuan,Ha Dinh,Alley house,No,5,3,7,40,11.59,3.45,96.25,3850
+08/03/2020,Dong Da,Kham Thien,Alley house,No,4,2,6,24,5.85,4.10,95.83,2299.92
+08/03/2020,Thanh Xuan,Khuong Trung,Alley house,Yes,5,4,8,43,8.05,5.34,165.12,7100.16
+08/03/2020,Thanh Xuan,Khuong Trung,Alley house,No,3,3,7,50,10.00,5.00,73,3650
+08/03/2020,Thanh Xuan,Kim Giang,Alley house,No,5,5,10,38,10.67,3.56,92.11,3500.18
+08/03/2020,Thanh Xuan,Kim Giang,Alley house,Yes,4,6,11,45,7.94,5.67,62.22,2799.9
+08/03/2020,Thanh Xuan,Kim Giang,Alley house,Yes,4,4,8,60,9.68,6.20,63.33,3799.8
+08/03/2020,Dong Da,Kim Lien,Alley house,Yes,5,4,8,35,10.00,3.50,108.57,3799.95
+08/03/2020,Ha Dong,La Khe,Alley house,Yes,4,3,7,36,10.88,3.31,66.67,2400.12
+08/03/2020,Ha Dong,La Khe,Alley house,No,5,4,8,43,8.60,5.00,89.53,3849.79
+08/03/2020,Hoang Mai,Linh Nam,Alley house,Yes,3,2,6,27,8.71,3.10,72.96,1969.92
+08/03/2020,Cau Giay,Mai Dich,Alley house,Yes,5,3,7,35,9.72,3.60,91.43,3200.05
+08/03/2020,Cau Giay,Mai Dich,Townhouse,Yes,7,8,16,55,11.00,5.00,236.36,12999.8
+08/03/2020,Hai Ba Trung,Minh Khai,Alley house,Yes,3,4,8,63,9.69,6.50,5.63,354.69
+08/03/2020,Ha Dong,Mo Lao,Alley house,No,4,3,7,33,9.62,3.43,83.33,2749.89
+08/03/2020,Nam Tu Liem,My Dinh 1,Alley house,Yes,4,3,7,30,10.00,3.00,83.33,2499.9
+08/03/2020,Nam Tu Liem,My Dinh 1,Townhouse,Yes,5,4,10,35,9.46,3.70,85.71,2999.85
+08/03/2020,Dong Da,Nam Dong,Villa,Yes,4,4,11,100,13.54,7.38,162,16200
+08/03/2020,Cau Giay,Nghia Do,Townhouse,Yes,5,4,10,42,8.40,5.00,104.76,4399.92
+08/03/2020,Cau Giay,Nghia Do,Alley house,Yes,5,6,11,45,9.00,5.00,111.11,4999.95
+08/03/2020,Thanh Xuan,Nhan Chinh,Alley house,Yes,2,2,6,33,9.43,3.50,74.24,2449.92
+08/03/2020,Thanh Xuan,Nhan Chinh,Alley house,Yes,5,5,10,35,9.54,3.67,85.71,2999.85
+08/03/2020,Thanh Xuan,Nhan Chinh,Alley house,Yes,5,4,8,40,12.05,3.32,112.5,4500
+08/03/2020,Ha Dong,Phu La,Terraced house,Yes,4,6,12,91,11.38,8.00,69.01,6279.91
+08/03/2020,Thanh Xuan,Phuong Liet,Alley house,Yes,5,4,8,50,10.00,5.00,124,6200
+08/03/2020,Tay Ho,Quang An,Alley house,Yes,4,3,7,30,8.11,3.70,80,2400
+08/03/2020,Ha Dong,Quang Trung,Alley house,Yes,5,3,7,33,9.43,3.50,66.67,2200.11
+08/03/2020,Hai Ba Trung,Quynh Loi,Alley house,Yes,4,4,8,35,8.86,3.95,85.71,2999.85
+08/03/2020,Thanh Tri,Ta Thanh Oai,Alley house,Yes,5,5,10,40,11.43,3.50,45,1800
+08/03/2020,Hoang Mai,Tan Mai,Alley house,Yes,4,2,6,28,9.33,3.00,85.36,2390.08
+08/03/2020,Hoang Mai,Thanh Tri,Alley house,Yes,5,3,7,32,9.14,3.50,67.19,2150.08
+08/03/2020,Dong Da,Thinh Quang,Alley house,Yes,4,3,7,40,11.43,3.50,95,3800
+08/03/2020,Dong Da,Thinh Quang,Alley house,Yes,5,6,11,54,10.80,5.00,87.04,4700.16
+08/03/2020,Thanh Xuan,Thuong Dinh,Alley house,No,3,2,6,64,9.85,6.50,67.97,4350.08
+08/03/2020,Cau Giay,Trung Hoa,Alley house,Yes,5,6,11,35,10.00,3.50,117.14,4099.9
+08/03/2020,Nam Tu Liem,Trung Van,Alley house,Yes,1,1,5,45,9.00,5.00,71.11,3199.95
+08/03/2020,Ha Dong,Van Quan,Alley house,Yes,5,3,7,40,10.96,3.65,71.25,2850
+08/03/2020,Ba Dinh,Vinh Phuc,Alley house,Yes,5,3,7,39,10.40,3.75,76.92,2999.88
+08/03/2020,Ba Dinh,Vinh Phuc,Alley house,Yes,4,4,8,40,11.43,3.50,75,3000
+08/03/2020,Hai Ba Trung,Vinh Tuy,Alley house,No,3,4,8,68,10.46,6.50,100,6800
+08/03/2020,Tay Ho,Xuan La,Alley house,Yes,5,3,7,30,10.00,3.00,158.33,4749.9
+08/03/2020,Ha Dong,Yet Kieu,Townhouse,Yes,9,9,19,52,10.40,5.00,125,6500
+08/04/2020,Hai Ba Trung,Bach Khoa,Alley house,Yes,3,3,7,45,9.00,5.00,51.11,2299.95
+08/04/2020,Hai Ba Trung,Cau Den,Alley house,Yes,5,4,8,45,9.00,5.00,128.89,5800.05
+08/04/2020,Nam Tu Liem,Cau Dien,Terraced house,Yes,5,4,10,113,12.15,9.30,247.79,27999.931
+08/04/2020,Bac Tu Liem,Co Nhue 1,Alley house,Yes,5,4,8,40,11.43,3.50,70,2800
+08/04/2020,Bac Tu Liem,Co Nhue 1,Townhouse,Yes,5,3,9,45,9.00,5.00,64.44,2899.8
+08/04/2020,Ba Dinh,Cong Vi,Alley house,No,5,3,7,25,6.25,4.00,96,2400
+08/04/2020,Ba Dinh,Cong Vi,Alley house,Yes,8,7,12,55,11.00,5.00,309.09,16999.95
+08/04/2020,Cau Giay,Dich Vong Hau,Alley house,No,4,5,10,45,9.00,5.00,111.11,4999.95
+08/04/2020,Long Bien,Duc Giang,Townhouse,Yes,3,4,8,196,29.70,6.60,80.61,15799.56
+08/04/2020,Long Bien,Gia Thuy,Townhouse,Yes,2,3,7,70,11.20,6.25,102.86,7200.2
+08/04/2020,Ha Dong,Ha Cau,Alley house,Yes,4,3,7,33,9.43,3.50,65.15,2149.95
+08/04/2020,Ha Dong,Ha Cau,Alley house,Yes,4,4,8,45,9.00,5.00,62.22,2799.9
+08/04/2020,Ha Dong,Ha Cau,Townhouse,Yes,5,4,10,50,8.03,6.23,92,4600
+08/04/2020,Hoang Mai,Hoang Liet,Townhouse,Yes,5,4,10,44,8.15,5.40,89.77,3949.88
+08/04/2020,Hoang Mai,Hoang Van Thu,Alley house,Yes,4,3,7,20,4.65,4.30,97.5,1950
+08/04/2020,Hoang Mai,Hoang Van Thu,Townhouse,Yes,3,3,7,21,5.25,4.00,100,2100
+08/04/2020,Hoang Mai,Hoang Van Thu,Alley house,Yes,5,3,7,25,6.76,3.70,96,2400
+08/04/2020,Hoang Mai,Hoang Van Thu,Alley house,Yes,4,3,7,27,9.00,3.00,72.22,1949.94
+08/04/2020,Hoang Mai,Hoang Van Thu,Alley house,Yes,4,3,7,28,9.33,3.00,70,1960
+08/04/2020,Hoang Mai,Hoang Van Thu,Townhouse,Yes,5,3,9,30,10.00,3.00,118.33,3549.9
+08/04/2020,Hoang Mai,Hoang Van Thu,Alley house,Yes,5,3,7,32,9.14,3.50,89.06,2849.92
+08/04/2020,Hoang Mai,Hoang Van Thu,Alley house,Yes,5,3,7,36,11.61,3.10,76.39,2750.04
+08/04/2020,Hoang Mai,Hoang Van Thu,Townhouse,Yes,5,9,15,77,11.85,6.50,2.08,160.16
+08/04/2020,Dong Da,Kham Thien,Alley house,Yes,3,2,6,58,8.92,6.50,5.52,320.16
+08/04/2020,Thanh Xuan,Khuong Trung,Alley house,No,4,4,8,38,10.86,3.50,68.42,2599.96
+08/04/2020,Ha Dong,Kien Hung,Villa,Yes,3,5,12,200,25.00,8.00,47.25,9450
+08/04/2020,Dong Da,Kim Lien,Alley house,No,3,3,7,28,9.33,3.00,100,2800
+08/04/2020,Ba Dinh,Kim Ma,Alley house,Yes,3,2,6,30,10.00,3.00,60,1800
+08/04/2020,Ba Dinh,Kim Ma,Alley house,Yes,4,4,8,32,9.14,3.50,84.38,2700.16
+08/04/2020,Ha Dong,La Khe,Alley house,Yes,5,3,7,34,9.71,3.50,63.24,2150.16
+08/04/2020,Ha Dong,La Khe,Alley house,Yes,4,3,7,36,10.29,3.50,59.72,2149.92
+08/04/2020,Ha Dong,La Khe,Alley house,Yes,3,2,6,37,11.21,3.30,53.51,1979.87
+08/04/2020,Ha Dong,La Khe,Townhouse,Yes,5,5,11,90,12.00,7.50,108.89,9800.1
+08/04/2020,Dong Da,Lang Ha,Alley house,Yes,5,3,7,35,10.14,3.45,114.29,4000.15
+08/04/2020,Dong Da,Lang Ha,Townhouse,Yes,5,4,10,42,8.17,5.14,361.9,15199.8
+08/04/2020,Dong Da,Lang Ha,Alley house,Yes,5,4,8,54,10.80,5.00,200,10800
+08/04/2020,Dong Da,Lang Thuong,Alley house,Yes,5,4,8,44,8.80,5.00,163.64,7200.16
+08/04/2020,Ba Dinh,Lieu Giai,Alley house,Yes,5,6,11,47,9.40,5.00,101.06,4749.82
+08/04/2020,Long Bien,Long Bien,Alley house,Yes,5,5,10,40,11.94,3.35,68.75,2750
+08/04/2020,Cau Giay,Mai Dich,Alley house,Yes,5,4,8,34,9.71,3.50,120.59,4100.06
+08/04/2020,Hoang Mai,Mai Dong,Alley house,Yes,5,4,8,31,8.86,3.50,88.71,2750.01
+08/04/2020,Hoang Mai,Mai Dong,Alley house,Yes,4,4,8,34,9.71,3.50,120.59,4100.06
+08/04/2020,Nam Tu Liem,My Dinh 2,Townhouse,Yes,5,5,11,51,10.20,5.00,76.47,3899.97
+08/04/2020,Dong Da,Nam Dong,Alley house,Yes,5,4,8,31,8.66,3.58,112.9,3499.9
+08/04/2020,Dong Da,Nga Tu So,Alley house,Yes,5,4,8,41,8.20,5.00,207.32,8500.12
+08/04/2020,Dong Da,Nga Tu So,Townhouse,Yes,4,4,9,60,8.82,6.80,310,18600
+08/04/2020,Cau Giay,Nghia Do,Alley house,No,5,5,10,45,8.57,5.25,95.56,4300.2
+08/04/2020,Cau Giay,Nghia Tan,Townhouse,Yes,5,4,10,40,11.24,3.56,187.5,7500
+08/04/2020,Ba Dinh,Ngoc Ha,Alley house,No,5,5,10,33,8.85,3.73,136.36,4499.88
+08/04/2020,Long Bien,Ngoc Thuy,Alley house,No,5,4,8,37,10.57,3.50,78.38,2900.06
+08/04/2020,Thanh Xuan,Nhan Chinh,Alley house,Yes,5,4,8,36,10.29,3.50,80.56,2900.16
+08/04/2020,Thanh Xuan,Nhan Chinh,Alley house,No,4,3,7,46,9.20,5.00,81.52,3749.92
+08/04/2020,Dong Da,O Cho Dua,Alley house,Yes,4,2,6,30,10.00,3.00,86.67,2600.1
+08/04/2020,Dong Da,O Cho Dua,Alley house,Yes,4,4,8,30,10.00,3.00,50,1500
+08/04/2020,Dong Da,O Cho Dua,Townhouse,Yes,6,6,13,60,9.23,6.50,483.33,28999.8
+08/04/2020,Bac Tu Liem,Phu Dien,Alley house,Yes,4,4,8,36,10.29,3.50,65.28,2350.08
+08/04/2020,Nam Tu Liem,Phu Do,Townhouse,Yes,5,4,10,54,10.80,5.00,101.85,5499.9
+08/04/2020,Ha Dong,Phu La,Townhouse,Yes,5,4,10,40,11.43,3.50,50,2000
+08/04/2020,Ha Dong,Phu La,Alley house,Yes,5,4,8,50,10.00,5.00,108,5400
+08/04/2020,Ha Dong,Phu La,Terraced house,Yes,5,6,13,83,11.07,7.50,104.43,8667.69
+08/04/2020,Bac Tu Liem,Phuc Dien,Alley house,Yes,4,5,10,42,8.40,5.00,67.86,2850.12
+08/04/2020,Nam Tu Liem,Phuong Canh,Alley house,Yes,5,3,7,32,9.14,3.50,51.56,1649.92
+08/04/2020,Nam Tu Liem,Phuong Canh,Alley house,Yes,2,2,6,34,9.71,3.50,45.82,1557.88
+08/04/2020,Thanh Xuan,Phuong Liet,Alley house,Yes,5,5,10,48,9.60,5.00,114.58,5499.84
+08/04/2020,Cau Giay,Quan Hoa,Alley house,Yes,5,4,8,45,9.00,5.00,102.22,4599.9
+08/04/2020,Dong Da,Quoc Tu Giam,Alley house,No,2,3,7,31,8.86,3.50,74.19,2299.89
+08/04/2020,Dong Da,Quoc Tu Giam,Townhouse,Yes,5,8,14,75,11.54,6.50,393.33,29499.75
+08/04/2020,Hai Ba Trung,Quynh Mai,Alley house,Yes,5,4,8,40,11.14,3.59,162.25,6490
+08/04/2020,Thanh Tri,Ta Thanh Oai,Alley house,Yes,3,2,6,42,7.50,5.60,29.76,1249.92
+08/04/2020,Thanh Tri,Tam Hiep,Alley house,Yes,3,3,7,36,10.29,3.50,55.22,1987.92
+08/04/2020,Thanh Tri,Tam Hiep,Alley house,Yes,4,4,8,43,8.22,5.23,50,2150
+08/04/2020,Hoang Mai,Tan Mai,Alley house,Yes,4,3,7,48,6.93,6.93,68.75,3300
+08/04/2020,Hoang Mai,Tan Mai,Townhouse,Yes,5,6,12,60,9.23,6.50,125,7500
+08/04/2020,Nam Tu Liem,Tay Mo,Alley house,Yes,4,3,7,32,8.89,3.60,60.94,1950.08
+08/04/2020,Long Bien,Thach Ban,Alley house,Yes,5,5,10,45,9.00,5.00,91.11,4099.95
+08/04/2020,Hai Ba Trung,Thanh Luong,Alley house,Yes,4,3,7,35,10.06,3.48,68.57,2399.95
+08/04/2020,Thanh Xuan,Thuong Dinh,Alley house,Yes,5,4,8,62,9.54,6.50,125.81,7800.22
+08/04/2020,Dong Da,Trung Tu,Alley house,Yes,5,5,10,120,13.33,9.00,125,15000
+08/04/2020,Nam Tu Liem,Trung Van,Alley house,Yes,1,1,5,45,7.76,5.80,71.11,3199.95
+08/04/2020,Hoang Mai,Tuong Mai,Alley house,Yes,5,4,8,45,9.00,5.00,64.44,2899.8
+08/04/2020,Hoang Mai,Tuong Mai,Alley house,Yes,4,4,8,48,9.60,5.00,62.5,3000
+08/04/2020,Hoang Mai,Tuong Mai,Townhouse,Yes,5,3,9,55,11.00,5.00,51.82,2850.1
+08/04/2020,Hoang Mai,Tuong Mai,Alley house,No,3,2,6,65,10.00,6.50,52.31,3400.15
+08/04/2020,Ha Dong,Van Phuc,Alley house,Yes,5,4,8,30,10.00,3.00,82.67,2480.1
+08/04/2020,Ha Dong,Van Phuc,Alley house,No,5,3,7,35,10.00,3.50,71.43,2500.05
+08/04/2020,Ha Dong,Van Quan,Townhouse,Yes,2,2,5,45,9.00,5.00,122.22,5499.9
+08/04/2020,Ha Dong,Van Quan,Alley house,No,4,4,8,60,9.23,6.50,83.33,4999.8
+08/04/2020,Ha Dong,Van Quan,Alley house,Yes,5,6,11,65,10.00,6.50,75.38,4899.7
+08/04/2020,Ha Dong,Van Quan,Townhouse,Yes,4,4,9,68,10.71,6.35,76.47,5199.96
+08/04/2020,Hoang Mai,Vinh Hung,Alley house,Yes,2,2,6,30,8.33,3.60,28.33,849.9
+08/04/2020,Ba Dinh,Vinh Phuc,Alley house,Yes,4,2,6,35,9.54,3.67,80.86,2830.1
+08/04/2020,Bac Tu Liem,Xuan Dinh,Alley house,Yes,2,3,7,81,11.25,7.20,39.51,3200.31
+08/05/2020,Long Bien,Bo De,Alley house,No,5,4,8,52,10.40,5.00,93.27,4850.04
+08/05/2020,Bac Tu Liem,Co Nhue 1,Alley house,Yes,2,2,6,57,8.77,6.50,83.33,4749.81
+08/05/2020,Cau Giay,Dich Vong,Alley house,Yes,4,4,8,42,7.45,5.64,88.1,3700.2
+08/05/2020,Hoang Mai,Dinh Cong,Alley house,Yes,5,4,8,30,10.00,3.00,83.33,2499.9
+08/05/2020,Hai Ba Trung,Dong Mac,Townhouse,Yes,6,5,12,32,9.14,3.50,184.38,5900.16
+08/05/2020,Ha Dong,Van Quan,Alley house,Yes,4,3,7,41,7.88,5.20,64.63,2649.83
+08/05/2020,Cau Giay,Yen Hoa,Alley house,Yes,4,3,7,43,8.60,5.00,86.05,3700.15
